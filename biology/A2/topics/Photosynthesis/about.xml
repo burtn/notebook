@@ -1,9 +1,4 @@
-<about>
-	<topic>Photosynthesis</topic>
-	<description>
-		Photosynthesis is the method that plants use to convert light energy into chemical energy. It takes place in the chloroplasts of mesophyll and guard cells of 
-		green leaves.
-	</description>
+<about topic="Photosynthesis" description="Photosynthesis is the method that plants use to convert light energy into chemical energy. It takes place in the chloroplasts of mesophyll and guard cells of green leaves."/>
 	<keywords>
 		<word>photosynthesis</word>
 		<word>light-dependant</word>
@@ -18,5 +13,10 @@
 		<word>accessory pigments</word>
 		<word>photophosphorylation</word>
 	</keywords>
-	<skip file="Photosynthesis_Summary.md"></skip>
+	<files>
+		<file></file>
+		<file></file>
+		<file></file>
+		<file></file>
+	</file>	
 </about>

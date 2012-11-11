@@ -1,10 +1,4 @@
-<about>
-	<topic>Energy and ATP</topic>
-	<description>
-		The process of respiration makes use of the release of energy in small steps instead of releasing large amounts of energy all at once. To allow this glucose 
-		is broken down into an number of intermediary compounds with the help of enzymes with the energy released at each stage being a small and controlled amount, 
-		it is these reactions which provide the energy to produce ATP.
-	</descroption>
+<about topic="Energy and ATP" description="The process of respiration makes use of the release of energy in small steps instead of releasing large amounts of energy all at once. To allow this glucose is broken down into an number of intermediary compounds with the help of enzymes with the energy released at each stage being a small and controlled amount, it is these reactions which provide the energy to produce ATP."/>
 	<keywords>
 		<word>ATP</word>
 		<word>activation energy</word>
