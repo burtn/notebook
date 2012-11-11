@@ -19,6 +19,12 @@
 		<word>concentration gradient</word>
 	</keywords>
 	<files>
-		<file></file>
+		<file path="Glycolysis.md"/>
+		<file path="Link_Reaction.md"/>
+		<file path="Krebs_Cycle.md"/>
+		<file path="Electron_Transport.md"/>
+		<file path="Anaerobic_Respiration.md"/>
+		<file path="Budget_for_Energy.md"/>
+		<file path="Respiratory_Substrates.md"/>
 	</files>
 </about>

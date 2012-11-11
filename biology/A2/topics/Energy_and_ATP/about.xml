@@ -8,4 +8,10 @@
 		<word>substrate</word>
 		<word>glucose</word>
 	</keywords>
+	<files>
+		<file path="ATP_Structure.md"/>
+		<file path="ATP_Importance.md"/>
+		<file path="ATP_Roles.md"/>
+		<file path="ATP_Uses.md"/>
+	</files>
 </about>

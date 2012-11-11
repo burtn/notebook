@@ -14,9 +14,11 @@
 		<word>photophosphorylation</word>
 	</keywords>
 	<files>
-		<file></file>
-		<file></file>
-		<file></file>
-		<file></file>
+		<file path="Pigments_in_photosynthesis.md"/>
+		<file path="Spectra.md"/>
+		<file path="Use_the_light_luke.md"/>
+		<file path="Phase_1_-_Light_Dependant.md"/>
+		<file path="Phase_2_-_Light_Independant.md"/>
+		<file path="Synthesis.md"/>
 	</file>	
 </about>
