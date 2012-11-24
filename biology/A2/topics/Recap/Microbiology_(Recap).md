@@ -1,0 +1,12 @@
+-Bacteria can be classified with two methods, their shape, thear reaction to the gram staining process.
+- In optimum conditions (which vary from bacteria to bacteria) bacteria can devide every 20 minutes.
+- Bacteria are cultured in a sterile environment using sterile techniques.
+- Bacteria can be counted with a viable count (living cells) or a total count (living and dead).
+- To get a sample of bacteria that can be counted a serial dilution must be used.
+
+- Bacteria and fungi can be cultivated on an industrial scale.
+- One example of this is the production of penicillin.
+- Penicillin is produced by batch fermentation.
+- Penicillin is a secondary metabolite.
+- Secondary metabolites are only produced when the organisms is 'stressed' e.g when nutrients become depleted.
+- On the sigmoid growth curve for bacteria this would be just as the log phase transitions into the stationary phase.
