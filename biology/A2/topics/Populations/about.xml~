@@ -1,0 +1,20 @@
+<about topic="Populations" description=""/>
+	<keywords>
+		<word>immigrate</word>
+		<word>emigrate</word>
+		<word>lag phase</word>
+		<word>exponential phase</word>
+		<word>stationary phase</word>
+		<word>death phase</word>
+		<word>density dependant</word>
+		<word>density independant</word>
+		<word>pesticides</word>
+		<word>resistance</word>
+	</keywords>
+	<files>
+		<file path="Controlling_Population_Growth.md"/>
+		<file path="Competition.md"/>
+		<file path="Fighting_Pests.md"/>
+		<file path="ATP_Uses.md"/>
+	</files>
+</about>
