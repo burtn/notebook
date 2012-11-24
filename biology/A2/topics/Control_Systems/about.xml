@@ -11,12 +11,13 @@
 		<word>ADH</word>
 		<word>pituitary gland</word>
 		<word>metabolic water</word>
+		<word>ultrafiltration</word>
+		<word>Bowman's capsule</word>
+		<word>basement membrane</word>
 	</keywords>
 	<files>
-		<file path="Homeostasis_(Recap).md"/>
-		<file path="Microbiology_(Recap).md"/>
-		<file path="Photosynthesis_(Recap).md"/>
-		<file path="Respiration_(Recap).md"/>
-		<file path="Populations_(Recap).md"/>
+		<file path="Homeostasis.md"/>
+		<file path="The_Kidney.md"/>
+		<file path="Ultrafiltration.md"/>
 	</files>
 </about>

@@ -1,4 +1,4 @@
-THe kidney performs two important functions. The first is the removal of nitrogenous waste from the body. There are three forms of nitrogenous waste. Urea which comes from amino acids, Uric acid which is from Nucleic acids and Creatinine from Creatine phosphate which is an energy store in muscles.
+The kidney performs two important functions. The first is the removal of nitrogenous waste from the body. There are three forms of nitrogenous waste. Urea which comes from amino acids, Uric acid which is from Nucleic acids and Creatinine from Creatine phosphate which is an energy store in muscles.
 
 In humans it is urea that is produced. This is because the amonia which is first produced is highly toxic so it is converted to urea whch is less toxic and also soluable in water so we can remove it in our urine. If we have too much protein in our diet the excess has to be broken down as we cannot store them. This happens in the liver where the amino acids which make up proteins are deamminated - removing their amine group. This forms ammonia which is quickly converted to urea so it can be removed.
 

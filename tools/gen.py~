@@ -109,7 +109,6 @@ def main():
     				filelist.append(directory + xml['path'].strip())
     			except:
     				abort("XML Error")
-	#tmp.write(config)	
 	tmp.write('<hr>')
 	tmp.write('<h1>' + topic + '</h1>')
 	if keywords:
