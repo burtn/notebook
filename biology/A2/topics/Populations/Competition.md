@@ -1,5 +1,0 @@
-In an environment plants and animals often have to struggle to survive. For plants the competition is often for space and nutrients (including water) as well as light. Animals also compete for space along with food and shelter. Often animals are also in competition for mates. 
-
-There are two different types of competition. Interspecific competition and Intraspecific competition. The later is competition between individuals which are members of the same species. Such competition is dependant on density as when the population increases more members of the population do not survive. This is important because most organisms produce far more offspring than their habitat can support. If an organism is better adapted then it is more likely to win the competition and so survive.
-
-Interspecific competion on the other hand occurs between members of a different species. Collectively each species occupies a given niche, this is the role that it carries out in the environment as well as the space it takes up. Two species can not occupy the same niche, one has to win.
