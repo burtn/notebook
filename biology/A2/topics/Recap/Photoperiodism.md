@@ -1,0 +1,6 @@
+- Plant responses are slower than animal responses.
+- Plant responses only involve hormones.
+- Photoperiodism is the reponse of plants to the length of daylight and darkness.
+- Photoperiodism involves a light-sensitive pigment known as phytochrome.
+- Phytochrome exists in two forms.
+- The relative amount of each form of phytochrome in each form is used by the plant to measure the day length.

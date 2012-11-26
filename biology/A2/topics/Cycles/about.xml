@@ -1,0 +1,16 @@
+<about topic="Cycles" description="Nutrients in an ecosystem are recycled through two important cycles, the Nitrogen cycle and the Carbon cycle."/>
+	<keywords>
+		<word>Nitrogen</word>
+		<word>Carbon</word>
+		<word>saprobionts</word>
+		<word>fossil rules</word>
+		<word>nucleic acid</word>
+		<word>putrifaction</word>
+		<word>nitrification</word>
+		<word>Denitrification</word>
+	</keywords>
+	<files>
+		<file path="The_Carbon_Cycle.md"/>
+		<file path="The_Nitrogen_Cycle.md"/>
+	</files>
+</about>

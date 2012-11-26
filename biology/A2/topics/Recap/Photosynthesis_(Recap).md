@@ -1,0 +1,17 @@
+- Photosynthesis is the process by which plants synthesise organic molecules from carbon dioxide and water using energy provided by photons.
+- Photosynthesis takes place in the chloroplast of the plant cell.
+- In the chloroplasts are photosystems.
+- These consist of Photosynthetic pigments grouped together.
+- These are known as antenna complexes.
+- These antenna complexes funnel photons of light to the reaction centre.
+- The reaction centre consists of a molecule of chlorophyll a
+- The absorbption of the photons energy by the reaction centre causes two of chlorophyll a's electrons to become excited and move to a higher energy state.
+- These electrons are then passed to a series of electron acceptors
+- This results in the formation of ATP by photophosphorlyation (since light is used)
+- This is known as the light dependant phase of photosynthesis.
+- It takes place entirely in the chloroplasts thylakoid membrane.
+- The products of this (ATP and NADP) are used in the light independant phase.
+- The light independant phase takes place in the stroma.
+- As part of this carbon dioxide is fixed to convert it into carbohydrate using the products of the light dependant phase.
+- The sysnthesis of ATP occurs in both cyclic and non-cyclic photophosphorylation.
+- Phptolysis takes place to replace lost electrons in chlorophyll.

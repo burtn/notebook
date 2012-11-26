@@ -1,0 +1,15 @@
+- Homeostasis is the maintaining of a constant internal environment.
+- Homeostatis uses negative feedback to produce an opposing change.
+- The removal of metabolic waste products from the body is excretion.
+- Different organisms produced different excretory products.
+- The kidneys are the primary organism of the urinary system.
+- Kidneys are made up of a number of nephrons.
+- Within the kidneys small molecules pass are filtered from the blood through ultrafiltration.
+- ultrafiltration takes place in the glomerulus.
+- The product of ultrafiltration is glomerular filtrate.
+- glomerular filtrate passes through the nephron and as it does so is converted to urine.
+- Throughout this process substances which are needed are reabsorpbed through selective reabsorption.
+- The water potential of the blood is monitored by Osmoregulators.
+- The osmoregulators are located in the hypothalamus.
+- The reabsorption of water is controlled by the hormone ADH.
+- ADH is secreted from the pituitary gland.

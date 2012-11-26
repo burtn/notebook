@@ -1,0 +1,26 @@
+<about topic="Control Systems" description="Control systems manage the regluate the processes that occur in living organisms. They work through negative feedback, where a series of changes occur which restore a substance to its normal level and involve a number of organs such as the kidneys."/>
+	<keywords>
+		<word>homeostasis</word>
+		<word>negative feedback</word>
+		<word>thermoregulation</word>
+		<word>osmoregulation</word>
+		<word>nitrogenous</word>
+		<word>urea</word>
+		<word>ultrafiltration</word>
+		<word>selective reabsorption</word>
+		<word>ADH</word>
+		<word>pituitary gland</word>
+		<word>metabolic water</word>
+		<word>ultrafiltration</word>
+		<word>Bowman's capsule</word>
+		<word>basement membrane</word>
+	</keywords>
+	<files>
+		<file path="Homeostasis.md"/>
+		<file path="The_Kidney.md"/>
+		<file path="Ultrafiltration.md"/>
+		<file path="Reabsorption.md"/>
+		<file path="Osmoregulation.md"/>
+		<file path="Adaptations_for_Environments.md"/>
+	</files>
+</about>

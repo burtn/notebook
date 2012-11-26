@@ -1,0 +1,28 @@
+<about topic="The Nervous System" description="The nervous system is the system which detects changes within the body and its environment and processes this information to initiate a response."/>
+	<keywords>
+		<word>stimuli</word>
+		<word>CNS</word>
+		<word>effector</word>
+		<word>receptor</word>
+		<word>reflex</word>
+		<word>hydra</word>
+		<word>sensory</word>
+		<word>motor</word>
+		<word>relay</word>
+		<word>action potential</word>
+		<word>depolarised</word>
+		<word>synapse</word>
+		<word>photoperiodism</word>
+		<word>phytochrome</word>
+	</keywords>
+	<files>
+		<file path="Reflex.md"/>
+		<file path="Nerve_nets.md"/>
+		<file path="Neurones.md"/>
+		<file path="Impulse.md"/>
+		<file path="Action_potential.md"/>
+		<file path="Synapses.md"/>
+		<file path="On_drugs.md"/>
+		<file path="Photoperiodism.md"/>
+	</files>
+</about>

@@ -1,0 +1,9 @@
+- The nervous system is what controls an organisms actions.
+- The nervous system detects stimuli through receptors.
+- From the information received from receptors the system starts responses whcih are carried out by effectors.
+- Receptors, neurones (motor, sensory and relay) and effectors form a reflex arc.
+- Nerve transmission is caused by an action potential.
+- This action potential is produced by changes in the permeability of the axon membrane to sodium ions.
+- Both the diameter of the axon and the presence of the myelin sheath affect impulse tranmission speed.
+- Synaptic transmission is affected by a number of drugs.
+- The transfer of information between neurons happens through the secretion of a neurotransmitter across synapses.
