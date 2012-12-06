@@ -16,6 +16,7 @@
 		<word>phytochrome</word>
 	</keywords>
 	<files>
+		<file path="Components.md" />
 		<file path="Reflex.md"/>
 		<file path="Nerve_nets.md"/>
 		<file path="Neurones.md"/>
