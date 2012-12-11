@@ -1,0 +1,17 @@
+<about topic="Photoperiodism" description="Photoperiodism is the response of an orgamism to seasonal changes in day length, it occurs in both plants an animals but only plants are covered here." />
+		<word>photoperiodism</word>
+		<word>photoperiod</word>
+		<word>phytochrome</word>
+		<word>Pr</word>
+		<word>Pfr</word>
+		<word>short day</word>
+		<word>long day</word>
+		<word>day neutral</word>
+	</keywords>
+	<files>
+		<file path="Intro.md"/>
+		<file path="Types.md"/>
+		<file path="Phytochrome.md"/>
+		<file path="photoperiodism.md"/>
+	</files>
+</about>
