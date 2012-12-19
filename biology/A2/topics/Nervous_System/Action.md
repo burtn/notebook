@@ -1,0 +1,1 @@
+The action potenatial is the change in the axon membranes potential difference that occurs when a nerve impulses is transmitted over that section of the membane. When a nervous impulse begins the resting potential of the membrane changes. Thise changes are caused by changes in the permiability of the membrane
