@@ -1,6 +1,6 @@
 - A populations size is increased by birth and imigration.
-- A populatons size is decreased by death and emigration.
-- A populatons maximum size is determined by both the carrying capacity of the environment and environmental resistance.
+- A populations size is decreased by death and emigration.
+- A populations maximum size is determined by both the carrying capacity of the environment and environmental resistance.
 - Population changes can be dependant or independant on density.
 - A given population follows a pattern of growth that if graphed gives an S-shape curve.
 - Pests can be controlled by either chemical or biological methods.
