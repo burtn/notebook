@@ -2,7 +2,7 @@
 - Homeostatis uses negative feedback to produce an opposing change.
 - The removal of metabolic waste products from the body is excretion.
 - Different organisms produced different excretory products.
-- The kidneys are the primary organism of the urinary system.
+- The kidneys are the primary organ of the urinary system.
 - Kidneys are made up of a number of nephrons.
 - Within the kidneys small molecules pass are filtered from the blood through ultrafiltration.
 - ultrafiltration takes place in the glomerulus.
