@@ -7,7 +7,7 @@ Generic nucleotide:
 - Pentose sugar 
 - Phosphate groups
 
-ATP (Adenine Tri-phosphate)
+ATP (Adenosine Tri-phosphate)
 
 - Adenine (Organic base)
 - Ribose (Pentose sugar) 
