@@ -13,7 +13,7 @@ The first of these anaerbic conditions is useful, it takes place in yeast to pro
 carbon dioxide. This process is a fermenation. After glycolysis the pyruvate produced is
 decarboxylated (producing carbon dioxide) into ethanal. NAD still accepts the hydrogen released
 during glycolysis it is then transferred to the enthanal which causes it to be reduced into ethanol
-- also known as alchohol.
+(also known as alchohol).
 
 The second aerobic condition produces lactic acid in muscle tissue. The second condition occurs when
 not enough oxygen can reach muscle cells, this prevents them from producing the ATP they need by
