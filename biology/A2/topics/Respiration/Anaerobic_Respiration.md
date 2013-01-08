@@ -1,4 +1,4 @@
-Anaeroic respiration is the the process of respiration that occurs in conditions where there is an
+Anaerobic respiration is the the process of respiration that occurs in conditions where there is an
 absence of oxygen. Because of the absence of oxygen only glycolysis can take place. Both the link
 reaction and the Krebs cycle can not be carried out this is because the reduced NAD and FAD cannot
 be oxidised again - this means that they cannot pick up more hydrogen. Because of this the amount of
