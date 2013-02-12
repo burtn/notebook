@@ -1,0 +1,21 @@
+What is the range of [$]\sin^{-1}(x)[/$]	[$]+ \frac{\pi}{2} \rightarrow - \frac{\pi}{2}[/$]
+What is the domain of&nbsp;[$]\sin^{-1}(x)[/$]	-1 &lt;= x &lt;= 1
+[$$]\sin^{-1}(x)[/$$] crosses the axis at {{c1::0}}?	The Origin
+What is the range of&nbsp;[$]\cos^{-1}(x)[/$] ?	[$]0 - \pi[/$]
+What is the domain of&nbsp;[$]\cos^{-1}(x)[/$]	-1 &lt;= x &lt;= 1
+[$]\cos^{-1}(x)[/$] crosses the y-axis at&nbsp;{{c1::[$]\frac{\pi}{2}[/$]}}	
+[$]\cos^{-1}(x)[/$] touches the x-axis at&nbsp;{{c1::1}}	
+[$]\cos^{-1}(x)[/$] {{c1::does not}} cross the x-axis	It touches at X = 1
+What is the range of&nbsp;[$]\tan^{-1}(x)[/$]?	+ \frac{\pi}{2} \rightarrow - \frac{\pi}{2}
+What is the domain of [$$]\tan^{-1}?[/$$]	[$]x \epsilon \mathbb{R}[/$]
+[$]\tan^{-1}[/$] crosses the x-axis at {{c1::the origin.}}	
+What is the chain rule?	[$$]\frac{\mathrm{d}y }{\mathrm{d}x} = \frac{\mathrm{d}y }{\mathrm{d}u} X \frac{\mathrm{d}u }{\mathrm{d}x}[/$$]
+When is the chain rule used?	For a function of a function e.g&nbsp;[$]f(g(x))[/$]
+When is the product rule used?	For a function times a function e.g.[$]&nbsp;f(x)g(x)[/$]
+What is the derivative of&nbsp;[$]ln(x)[/$]?	[$]\frac{1}{x}[/$]
+What is the product rule?	[$]U{V}' + V{U}'[/$]
+What is the differential of [$]ln(f(x))[/$]?	[$]\frac{{f}'(x)}{f(x)}[/$]
+What is the link between [$]\frac{dy}{dx}[/$] and&nbsp;[$]\frac{dx}{dy}[/$]	[$]\frac{dy}{dx}[/$]&nbsp; = [$]\frac{1}{\frac{dx}{dy}}[/$}
+What is the integral when the top differentiates to the bottom? i.e&nbsp;[$$]\frac{f(x)}{{f}'(x)}[/$$]	ln |&nbsp;[$]f(x)[/$] | [$]+ c[/$]
+Formula for volume of revolution around the x-axis?	[$]\pi\int y^{2} dx[/$]
+Formula for volume of revolution around the y-axis?	[$]\pi\int x^{2} dy[/$]

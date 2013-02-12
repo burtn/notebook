@@ -1,0 +1,206 @@
+Anaerobic respiration occurs in {{c1::absence of oxygen.}}	
+When no oxygen is present only {{c1::glycolysis}} can take place. (respiration)	
+Krebs and link can not take place in anerobic respiration becase NAD and FAD {{c1::cannot be oxidised again.}}	
+{{c1::2}}ATP molecules are produced by {{c2::glycolysis}}.	
+{{c1::2}}ATP molecules are produced by {{c2::the krebs cycle}} as a result of producing {{c3::3}}NADH and {{c4::1}}FADH2 molecules.	
+The electron transport chain prodcues {{c1::32}}ATP molecules.	
+The {{c3::link reaction}} produces {{c1::no}} ATP but 1{{c2::NADH}}	
+In the {{c3::electron transport chain}} {{c1::1}}NADH={{c2::3}}ATP	
+In the {{c3::elctron transport chain}} {{c1::1}}FADH2 = {{c2::2}}ATP	
+{{c3::Glyclysis}} produces net {{c1::2}}ATP from {{c2::4}}ATP	
+Total ATP from Respiration is {{c1::38}} per glucose	
+{{c1::Chemical energy}} is contained within food substances.	
+{{c1::Energy}} can be converted from one form to another.	
+Green plants can convert {{c1::light}} into {{c2::chemcial}} energy.	
+{{c1::All}} living organisms are able to convert {{c2::chemical}} energy to other energy forms.	
+<img src="http://upload.wikimedia.org/wikipedia/commons/1/10/ATP_chemical_structure.png" />	ATP
+<div>{{c1::Energy}} is required to combine {{c2::ADP and phosphate}} to form ATP and this is an {{c3::endergonic}}&nbsp;reaction</div>	
+<div>{{c1::30.6 KJ of Energy}} is released when ATP is broken down to {{c2::ADP and phosphate}} and this is an</div><div>{{c3::exergonic}} reaction.</div>	
+<div>Energy release from ATP is linked to energy-requiring reactions e.g. {{c1::active transport}},&nbsp;{{c2::</div><div>muscle&nbsp;</div><div>contraction</div><div>}}, {{c3::synthesis of organic chemicals}}</div>	
+{{c2::ATP}} is an energy {{c1::carrier}} in cells.	
+ATP is sometimes referred to as the {{c1::'Universal Energy Currency'}}	
+{{c1::ATP}} is said to be {{c2::'universal'}} because nearly all {{c3::metabolic reactions}} use it as the {{c4::energy source}}	
+Define Proton	A stable subatomic particle occurring in all atomic nuclei, with a positive electric charge equal in magnitude to that of an electron
+Define electron	A stable subatomic particle with a charge of negative electricity, found in all atoms and acting as the primary carrier of electricity
+{{c4::A concentration gradient}} is produced across the {{c1::internal}} membranes of {{c2::mitochondria}} and {{c3::chloroplasts}}.	
+<div>In mitochondria the {{c1::internal membrane}} separates the {{c2::intermembrane space}} from the&nbsp;{{c3::matrix}}.</div>	
+<div>In {{c1::chloroplasts}} the thylakoid membrane separates the t{{c2::hylakoid component}}&nbsp;from the {{c3::stroma}}</div>	
+The {{c2::synthesis of ATP}} takes place by means of a {{c3::flow of protons}} across the mitochondrial {{c1::internal}} membrane.	
+The {{c2::synthesis of ATP}} takes place by means of a {{c3::flow of protons}} across the {{c4::thylakoid membrane}} in plants.	
+ATP moves down a {{c1::concentration}} gradient through the enzyme {{c2::ATP synthetase.}}	
+The {{c2::process that produces ATP}} is c{{c1::hemiosmosi}}s	
+<div>To maintain the {{c1::concentration of protons}} in the {{c2::inter membrane space}}, {{c3::proton pumps}} are&nbsp;needed which are fuelled by {{c4::electron energy}}.</div>	
+Draw chemiosmosis &amp; ATP synthesis. (In animals)	<img src="http://fhs-bio-wiki.pbworks.com/f/1259628320/electron_transport_chain.jpg" />
+Draw chemiosmosis &amp; ATP synthesis. (In plants)	<img src="http://chemwiki.ucdavis.edu/@api/deki/files/7285/=Thylakoid_membrane.png" />
+<div>{{c1::Respiration}} is a series of {{c2::enzyme-catalysed}} reactions which release {{c3::chemical}} energy from {{c4::organic molecules}} in order to {{c5::synthesise ATP.}}</div>	
+<div>The four main stages of the breakdown of a {{c1::glucose molecule}} to {{c2::carbon dioxide and water}} are:&nbsp;</div><div>{{c3::glycolysis;}}</div><div>{{c4::link reaction;}}</div><div>{{c5::Krebs cycle;}}</div><div>{{c6::electron transport chain.}}</div>	
+{{c1::Glycolysis}} is the {{c2::phosphorylation}} of glucose.	
+Glycolysis involves&nbsp;the phosphorylation of glucose into {{c1::6C hexose phosphate}} which is then split into two {{c2::3C triose phosphate}} molecules and the {{c3::oxidation}} of each of these to {{c4::3C}}&nbsp;{{c5::pyruvate}} with a {{c6::small}} yield of {{c7::ATP and reduced NAD}}	
+{{c1::Glycolysis}} takes place in the {{c2::cytoplasm}} and does not require {{c3::oxygen}}.	
+The {{c1::link reaction}} involves the conversion of {{c2::pyruvate}} to {{c3::acetate}}.	
+Pyruvate is converted to {{c1::acetate}} through:<div>{{c2::the loss of carbon dioxide;}}<div>{{c3::the removal of hydrogen through the reduction of NAD;}}</div><div>{{c4::acetyl group combining with coA;}}</div></div>	
+The {{c1::link reaction}} takes place in the {{c2::matrix of the mitochondrion.}}	
+{{c1::Acetyl CoA}} enters {{c2::the Krebs Cycle.&nbsp;}}	
+<div>{{c1::co-enzyme A}} is regenerated and the&nbsp;</div><div>{{c2::acetate fragment}} is picked up by a {{c3::4}}C acid, to produce a {{c4::6}}C acid.</div>	
+The Krebs cycle is a series of {{c1::decarboxylations}} and {{c2::dehydrogenations.}}	
+{{c1::Dehydrogenation}} is the {{c2::removal of hydrogen.}}	
+{{c1::Decarboxylation}} is the {{c2::removal of carbon dioxide, a carboxyl group.}}	
+In the {{c1::Krebs Cycle}} the {{c2::acetate}} fragment from {{c3::glucose}} is completely broken down.	
+<div>The function of the {{c1::Krebs cycle}} is a means of {{c2::liberating energy}} from {{c3::carbon bonds}} to</div><div>{{c4::provide ATP}} and reduced {{c5::NAD and FAD}}.</div>	
+The {{c1::Krebs cycle}} releases {{c2::carbon dioxide.}}	
+{{c1::Reduced NAD and FAD}} deliver {{c2::hydrogen}} to the e{{c3::lectron transport chain.}}	
+The {{c1::electron transport system}} is located in the {{c2::inner mitochondrial membrane.}}	
+Define Aerobic Respiration	A set of the metabolic reactions requiring oxygen and processes that take place in the cells of organisms to convert biochemical energy from nutrients into adenosine triphosphate (ATP)
+Define anaerboic respiration	A set of the metabolic reactions that takes place when there is no supply of oxygen that take place in the cells of organisms to convert biochemical energy from nutrients into adenosine triphosphate (ATP)
+Oxygen {{c1::is the final electron acceptor.}}	
+{{c2::Oxygen}} combines with {{c1::protons and electrons}} to form {{c3::water}}.	
+When no oxygen is present&nbsp;the reduced NAD (and FAD) cannot be {{c1::reoxidised}} and therefore made<div>{{c2::available to pick up more hydrogen}}</div>	
+<div>Under {{c1::anaerobic}} conditions the li{{c2::nk reaction}} and the&nbsp;{{c3::Krebs cycle}} cannot take place.</div>	
+Under {{c1::anaerobic}} conditions {{c2::glycolysis}} {{c3::can}} take place.	
+{{c1::Anaerobic respiration}} produces a very {{c2::small yield of ATP}}.	
+Under {{c1::anaerobic}} conditions in {{c2::plants}} {{c3::hydrogen is given to pyruvate}} by {{c4::NADH}} to {{c5::form ethanol and carbon dioxide.}}	
+Under {{c1::anaerobic}} conditions in {{c2::animals}} {{c3::NADH transfers hydrogen}} to pyruvate to form {{c4::lactate}}.	
+<div>Not all the energy of the {{c1::glucose}} molecule is captured in {{c2::ATP}} and there is a loss of</div><div>energy as {{c3::heat}} energy.</div>	
+Under certain circumstances {{c1::fats and proteins}} may be used as respiratory substrates	
+Glycerol can be used as a alternative respiratory substrate, what is it converted to?	a 3-carbon sugar
+Glycerol can be used as a alternative respiratory substrate, where does it enter the respiratory pathway?	It enters the Krebs cycle via triose phosphate.
+Fatty acid chains can be used as a alternative respiratory substrates, what are they converted to?	2-carbon fragments
+Fatty acid chains can be used as a alternative respiratory substrates, where do they entery the pathway?	As acetyl co-enzyme A.
+Proteins can be used as a alternative respiratory substrates, what are they converted to?	Organic acids which can be fed into the Krebs cycle.
+Proteins can be used as a alternative respiratory substrates, how are the broken down?	By splitting it into its constituent amino acids which are deanimated (removal of NH2)
+The main site of {{c1::photosynthesis}} in the leaf is {{c2::palisade tissue}}	
+Define photosynthesis.	The process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water.
+<div>The main photosynthetic pigments found in plants are {{c1::chlorophyll a and b}}, {{c2::carotene}} and</div><div>{{c3::xanthophyll}}</div>	
+{{c1::Photosynthetic pigments}} {{c2::absorb light energy.}}	
+{{c1::Chromatography}} is used in the {{c2::seperation of leaf pigments.}}	
+{{c1::The Absorption and action spectra}} are a {{c2::similar shape}} which suggests that the {{c3::pigments used in light absoroption are also used in photosynthesis.}}	
+<div>{{c1::Photosynthesis}} is a series of {{c2::chemical steps}} which are arranged in two main stages, the</div><div>{{c3::light-dependent}} and {{c4::light-independent}} stages</div>	
+<div>{{c1::Chlorophyll a}} molecules, in the {{c2::reaction centre}}, are {{c3::excited and lose electrons}} when they&nbsp;{{c4::absorb light energy.}}</div>	
+<div>In {{c1::photosynthesis}} {{c2::high energy}} electrons are {{c3::transferred between acceptors.}}</div>	
+In Photosynthesis the {{c2::path of the excited electrons}} is often referred to as the {{c1::Z-scheme}}	
+In photosynthesis {{c1::ATP is produced}} through {{c2::cyclic and non-cyclic}} photophosphorylation	
+The {{c2::loss of electrons}} is a form of {{c1::oxidation}}.	
+The {{c1::hydroxide ion}} from the {{c2::splitting of water}}, is a source of electrons for {{c3::photosystem II.}}	
+The {{c2::splitting of water}} using light energy is referred to as {{c1::photolysis}}.	
+Photolysis occurs in the&nbsp;{{c1::thylakoid space}}.	
+{{c1::Photolysis}} raises the {{c2::concentration of protons}} in the {{c3::thylakoid space.}}	
+<div>Light is responsible&nbsp;</div><div>only {{c1::indirectly}} for splitting water.</div>	
+<div>Hydrolysis is where:</div><div>Molecules of water are split into {{c1::hydrogen ions}}, {{c2::electrons}} and {{c3::oxygen}} and the&nbsp;{{c4::</div><div>electrons</div><div>are removed</div><div>}}&nbsp;to {{c5::replace those lost in the chlorophyll}} in the photosystem 2</div>	
+The {{c1::reduction of NADP}} is brought about by the {{c2::addition of electrons and hydrogen ions}}	
+NADP reduction takes place in {{c1::the stroma}}.	
+{{c3::NADP reduction}} {{c1::lowers}} the concentraion of protons in {{c2::the stroma}}.	
+The {{c1::light dependent}} stage of photosynthesis produces {{c2::reduced NADP}}, {{c3::ATP}} and {{c4::oxygen}}	
+<div>The following steps occur in the {{c1::light-independent stage (Calvin Cycle)}}:</div><div>{{c2::<div>uptake of carbon</div><div>dioxide by 5C ribulose bisphosphate (Rubisco) to form 2 x 3C glycerate-3-phosphates;</div>}}</div>{{c3::<div>utilisation of ATP and reduced NADP from the light-dependent stage to reduce glycerate- 3-</div><div>phosphate to the 3C carbohydrate</div><div>, triose phosphate}} and the&nbsp;{{c4::</div><div>consequent regeneration of&nbsp;</div><div>ribulose bisphosphate</div><div>}}&nbsp;which requires {{c5::ATP}}.</div>	
+{{c1::Glucose}}, {{c2::lipids}} and {{c3::amino acids (with addition of nitrogen)}} can be made from {{c4::triose phosphate.}}	
+<div>Various {{c1::inorganic}} nutrients are needed by plants and may be {{c2::limiting factors}} to</div><div>metabolism if in short supply</div>	
+{{c3::Nitrogen}} is used for the {{c1::synthesis of proteins}} and {{c2::nucleic acids}}	
+<div>{{c3::Nitrogen deficiency}} will</div><div>cause {{c2::stunted growth}} in {{c1::plants}} because lack of {{c4::nucleic acids}} will hinder {{c5::cell division}}</div>	
+<div>{{c2::Magnesium}} is&nbsp;</div><div>required for {{c1::chlorophyll.}}</div>	
+{{c2::Magnesium}}&nbsp;deficiency leads to {{c1::chlorosis}} and death.	
+{{c4::Bacteria}} may be {{c1::round (coccus)}}, {{c2::rod shaped (bacillus)}}, {{c3::spiral shaped (spirillum)}}	
+<div>{{c1::Shape&nbsp;}}</div><div>has traditionally been used for classification of bacteria along with {{c2::metabolic reactions.}}</div>	
+The shape of bacteria is due to their {{c1::rigid cell wall}} which has a unique structure.	
+<div>The Gram stain may be used to differentiate between {{c1::Gram positive and Gram negative}}</div><div>bacteria.</div>	
+{{c3::Gram negative}} bacteria stain {{c1::red}} by the {{c2::counterstain.}}	
+{{c3::Gram positive}} bacteria stain {{c2::purple}} from {{c1::crystal violet}}.	
+The Gram reaction reflects the more complex structure of {{c1::Gram negative}} cell walls.	
+<div>Microorganisms may be grown in the laboratory if supplied with suitable&nbsp;{{c1::</div><div>physical&nbsp;</div><div>conditions</div><div>}}, {{c2::nutrients}} and {{c3::water}}.</div>	
+<div>Organisms usually grow over a range of {{c1::temperatures}} and&nbsp;</div><div>{{c2::pH values}}, with an optimum within the range.</div>	
+{{c1::obligate aerobes}} require {{c2::oxygen for metabolism}}	
+{{c2::obligate anaerobes}}&nbsp;can only survive {{c1::in the absence of oxygen}}	
+{{c1::facultative anaerobes}} grow in {{c2::either the presence or absence of oxygen}}	
+Nutrients are supplied to bacteria/fungi in {{c1::nutrient media}}	
+Nurients provided to bacteria include:<div><div>{{c1::carbon}}, usually organic such as</div><div>glucose; {{c2::nitrogen}}, organic or inorganic; growth factors such as {{c3::vitamins}} and {{c4::mineral salts}}.</div></div>	
+{{c1::Glucose}} is the normal {{c2::source of energy}} for bacteria.	
+<div>{{c1::Aseptic techniques}} involve handling cultures in such a way as to&nbsp;{{c2::</div><div>prevent their&nbsp;</div><div>contamination</div><div>}}&nbsp;by unwanted organisms</div>	
+<div>{{c1::Aseptic tecniques}} also prevent the</div><div>contamination of {{c2::personnel and the immediate environment}} by the organisms being cultured</div>	
+{{c2::Total counts}} of bacteria include {{c1::both living and dead cells.}}	
+{{c2::Viable cell counts}} of bacteria include {{c1::living cells only.}}	
+For a {{c1::viable count}}&nbsp;a known volume of organisms is added to agar plates, incubated and<div>the colonies counted</div>	
+A {{c2::viable cell count}} assumes that {{c1::one cell gives rise to one colony.}}	
+If bacterial colones {{c1::clump}} then a {{c2::viable count}} cannot be carried out.	
+{{c1::Serial dilutions}} provide a final number of bacteria within a {{c2::countable range.}}	
+<div>A {{c1::pure culture}} of an organism is needed for the formation and harvesting of&nbsp;{{c2::</div><div>a pure&nbsp;product }}</div>	
+For {{c2::maximum efficeincy}} a organisms grown in a fermenter must be supplied with&nbsp;{{c3::suitable conditions}} for growth and have {{c1::}}no competition	
+Fermenter vessels should be&nbsp;{{c1::sterilised}} beforehand and an appropriate {{c2::sterile medium}} used	
+<div>{{c1::Aseptic conditions&nbsp;}}</div><div>and handling are required to {{c2::maintain purity}} of a bacteria/fungi culture</div>	
+{{c1::Forced aeration}} may be required for {{c2::maximum growth}} of aerobes.	
+{{c1::Aeration}} of a culture may also mix the culture and {{c2::improve contact}} with nutrients.	
+A {{c1::seperate mixer}} is often better for mixing cultures.	
+{{c1::Temperature monitoring}} and control are required to maintain constant conditions in a fermenter.	
+{{c1::water jackets}} remove {{c2::excess heat}} produced during the culture process	
+{{c1::air inlets}} of a fermenter may use {{c2::spargers}} or other devices to improve aeration.	
+<div>sophisticated monitors are used to improve control of temperature and&nbsp;</div><div>pH</div>	Comercially
+<div>For the commercial production of penicillin, the fungus {{c2::Penicillium notatum}} is grown in&nbsp;{{c1::</div><div>a</div><div>batch culture</div>}}	
+Penicillin&nbsp;is produced {{c1::after the growth phase}}, when {{c2::glucose}} is<div>depleted.</div>	
+{{c1::Penicillin production}} reflects the need for the organism&nbsp;&nbsp;when free living, to {{c2::reduce competition}}<div>when food sources are depleted</div>	
+To collect penicillin&nbsp;{{c1::the mycelium}}&nbsp;is removed by {{c2::filtration}} of the culture fluid and the antibiotic&nbsp;{{c3::purified from&nbsp;<div>the residual liquid</div>}}	
+Ecosystems are {{c1::dynamic}} and {{c1::subject to change}}.	
+Define Population	All the organisms that constitute a specific group or occur in a specified habitat.
+{{c1::Population numbers}} will {{c2::fluctuate}} and this is dependent on various factors	
+<div>{{c1::Population numbers}} are dependent on the {{c2::birth and death rates}}, and&nbsp;{{c3::</div><div>immigration into the</div><div>population and emigration away</div>}}	
+Populations will {{c1::increase in size}} whilst {{c2::death rate is lower than birth rate.}}	
+<div>Some factors will {{c1::slow down}} population growth rate and some will cause a&nbsp;{{c2::</div><div>population</div><div>crash</div>}}	
+Draw a sigmoid growth curve.	<img src="http://images.tutorvista.com/content/plant-growth-movements/growth-curve.jpeg" />
+<div>{{c1::Weather}}, {{c2::predation}}, {{c3::parasitism (disease)}}, {{c4::food supply}}, {{c5::living space}} and {{c6::competition}} may</div><div>affect population growth</div>	
+The effect of {{c1::density dependent}} factors varies with the {{c2::size of the population}}.	
+The effect of {{c1::density independent}} will be the same regardless of the population size	
+Define carrying capacity	The number of people, other living organisms, or crops that a region can support without environmental degradation.
+<div>The advantages of {{c1::chemical control}} include&nbsp;{{c2::</div><div>rapid eradication of a pest over a specified</div><div>localised area</div><div>}}&nbsp;and relative {{c3::cost effectiveness}}</div>	
+<div>The disadvantages of {{c1::chemcal control}} include the d{{c2::evelopment&nbsp;</div><div>of resistance}}&nbsp;and {{c3::toxicity risks}} to non target organisms</div>	
+<div>The advantages of {{c1::biological control}} include {{c2::its specificity}}, with {{c3::no resistance}} and&nbsp;{{c4::no environmental damage}}&nbsp;or residues</div>	
+<div>A disadvantage of {{c1::biological control}} is the {{c2::initial cost of the research}}</div><div>required to evaluate the agent’s biology.</div>	
+<div>{{c1::Microorganisms}} play an important role in the process of decay, releasing compounds of</div><div>{{c2::essential chemical elements from the bodies of dead organisms.}}</div>	
+Draw the carbon cycle.	<img src="http://eo.ucar.edu/kids/green/images/carboncycle_sm.jpg" />
+Draw the nitrogen cycle.	<img src="http://www.physicalgeography.net/fundamentals/images/nitrogencycle.jpg" />
+{{c1::Nitrogen}} is found in {{c2::all amino acids}} from which proteins are made.	
+<div>{{c1::Nitrogen}} is available</div><div>to plants only in the form of {{c2::ammonium}} and {{c3::nitrate}} ions</div>	
+{{c1::Nitrate}} ions are taken up by the roots of the plant	
+<div>Nitrates are used for...&nbsp;</div>	protein&nbsp;and nucleic acid synthesis
+The {{c1::nitrogen cycle}} is the {{c2::flow of organic and inorganic nitrogen}} within an ecosystem	
+<div>The main processes of the nitrogen cycle are {{c1::putrefaction}}, {{c2::nitrification}}, {{c3::nitrogen fixation}}</div><div>and {{c4::denitrification}}</div>	
+<div>Ploughing and drainage are important in {{c1::aeration}} of the soil, producing the&nbsp;{{c2::</div><div>aerobic</div><div>conditions</div><div>}}&nbsp;required by {{c3::nitrifying bacteria.}}</div>	
+<div>The term {{c1::homeostasis}} is used to describe the mechanisms by which a&nbsp;{{c2::</div><div>constant internal</div><div>environment</div><div>}}&nbsp;is achieved.</div>	
+<div>All homeostatic processes</div><div>include a {{c1::detector}}, {{c2::coordinator}} and {{c3::effector}}.</div>	
+In most biological systems a {{c1::negative}} feedback system operates.	
+{{c1::Osmoregulation}} is the {{c2::control of the water content and solute composition of body fluids}}	
+<div>{{c2::amino acids}}</div><div>cannot be {{c1::stored.}}</div>	
+{{c1::Surplus amino acids}} are {{c2::deaminated in the liver.}}	
+Draw {{c1::the}} mamalian urinary system.	<img src="http://www.encognitive.com/images/urinary-system.jpg" />
+Draw the gross structure of a kidney. {{c1:::)}}	<img src="http://academic.kellogg.edu/herbrandsonc/bio201_mckinley/f27-3r_gross_anatomy_of_c.jpg" />
+Draw a nephron	<img src="http://www.ivy-rose.co.uk/HumanBody-Images/Urinary/Kidney_Nephron_cIvyRose.png" />
+{{c2::Ultrafiltration}} is {{c1::filtration under pressure}}	
+{{c1::Ultrafiltration}}&nbsp;separates&nbsp;{{c2::small soluble molecules from the&nbsp;<div>plasma.</div>}}	
+<div>The&nbsp;{{c1::basement&nbsp;membrane}}&nbsp;of the capillary forms the selective barrier between the {{c2::blood and the nephron}}&nbsp;and it acts as a {{c3::molecular}} sieve</div>	
+<div>A {{c1::high filtration pressure}} is created in the glomerulus due to a difference in diameter</div><div>between {{c2::afferent and efferent}} arterioles and {{c3::high blood pressure}} in the {{c4::renal artery}}</div>	
+<div>{{c1::Selective reabsorption}} of glucose and Na+ (active) and Cl- and water (passive) takes place in the&nbsp;{{c2::proximal convoluted tubule.}}</div>	
+The cells of the proximal convoluted tubule have a&nbsp;{{c1::large surface<div>area</div><div>}}, due to {{c2::microvilli}} and {{c3::basal channels}}, {{c4::numerous mitochondria}}, closeness of blood</div><div>capillaries</div>	
+The l{{c1::oop of Henle}} enables a {{c2::counter current multiplier}} system to operate	
+The {{c1::length}} of the loop of henle is related to the {{c2::environment of mammals}}.	
+<div>{{c1::Na+ and Cl-&nbsp;}}ions are actively pumped out of the {{c2::ascending limb}} of the loop of henle into the tissue fluid of the&nbsp;medulla and diffuse into the {{c3::descending limb.}}</div>	
+<div>The ascending limb of the loop of henle is relatively {{c2::impermeable}} to water while the</div><div>descending limb is {{c1::permeable.}}</div>	
+Water leaves the {{c1::glomerular filtrate}} {{c2::osmotically}}	
+The contents of the descending limb of the loop of henle become {{c1::more concentrated}}	
+The {{c1::maximum concentration}} occurs at the {{c2::tip of the loop}} of Henle	
+<div>The {{c1::distal convoluted tubule}} and {{c2::collecting duct}} have restricted {{c3::permeability}} which is</div><div>subject to {{c4::hormonal control}}</div>	
+{{c1::Water reabsorption}} occurs through the {{c2::walls of the collecting duct}} as well as through the proximal convoluted tubule	
+<div>{{c1::ADH}} makes the walls of the duct {{c2::permeable}} so that water is reabsorbed and the urine&nbsp;has a {{c3::concentration close to the concentration of the tissues near the bottom}} of the loop of henle.</div>	
+<div>The detector of the osmoregulatory system is the {{c1::hypothalamus.}}</div>	
+<div>The coordinator of the osmoregulatory system is the {{c1::posterior lobe of the pituitary gland (ADH).}}</div>	
+The effector of the osmoregulatory system is&nbsp;{{c1::the collecting&nbsp;<div>ducts of kidney.</div>}}	
+<div>The {{c1::environment}} in which an animal lives plays a part in the {{c2::nitrogenous waste produced}}</div><div>and different animals deal with its disposal in different ways.</div>	
+<div>Aquatic animals produce {{c1::ammonia}}, birds and insects produce {{c2::uric acid}} and mammals</div><div>produce {{c3::urea}}.</div>	
+<div>Responses to all stimuli involve the reception of information and its transfer from the&nbsp;{{c1::receptor to an effector}} via the {{c2::nervous system}}.</div>	
+Effectors are either {{c1::muscles}} or {{c2::glands.}}	
+Draw a spinal cord cross section.	&lt;img src=<a href="http://www.oandplibrary.org/alp/images/chap27-01/a1.jpg">http://www.oandplibrary.org/alp/images/chap27-01/a1.jpg</a> /&gt;
+The {{c1::reflex arc}} is the basis for {{c2::protective involuntary}} actions.	
+<div>The {{c1::reflex arc}} is related to nerve pathways involved in {{c2::voluntary actions}} via a{{c3::</div><div>scending</div><div>and descending tracts</div><div>}}&nbsp;in the spinal cord.</div>	
+Draw a reflex arc{{c1::.::}}	&lt;img src=<a href="http://www.pitlochry.pkc.sch.uk/images/Biology/reflex%20arc.gif">http://www.pitlochry.pkc.sch.uk/images/Biology/reflex%20arc.gif</a> /&gt;
+{{c2::Amonification}} is carried out by {{c1::saprobiotic bacteria (saphrophytes)}}	
+<i>{{c1::<a title="Rhizobium" href="http://en.wikipedia.org/wiki/Rhizobium">Rhizobium</a></i>}}&nbsp;is a {{c2::nitrogen fixing}} bacteria which&nbsp;lives in the root nodules of {{c3::<a class="mw-redirect" title="Legumes" href="http://en.wikipedia.org/wiki/Legumes">legumes</a>}}	
+{{c1::Azotobacter}} is a free-living micro-organism which can fix atmospheric nitrogen into {{c2::amonium ions.}}	
+{{c1::Nitrosomonas}} is a bacteria which oxidises ammonia into {{c2::nitrite}}.	
+{{c1::Nitrobacter}} oxidises nitrite to {{c2::nitrate}}.	
+<em>{{c1::Pseudomonas}} is a denitrifying genus of bacteria.</em>	
+{{c1::Gram positive}} bacteria have more {{c2::peptidiglycan}} in their cell walls.	
+A {{c1::Gram-negative::}} bacteria has a {{c2::lipopolysaccharide::}} membrane.	

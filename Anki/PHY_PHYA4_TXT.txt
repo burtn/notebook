@@ -1,0 +1,471 @@
+What is the range of [$]\sin^{-1}(x)[/$]	[$]+ \frac{\pi}{2} \rightarrow - \frac{\pi}{2}[/$]
+What is the domain of&nbsp;[$]\sin^{-1}(x)[/$]	-1 &lt;= x &lt;= 1
+[$$]\sin^{-1}(x)[/$$] crosses the axis at {{c1::0}}?	The Origin
+What is the range of&nbsp;[$]\cos^{-1}(x)[/$] ?	[$]0 - \pi[/$]
+What is the domain of&nbsp;[$]\cos^{-1}(x)[/$]	-1 &lt;= x &lt;= 1
+[$]\cos^{-1}(x)[/$] crosses the y-axis at&nbsp;{{c1::[$]\frac{\pi}{2}[/$]}}	
+[$]\cos^{-1}(x)[/$] touches the x-axis at&nbsp;{{c1::1}}	
+[$]\cos^{-1}(x)[/$] {{c1::does not}} cross the x-axis	It touches at X = 1
+What is the range of&nbsp;[$]\tan^{-1}(x)[/$]?	+ \frac{\pi}{2} \rightarrow - \frac{\pi}{2}
+What is the domain of [$$]\tan^{-1}?[/$$]	[$]x \epsilon \mathbb{R}[/$]
+[$]\tan^{-1}[/$] crosses the x-axis at {{c1::the origin.}}	
+What is the chain rule?	[$$]\frac{\mathrm{d}y }{\mathrm{d}x} = \frac{\mathrm{d}y }{\mathrm{d}u} X \frac{\mathrm{d}u }{\mathrm{d}x}[/$$]
+When is the chain rule used?	For a function of a function e.g&nbsp;[$]f(g(x))[/$]
+When is the product rule used?	For a function times a function e.g.[$]&nbsp;f(x)g(x)[/$]
+What is the derivative of&nbsp;[$]ln(x)[/$]?	[$]\frac{1}{x}[/$]
+What is the product rule?	[$]U{V}' + V{U}'[/$]
+What is the differential of [$]ln(f(x))[/$]?	[$]\frac{{f}'(x)}{f(x)}[/$]
+What is the link between [$]\frac{dy}{dx}[/$] and&nbsp;[$]\frac{dx}{dy}[/$]	[$]\frac{dy}{dx}[/$]&nbsp; = [$]\frac{1}{\frac{dx}{dy}}[/$}
+What is the integral when the top differentiates to the bottom? i.e&nbsp;[$$]\frac{f(x)}{{f}'(x)}[/$$]	ln |&nbsp;[$]f(x)[/$] | [$]+ c[/$]
+Formula for volume of revolution around the x-axis?	[$]\pi\int y^{2} dx[/$]
+Formula for volume of revolution around the y-axis?	[$]\pi\int x^{2} dy[/$]
+When a magnet is movied in a coil of wire an {{c1::emf}} is {{c2::induced}} in the wire.	
+Electromagnetic induction occurs whenever a &nbsp;{{c1::wire cuts across}} a {{c2::magnetic}} field	
+If the wire in which an emf is induced is a {{c1::complete circuit}} then {{c2::electrons}} are forced round.	
+The emf induced in a wire can be made greater by {{c3::moving the wire faster}}, making the wire {{c2::into a coil}} &amp; {{c1::using a stronger magnet}}.	
+No emf is induced in a wire if the wire is {{c1::parallel to the magnetic}} field.	
+For a {{c1::current}} to be induced in the wire it must {{c2::cut lines of force}}.	
+When an electric motor is run in reverse it can {{c1::act as a generator}}.	
+When motor coils {{c1::turn between}} two poles of a magnet {{c2::emf induced}} in the coil forces {{c3::a current around the circiut}}.	
+A dynamo can {{c2::generate electricity}} because it contains a {{c1::spinning magnet}}.	
+The emf in a generator is zero when {{c1::there is no motion}}.	
+To keep a generator coil spinining {{c1::work}} must be done.	
+The induced emf in a wire is {{c1::the energy transferred}} from the source per unit {{c2::charge}} that passes through the source.	
+An electric current is the {{c1::charge flow}} per {{c2::second}}.	
+Induced emf * {{c2::current}} equals energy transferred p{{c1::er unit charge}}.	
+Energy is transferred from the {{c2::induced}} emf to the components of a circuit by an {{c1::electric current}}.	
+The Dynamo Rule is also called Flemings {{c1::right hand}} rule.	
+Flemings {{c1::right}} hand rule is for {{c2::generators}} not motors.	Left hand rule is for motors.
+When a beam of electrons is directed across a field the electron experiences a force at {{c1::right angles to the direction}} of travel.	
+Metal contains lots of {{c1::free elec}}trons	
+If a metal rod is moved in a magnetic field, {{c2::magnetic}} forces move the {{c1::free}} electrons to one end this makes one end {{c3::negative and one positive}}.	
+An AC generator consists of a coil {{c2::spinning}} in a {{c1::uniform magnetic}} field.	
+If the coil of an AC generator spins at a steady rate then the {{c1::flux linkage}} changes continuously.	
+In an AC generator when the normal to the plane of the coil is at an angle to the flux linkage the flux linkage equals {{c1::BANcos(angle)}}	
+The emf induced in an AC generator coil equals {{c1::emf(sin)(2pi)(ft)}}	
+In emf(sin)(spi)(ft) the emf is the {{c1::peak}} emf.	This is the formula for induced emf in an AC generator.
+The induced emf in a coil is zero when the sides of the coil move {{c1::parallel}} to the field {{c2::lines}}.	
+Induced emf in a coil is 0 when the rate of {{c2::change}} of flux is {{c1::also 0}}	
+If the coil does not cut any field lines then the induced emf is {{c1::zero}}.	
+Induced emf in a coil is a maximum when the sides of the coil cut at {{c1::right angles}} to the {{c2::field}} lines.	
+The peak emf induced in a coil = {{c1::2NBlv}}	Where v is {{c2::speed}} and l is {{c3::length}}
+The rate at which the magnetic flux is changing is greatest when {{c1::the flux is 0}}	
+The rate of change of flux is zero when {{c1::the flux is greatest}}.	
+In a power station alternator there are {{c2::3}} coils at {{c1::120}} degress to each other.	
+A power station alternators coils produce an AC current emf {{c1::120}} degrees {{c2::out of}} phase with each other.	
+Coils in a power station generator are referred to as {{c1::stators}}.	Because they are stationary.
+Power station coils do not need {{c2::slip ring}} connectors as an {{c1::electromagnet called a rotor}} spins between them.	
+The electromagnet in a power station is supplied by a {{c2::DC}} current which comes from a {{c1::generator}}.	
+A power station produces {{c1::3}} phases of {{c2::AC}} power.	
+Back emf acts against {{c1::the potential difference (pd)}}	
+For back emf: V-{{c1::emf}} = {{c2::IR}}	
+The back emf induced is proportional to {{c1::the speed of rotation}}.	
+The current induced in a motor chages with the motors {{c1::speed}}.	
+A motor at low speed has a {{c2::high}} current and a {{c1::small}} emf.	
+A motor at high speed has a {{c2::low}} current and a {{c1::high}} emf.	
+The electrical power supplied to a motor is {{c3::equal to}} the electric power transferred to mechanical power + the elecric power {{c1::wasted}} due to {{c2::resitance}}.	
+The {{c1::national grid}} is a network of transformers and cables underground and on pylons.	
+Power stations in the UK generate a alternating current at a frequency of {{c2::50Hz}} and a pd of {{c1::25kV}}	
+The voltage generated at a power station is stepped {{c1::up}} to {{c2::400kV}} for long distance transmission.	
+Long distance transmission of electrical power is {{c1::more}} efficent at high {{c2::voltages}}.	
+When the voltage is {{c2::increased}} the current needed to deliver a certain amount of power is {{c1::reduced}}.	
+At a high voltage the power wasted through {{c1::cable heating}} is reduced.	
+Step down {{c1::transformers}} in the national grid operate in stages.	
+Factories in the UK receive all {{c1::3}} phases of AC at {{c2::33kV}} or {{c3::11kV}}	
+UK Homes are connected to 'the grid' via local {{c1::substations}}. These supply {{c3::single}} phase ac at {{c2::230V}}	The phases are split between different groups of houses.
+Transformers are almost {{c1::100%}} efficent.	
+Transformers have {{c1::low resistance}} windings to reduce power wastage due to {{c2::the heating effect of the current}}.	
+Transformer cores are made of soft iron which is easily {{c1::magnetised and demagnetised}} reducing power wastege through {{c2::repeated magnetisation}}.	
+A laminated core consists of {{c2::iron}} sperated by {{c1::layers of insulator}}.	
+Laminated cores reduce {{c1::eddy}} currents whilst keeping the {{c2::magnetic flux}} high and the {{c3::heating effect}} low.	
+The {{c1::power supplied to}} a transformers primary coil is equal to the power supplied by the {{c2::secondary coil}}.	
+[$$]\frac{IsVs}{IpVp} X 100 [/$$] = {{c1::efficiency}}.	
+Power = {{c1::Voltage X Current}}	
+{{c1::Transformer efficency}} is the power delivered by the second coil devided by the power supplied to the primary coil.	
+Transformers only work {{c1::when the flux through them is changning}} so they cannot work on {{c2::DC}}.	
+The transformer rule is&nbsp;{{c1::[$]\frac{Vs}{Vp} = \frac{Ns}{Np}[/$]}}	
+A Step up transformer has more turns on the {{c1::secondary}} coil and the {{c2::secondary voltage}} is stepped up. The result is that the {{c3::current}} is stepped {{c4::down}}.	
+A step down transformer has more turns on it's {{c3::primary coil}} so the {{c1::secondary voltage}} is stepped down and the {{c2::current}} is stepped up.	
+Transformers consist of {{c2::2}} coils. A primary &amp; secondary coil. Both coils {{c3::share the same iron core}}. When connected to an alternating pd an {{c4::alternating}} magentic field is producued in the core. And an emf is induced in the {{c1::secondary coil}}.	
+Transformers are designed so that all the magentic flux produced by the first coil {{c1::passes through the secondary coil}}.	
+The flux linkage in the primary coil of a transformer equals the {{c2::number of turns}} in the coil times the {{c1::flux density}}.	The same is true for the second coil.
+The flux linkage in the seconday coil of a transformer equals the {{c2::number of turns}} in the coil times the {{c1::flux density}}.	The same is true for the primary coil.
+In a trasnformer an emf is also produced in the {{c1::primary coil}} which {{c2::opposes}} the pd applied to the primary coil.	
+In a transformer's primary coil if the {{c1::resistance}} is negligible then all of the applied pd acts {{c2::against}} the emf.	
+The emf induced in a transformers secondary coil equals the number of {{c2::turns}} in the coil {{c3::multiplied}} by the flux all over {{c1::time}}.	Equivalent to flux linkage over time.
+A solenoid magnet has a field like a {{c1::bar magnet}}.	
+In a solenoid the current passes {{c1::colckwise}} around the south pole.	
+In a solenoid the current passws anticlockwise around the {{c1::north}} pole.	Draw an N with arrows on it!
+Energy is never {{c1::created}} nor {{c2::distroyed}}.	
+Lenz law states that the {{c1::direction of an induced current}} is always such that it {{c2::opposes}} the change that caused the current.	
+Lenz law is used in {{c1::regenerative}} braking.	
+Battery powered vehicles contain alternators that can act as a {{c1::motor or generator}}. When used as an electric motor the motor is driven from the {{c2::battteries}}. However when the {{c3::brakes are applied}} the alternator can be used to generate energy which can recharge the battery.	
+Faradays law states that the {{c1::induced emf}} in a circuit is equal to the rate of change of flux {{c2::linkage}} through the circuit.	
+Faradays law as an equation is&nbsp;{{c1::-N(change in angle / change in time)}}	
+The Product of magnetic flux density and area is equal to {{c1::magenetic flux linkage}}.	
+Magnetic flux = B*{{c1::A}} and is measured in {{c2::Webers}} - symbol Wb	
+1Wb (Weber) equals 1T (Tesla) per {{c1::metre squared}}.	
+The Induced emf is the magnetic flux {{c1::swept out}} by a conductor {{c2::each second}}.	
+Magnetic Flux Linkage = {{c1::B*A*N}}	
+When the magnetic field is {{c1::perpendicular to the coil face}} the flux linkage = BAN.	
+When a coil in a magnetic field is {{c1::turned 180 degrees}} the flux linkage = -BAN.	
+When the magnetic field is parallel to the coil area the flux linkage is {{c2::zero}}. This is because no {{c1::field lines}} pass through the coil area.	
+For a conductor to move in a magnetic field {{c1::work must be}} done.	
+The charge transferred along a conductor in a magnetic field is equal to {{c1::current * time}}.	
+Q = I{{c1::t}}	
+Work done to move a conductor in a magnetic field = {{c1::Fs}} or {{c2::BILs}}	
+When a conductor moves in a field the induced emf = {{c2::W/Q}} = BIILs/It = {{c1::BILs/t}}	
+Capacitors can be used for:<div>S{{c1::moothin}}g Circuits</div><div>{{c2::Back}} up power supplies</div><div>T{{c3::imi}}ng Circuits</div><div>{{c4::Pulse}} Producing Circuits</div><div>Tun{{c5::nin}}g Circuits</div><div>F{{c6::ilte}}r Circuits</div>	
+The potential difference across a capacitor is measured with a {{c1::high resistance}} volt meter using either a {{c2::datalogger}} or stopwatch.	
+Capacitors are devices designed to store {{c1::charge}}.	
+Capacitors consist of {{c2::parallel metal}} plates insulated from each other. When one of the plates is connected to the battery it gains {{c1::electrons}} whilst the other loses them.	
+The charge stored in a capacitor is equal to {{c1::the current * time}}.	
+The charge stored in a capacitor is proportional to the {{c1::potential difference (V)}}.	
+For a capacitor the charge stored per volt is {{c1::constant}}.	
+Capacitance of a capacitor is the charge stored per unit {{c1::potential difference}}.	
+Capacitance is measured in {{c1::Farads}} for which the symbol is F. 1 {{c2::Farad}} is equal to 1 {{c3::Coulomb per Volt}}.	
+Farads are {{c1::large}} so {{c2::capacitance}} is often measured in micro, nano or pico farads.	
+Capacitance = {{c1::Q/V}}	So V = Q/C and Q = CV
+Capacitors store energy in the form of {{c1::electrical potential}} energy.	
+Capacitors can produce large {{c1::currents}} but only over a {{c2::short period of time}}.	
+Plotting a p.d. Vs Charge graph for a capacitor and finding the area underneath gives the {{c1::work done.}}	
+The energy stored by a capacitor is given by the formula {{c1::1/2 QV}}	
+A {{c1::joulemeter}} can be used to measure the energy transferred by a capacitor when it discharges.	
+Capacitors are charged by connecting them to a source of {{c1::constant potential difference.}}	
+When charging a capacitor the charging current {{c1::decreases}} as capacitor charge and pd {{c2::increase}}.	
+When a capacitor is fully charged its pd is {{c1::equal to the source pd}}	
+The time constant of a charging capacitor is the time for the charge to reach {{c1::63%}} of the final charge.	
+Cacpacitor charging current decreases {{c1::exponentially}} to 0.	
+Current is equal to {{c1::rate of change}} of charge.&nbsp;	
+Capacitor current is given by the gradient of {{c1::the charge-time graph.}}	
+At any instant during charging a capacitor the source pd = {{c1::resistor pd + capactor pd.}}	V(0) = IR + Q/C
+For an uncharged capacitor the initial charging current is {{c1::V/R}}	
+After t seconds of charging a capacitor the charging current is {{c1::Initial current}} * {{c2::e*-t/RC}}	
+The charge on capacitor plates {{c1::never becomes}} zero.	
+Capacitor discharge is often measured with an osciloscope as it has a {{c1::very high}} resistance.	
+Capacitor discharge is measured with high resistance equipment to ensure that the {{c1::current passes through the fixed resistor.}}	
+Capacitors discharge in an {{c1::exponential}} fashion.	
+Exponential changes occur whenever the rate of change of a quantity is proportional to {{c1::the quantity itself}}.	
+The charge of a capacitor after t seconds is given by Initial Charge * {{c1::e ^-t/RC}}	
+RC is the {{c1::time constant}} for a capacitor circuit.	R = Resitance, C = Capacitance, Unit =&gt; Seconds
+The time constance of a (discharging) capacitor is the time taken for the capacitor {{c1::to discharge to 37% of its original value.}}	
+{{c1::5}}RC is the time for the capacitor to discharge to over 99%	
+When {{c1::t = RC}} capacitor charge falls to 0.37 (e^-1) of starting value.	
+Capacitors are always discharged through a {{c3::fixed resistor}} until the current reaches 0. This is because {{c2::current}} decreases with pd and so does {{c1::resistance}}.	
+The discharge current of a capacitor is proportional to {{c1::charge}} which is proportional to {{c2::pd}}.	
+Air is usually an {{c1::insulator}}.	
+Large electric fields ionise air molecules by {{c1::pulling electrons out of the molecules}}.	
+A lightning strike occurs when a cloud becomes more and more charged, creating a {{c1::large}} electric field between it and the ground eventually the air becomes {{c2::ionised}} enough that it no longer {{c3::insulates}} the cloud and the electricity is discharged.	
+Lightning rods reduce the {{c1::risk of a lightning strike}}.	
+Lightning rods are connected to {{c2::ground}}, when a charged cloud is overhead a field is created and the air around the rod ionised discharging {{c1::the cloud}}.	
+If a metal conductor is insulated from the ground the charge will {{c1::build}} up and {{c2::spread}} across its surface.	
+Coulombs Law states that the force between two point charges = {{c1::k(Q1*Q2)/r^2}} where r is distance.	and K is a constant 1/4pi*Epsilon Nought
+Colombs law shows that force is proportional to {{c1::1/r^2}}	
+Charged objects exert {{c1::equal and opposite}} forces on each other.	
+Electric {{c1::fields surround}} each charge.	
+Electric fied lines are the lines which a {{c1::positive test}} charge would follow.	
+A point object creates field lines {{c1::concentrated at an object}}.	
+A field is strongest when the field lines are {{c1::closest together.}}	
+Oppositly charged parallel plates create a {{c1::uniform field}} between them	
+The field between two parallel plates is from {{c1::positive to negative.}}	
+Magnetic field goes from {{c1::north to south.}}	
+Electric Field strength in a uniform field = {{c1::Voltage / Distance}}	
+A greater {{c1::electric charge}} creates a greater electric field.	
+For oppositly electrically charged parallel plates the strength of the field depends on {{c1::the concentration of charge}}.	
+Field strength is {{c2::proportional}} to charge per {{c1::unit area}}	
+Epsilon nought is the {{c1::constant of proportionality.}}	
+Epsilon nought represents the charge per unit area on a surface in a {{c2::vacuum}} that produces a field strength of {{c1::1 Volt per metre.}}	
+Point charges refer to objects in a situation where the {{c2::distance between}} the objects are {{c1::larger}} than the objects size.	Note: larger == far far far greater!
+Force lines around a point charge are {{c1::radial.}}	
+Equipotentials are {{c1::concentric circles}} around a point charge or mass.	
+If there are multiple point charges then {{c1::each charge exerts a force on the test charge}}	
+The resultant force per unit charge on a test charge is the {{c1::field strength}} at the position of the {{c2::test charge.}}	
+If the forces on a point charge are in the same direction then the resultant force is the {{c1::sum of the two forces.}}	
+Resultant electric field strength is a vector sum of the {{c1::individual electric field}} strengths.	
+Charged objects {{c1::feel a force}} in an electric field.	
+Electric field strength is equal to the force per unit charge on a {{c1::positive}} test mass placed {{c2::at that point}}.	
+Electric field strength is measured in {{c1::newtons per coulomb.}}	Or Volts per Metre
+Electric field strength is equal to the {{c2::negative}} of the potential {{c1::gradient}}	
+A Gold leaf electroscope can be used to {{c1::detect charge.}} This is indicated by the gold leaf {{c2::rising}} when charge is present.	
+Like charges {{c1::repel}}	
+Unlike charges {{c1::attract}}	
+Static electric charges are caused {{c1::by electrons}}	
+Insulating materials have {{c1::no free}} electons. That is all the electrons are {{c2::attached to atoms}}.&nbsp;	
+Some Insulators such as:<div>perspex</div><div>polythene</div><div>can gain or lose charge from their {{c1::surface atoms}}.</div>	
+The shuttling ball experiment shows that {{c1::current is a flow of charge}}.	
+When the shuttling ball touches the negative plate it {{c1::gains electrons.}} So it has a {{c2::negative charge.}} It is then repelled to the positive plate where it {{c3::loses electrons}} to end up with a {{c4::positive charge.}}	
+The point where a test mass or charge's potential energy is 0 is {{c1::infinity}}	
+Electric potential is {{c1::"The work done per unit positive charge on a 'positve test charge' when it is moved from infinity to that point"}}	
+Electric potential is measured in {{c1::Volts.}}	
+One Volt is equivalent to {{c1::1 Joule per coulomb}}	
+A potential gradient is the change of {{c1::potential}} per unit change of {{c2::distance}} in a given direction.	
+Equipotentials are lines of {{c1::constant potential}}	
+A test charge moving along an equipotential has constant {{c1::potential energy}}.	
+Equipotentials always meet field lines at {{c1::right angles.}}	
+Travelling on an equipotential no {{c1::work is done}} on the test charge.	
+A {{c2::Uniform}} potential gradient is constant and increases in the {{c1::opposite direction}} to the electric field. It is also equal to {{c3::V/d.}}	
+A {{c1::non-uniform}} potential gradient varies according to position and direction.&nbsp;	
+Close equipotentials mean a {{c1::greater}} potential gradient	
+Gravitational Potential is measured in {{c1::Joules per Kg}}	
+At the surface of a planet {{c1::gravitational potential energy}} is -ve	
+Gravitational energy is 0 at {{c1::infinity}}	
+Gravitational potential energy is the energy of an object due to it's {{c1::position in a}} gravitational field.	
+Gravitational Potential is the work done moving a mass from {{c1::infinity}} to t{{c2::hat point in the field.}}	
+Potential gradient a a point in a gravitational field is the {{c1::change in potential}} per {{c2::metre}} at that point.	
+Over small distances the potential gradient is equal to the change {{c2::in potential}} / change {{c1::in distance}}	
+Gravitational field strength is the {{c2::negative}} of {{c1::Gravitational potential}} gradient.	
+For a point mass in a planetary field the magnitude of the gravitational force is {{c1::GM/r^2}}	
+For a spherical mass the magnitude of the gravitational force in a planetary field is {{c1::GMm/r^2}}	
+Plotting a graph of strength Vs distance in a planetary field and {{c1::finding the area under the graph}} gives the work done.	
+At the surface of a planet g = {{c1::g(surface)R(adius)^2/distance^2}}	
+Gravitational {{c1::attraction}} occurs between two objects with {{c2::mass}}.	
+Mass creates a {{c1::gravitational field}} around an object.	
+The weight of an object is equal to the force of {{c1::gravity}} on that object	
+For an object in freefall acceleration is {{c1::g}} with units {{c2::ms^2}}	
+A radial gravitational field is shaped like a {{c1::wheel}} with the force lines converging at the {{c2::centre}} of the object. The force acts {{c3::towards the centre}} of the larger mass. But the force gets less with {{c4::increased distance.}}	
+A Uniform gravitational field has the same {{c1::magnitude}} and {{c2::direction}} throughout the field.	
+In a uniform field the field lines are {{c1::parallel}} and {{c2::equally}} spaced.	
+Any mass orbiting another is a {{c1::satelite}}	
+Geostationary satelites orbit j{{c1::ust above the earth}} and have a time period of {{c2::24h}}. This gives them a {{c3::fixed}} position as the time period is the {{c4::same}} as the earth's rotation.	
+The radius of orbit of a satelite (cubed) = {{c1::GMT^2 / 4pi^2}}	
+The speed of a satelite = {{c1::sqrt(Gm/r)}}	
+Newtons law of graviation states that gravity is always a{{c1::ttractiv}}e.	
+The force of gravity is inversly proportional to the {{c1::square of the distance}}.	at 2d =&gt; f/4<div>at 3d =&gt; f/9</div><div>at 4d =&gt; f/16</div>
+Gravity is proportional to the {{c1::mass of each object.}}	
+Newtons law as a formula is {{c1::Gmm/r^2}}	G is universal constant of gravitation measured in newtons per metre^2 per killogram^2
+A magnetic field is a force field surrounding a {{c1::magnet}} or {{c2::current carrying wire}}.	
+The magnetic field of a bar magnet is strongest at its {{c1::ends.}}	
+A line of force/magnetic field line is the line along which {{c1::a free north pole}} would move in the field.	
+Earth is most like {{c1::a giant bar}} magnet.	
+Earths magnetic field is caused by {{c1::circulation currents in molten iron}} of earths core.	
+Compass {{c1::magnetic north}} is in Northern Canada, but {{c2::moves around}}.	
+The strength of a magnetic field is its {{c1::magnetic flux density}}. (Symbol B)	
+The unit of magnetic flux density is {{c1::the tesla (T)}}	
+1 Tesla = 1 {{c1::Newton}} per {{c2::metre}} per {{c3::amp}}	
+At 90 degress the the magnetic field the force = {{c1::BIL}}	
+For a coil in a magnetic field it is the {{c1::long side of each coil}} that experiences the force BIL.	
+The force on a coil in a magnetic field is multiplied by t{{c1::he number of turns}} in the coil.	
+The forces acting on a coil in a magnetic field are a {{c1::couple}}.	
+Forces on a coil in a magnetic field {{c1::do not act}} along the same line.	
+A simple electric motor consists of an {{c2::Insulated wire}} spinning in a {{c1::U shaped}} magnet.	
+When a DC current passes through coil in electric motor the wires at the {{c2::opposite}} edges of the coil are acted on by a force in {{c1::opposite}} directions.	
+Current is supplied to a motor by a {{c3::split ring commutator}}. This causes the direction of the current around the coil to be {{c2::reversed}} every {{c1::1/2}} turn.	
+The torque of the couple acting on coil in motor is {{c1::Fd}}.	
+When a motor coil is {{c2::parallel}} to force lines angle is 0 and Torque is cos(0) which is {{c1::1}}	
+In Torque = Fd d is {{c1::the perpendicular distance}} between the {{c2::line of action}} of the forces on each side.	
+A current carrying wire in a magnetic field experiences a force if i{{c1::t is at a non-zero angle to the lines of force.}}	
+The {{c1::force on a current carrying wire}} in {{c2::a magnetic field}} is known as the motor effect.	
+The force on a (current carrying) wire in a magnetic field&nbsp;depends on the {{c1::length of the wire}}, the {{c2::strength of the field}} and the {{c3::current.}}	
+The force on a wire in a magnetic field is perpendicular {{c1::to the wire}} and {{c2::to the lines of force.}}	
+Since the force on a current carrying wire in a magnetic field depends on angle between current direction and force lines the force is {{c1::greatest}} when the wire is at right angles to the field and 0 when it is {{c2::parallel.}} The direction of the force can be found from flemings {{c3::left}} hand rule.	
+A mass spectrometer is used to {{c1::analyse the type of atoms}} in a sample.	
+In a mass spectrometer Atoms are {{c1::ionised}} then directed into a narrow beam at the {{c2::same velocity}}.	
+Cyclotrons are used in hospitals to produce {{c1::high energy}} beams for {{c2::radiation}} therapy.	
+{{c1::Thermionic}} devices are electron guns which produce elctron beams	
+A beam of {{c1::charged particles}} is the same as a electric {{c2::current}}.	
+Anaerobic respiration occurs in {{c1::absence of oxygen.}}	
+When no oxygen is present only {{c1::glycolysis}} can take place. (respiration)	
+Krebs and link can not take place in anerobic respiration becase NAD and FAD {{c1::cannot be oxidised again.}}	
+{{c1::2}}ATP molecules are produced by {{c2::glycolysis}}.	
+{{c1::2}}ATP molecules are produced by {{c2::the krebs cycle}} as a result of producing {{c3::3}}NADH and {{c4::1}}FADH2 molecules.	
+The electron transport chain prodcues {{c1::32}}ATP molecules.	
+The {{c3::link reaction}} produces {{c1::no}} ATP but 1{{c2::NADH}}	
+In the {{c3::electron transport chain}} {{c1::1}}NADH={{c2::3}}ATP	
+In the {{c3::elctron transport chain}} {{c1::1}}FADH2 = {{c2::2}}ATP	
+{{c3::Glyclysis}} produces net {{c1::2}}ATP from {{c2::4}}ATP	
+Total ATP from Respiration is {{c1::38}} per glucose	
+{{c1::Chemical energy}} is contained within food substances.	
+{{c1::Energy}} can be converted from one form to another.	
+Green plants can convert {{c1::light}} into {{c2::chemcial}} energy.	
+{{c1::All}} living organisms are able to convert {{c2::chemical}} energy to other energy forms.	
+<img src="http://upload.wikimedia.org/wikipedia/commons/1/10/ATP_chemical_structure.png" />	ATP
+<div>{{c1::Energy}} is required to combine {{c2::ADP and phosphate}} to form ATP and this is an {{c3::endergonic}}&nbsp;reaction</div>	
+<div>{{c1::30.6 KJ of Energy}} is released when ATP is broken down to {{c2::ADP and phosphate}} and this is an</div><div>{{c3::exergonic}} reaction.</div>	
+<div>Energy release from ATP is linked to energy-requiring reactions e.g. {{c1::active transport}},&nbsp;{{c2::</div><div>muscle&nbsp;</div><div>contraction</div><div>}}, {{c3::synthesis of organic chemicals}}</div>	
+{{c2::ATP}} is an energy {{c1::carrier}} in cells.	
+ATP is sometimes referred to as the {{c1::'Universal Energy Currency'}}	
+{{c1::ATP}} is said to be {{c2::'universal'}} because nearly all {{c3::metabolic reactions}} use it as the {{c4::energy source}}	
+Define Proton	A stable subatomic particle occurring in all atomic nuclei, with a positive electric charge equal in magnitude to that of an electron
+Define electron	A stable subatomic particle with a charge of negative electricity, found in all atoms and acting as the primary carrier of electricity
+{{c4::A concentration gradient}} is produced across the {{c1::internal}} membranes of {{c2::mitochondria}} and {{c3::chloroplasts}}.	
+<div>In mitochondria the {{c1::internal membrane}} separates the {{c2::intermembrane space}} from the&nbsp;{{c3::matrix}}.</div>	
+<div>In {{c1::chloroplasts}} the thylakoid membrane separates the t{{c2::hylakoid component}}&nbsp;from the {{c3::stroma}}</div>	
+The {{c2::synthesis of ATP}} takes place by means of a {{c3::flow of protons}} across the mitochondrial {{c1::internal}} membrane.	
+The {{c2::synthesis of ATP}} takes place by means of a {{c3::flow of protons}} across the {{c4::thylakoid membrane}} in plants.	
+ATP moves down a {{c1::concentration}} gradient through the enzyme {{c2::ATP synthetase.}}	
+The {{c2::process that produces ATP}} is c{{c1::hemiosmosi}}s	
+<div>To maintain the {{c1::concentration of protons}} in the {{c2::inter membrane space}}, {{c3::proton pumps}} are&nbsp;needed which are fuelled by {{c4::electron energy}}.</div>	
+Draw chemiosmosis &amp; ATP synthesis. (In animals)	<img src="http://fhs-bio-wiki.pbworks.com/f/1259628320/electron_transport_chain.jpg" />
+Draw chemiosmosis &amp; ATP synthesis. (In plants)	<img src="http://chemwiki.ucdavis.edu/@api/deki/files/7285/=Thylakoid_membrane.png" />
+<div>{{c1::Respiration}} is a series of {{c2::enzyme-catalysed}} reactions which release {{c3::chemical}} energy from {{c4::organic molecules}} in order to {{c5::synthesise ATP.}}</div>	
+<div>The four main stages of the breakdown of a {{c1::glucose molecule}} to {{c2::carbon dioxide and water}} are:&nbsp;</div><div>{{c3::glycolysis;}}</div><div>{{c4::link reaction;}}</div><div>{{c5::Krebs cycle;}}</div><div>{{c6::electron transport chain.}}</div>	
+{{c1::Glycolysis}} is the {{c2::phosphorylation}} of glucose.	
+Glycolysis involves&nbsp;the phosphorylation of glucose into {{c1::6C hexose phosphate}} which is then split into two {{c2::3C triose phosphate}} molecules and the {{c3::oxidation}} of each of these to {{c4::3C}}&nbsp;{{c5::pyruvate}} with a {{c6::small}} yield of {{c7::ATP and reduced NAD}}	
+{{c1::Glycolysis}} takes place in the {{c2::cytoplasm}} and does not require {{c3::oxygen}}.	
+The {{c1::link reaction}} involves the conversion of {{c2::pyruvate}} to {{c3::acetate}}.	
+Pyruvate is converted to {{c1::acetate}} through:<div>{{c2::the loss of carbon dioxide;}}<div>{{c3::the removal of hydrogen through the reduction of NAD;}}</div><div>{{c4::acetyl group combining with coA;}}</div></div>	
+The {{c1::link reaction}} takes place in the {{c2::matrix of the mitochondrion.}}	
+{{c1::Acetyl CoA}} enters {{c2::the Krebs Cycle.&nbsp;}}	
+<div>{{c1::co-enzyme A}} is regenerated and the&nbsp;</div><div>{{c2::acetate fragment}} is picked up by a {{c3::4}}C acid, to produce a {{c4::6}}C acid.</div>	
+The Krebs cycle is a series of {{c1::decarboxylations}} and {{c2::dehydrogenations.}}	
+{{c1::Dehydrogenation}} is the {{c2::removal of hydrogen.}}	
+{{c1::Decarboxylation}} is the {{c2::removal of carbon dioxide, a carboxyl group.}}	
+In the {{c1::Krebs Cycle}} the {{c2::acetate}} fragment from {{c3::glucose}} is completely broken down.	
+<div>The function of the {{c1::Krebs cycle}} is a means of {{c2::liberating energy}} from {{c3::carbon bonds}} to</div><div>{{c4::provide ATP}} and reduced {{c5::NAD and FAD}}.</div>	
+The {{c1::Krebs cycle}} releases {{c2::carbon dioxide.}}	
+{{c1::Reduced NAD and FAD}} deliver {{c2::hydrogen}} to the e{{c3::lectron transport chain.}}	
+The {{c1::electron transport system}} is located in the {{c2::inner mitochondrial membrane.}}	
+Define Aerobic Respiration	A set of the metabolic reactions requiring oxygen and processes that take place in the cells of organisms to convert biochemical energy from nutrients into adenosine triphosphate (ATP)
+Define anaerboic respiration	A set of the metabolic reactions that takes place when there is no supply of oxygen that take place in the cells of organisms to convert biochemical energy from nutrients into adenosine triphosphate (ATP)
+Oxygen {{c1::is the final electron acceptor.}}	
+{{c2::Oxygen}} combines with {{c1::protons and electrons}} to form {{c3::water}}.	
+When no oxygen is present&nbsp;the reduced NAD (and FAD) cannot be {{c1::reoxidised}} and therefore made<div>{{c2::available to pick up more hydrogen}}</div>	
+<div>Under {{c1::anaerobic}} conditions the li{{c2::nk reaction}} and the&nbsp;{{c3::Krebs cycle}} cannot take place.</div>	
+Under {{c1::anaerobic}} conditions {{c2::glycolysis}} {{c3::can}} take place.	
+{{c1::Anaerobic respiration}} produces a very {{c2::small yield of ATP}}.	
+Under {{c1::anaerobic}} conditions in {{c2::plants}} {{c3::hydrogen is given to pyruvate}} by {{c4::NADH}} to {{c5::form ethanol and carbon dioxide.}}	
+Under {{c1::anaerobic}} conditions in {{c2::animals}} {{c3::NADH transfers hydrogen}} to pyruvate to form {{c4::lactate}}.	
+<div>Not all the energy of the {{c1::glucose}} molecule is captured in {{c2::ATP}} and there is a loss of</div><div>energy as {{c3::heat}} energy.</div>	
+Under certain circumstances {{c1::fats and proteins}} may be used as respiratory substrates	
+Glycerol can be used as a alternative respiratory substrate, what is it converted to?	a 3-carbon sugar
+Glycerol can be used as a alternative respiratory substrate, where does it enter the respiratory pathway?	It enters the Krebs cycle via triose phosphate.
+Fatty acid chains can be used as a alternative respiratory substrates, what are they converted to?	2-carbon fragments
+Fatty acid chains can be used as a alternative respiratory substrates, where do they entery the pathway?	As acetyl co-enzyme A.
+Proteins can be used as a alternative respiratory substrates, what are they converted to?	Organic acids which can be fed into the Krebs cycle.
+Proteins can be used as a alternative respiratory substrates, how are the broken down?	By splitting it into its constituent amino acids which are deanimated (removal of NH2)
+The main site of {{c1::photosynthesis}} in the leaf is {{c2::palisade tissue}}	
+Define photosynthesis.	The process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water.
+<div>The main photosynthetic pigments found in plants are {{c1::chlorophyll a and b}}, {{c2::carotene}} and</div><div>{{c3::xanthophyll}}</div>	
+{{c1::Photosynthetic pigments}} {{c2::absorb light energy.}}	
+{{c1::Chromatography}} is used in the {{c2::seperation of leaf pigments.}}	
+{{c1::The Absorption and action spectra}} are a {{c2::similar shape}} which suggests that the {{c3::pigments used in light absoroption are also used in photosynthesis.}}	
+<div>{{c1::Photosynthesis}} is a series of {{c2::chemical steps}} which are arranged in two main stages, the</div><div>{{c3::light-dependent}} and {{c4::light-independent}} stages</div>	
+<div>{{c1::Chlorophyll a}} molecules, in the {{c2::reaction centre}}, are {{c3::excited and lose electrons}} when they&nbsp;{{c4::absorb light energy.}}</div>	
+<div>In {{c1::photosynthesis}} {{c2::high energy}} electrons are {{c3::transferred between acceptors.}}</div>	
+In Photosynthesis the {{c2::path of the excited electrons}} is often referred to as the {{c1::Z-scheme}}	
+In photosynthesis {{c1::ATP is produced}} through {{c2::cyclic and non-cyclic}} photophosphorylation	
+The {{c2::loss of electrons}} is a form of {{c1::oxidation}}.	
+The {{c1::hydroxide ion}} from the {{c2::splitting of water}}, is a source of electrons for {{c3::photosystem II.}}	
+The {{c2::splitting of water}} using light energy is referred to as {{c1::photolysis}}.	
+Photolysis occurs in the&nbsp;{{c1::thylakoid space}}.	
+{{c1::Photolysis}} raises the {{c2::concentration of protons}} in the {{c3::thylakoid space.}}	
+<div>Light is responsible&nbsp;</div><div>only {{c1::indirectly}} for splitting water.</div>	
+<div>Hydrolysis is where:</div><div>Molecules of water are split into {{c1::hydrogen ions}}, {{c2::electrons}} and {{c3::oxygen}} and the&nbsp;{{c4::</div><div>electrons</div><div>are removed</div><div>}}&nbsp;to {{c5::replace those lost in the chlorophyll}} in the photosystem 2</div>	
+The {{c1::reduction of NADP}} is brought about by the {{c2::addition of electrons and hydrogen ions}}	
+NADP reduction takes place in {{c1::the stroma}}.	
+{{c3::NADP reduction}} {{c1::lowers}} the concentraion of protons in {{c2::the stroma}}.	
+The {{c1::light dependent}} stage of photosynthesis produces {{c2::reduced NADP}}, {{c3::ATP}} and {{c4::oxygen}}	
+<div>The following steps occur in the {{c1::light-independent stage (Calvin Cycle)}}:</div><div>{{c2::<div>uptake of carbon</div><div>dioxide by 5C ribulose bisphosphate (Rubisco) to form 2 x 3C glycerate-3-phosphates;</div>}}</div>{{c3::<div>utilisation of ATP and reduced NADP from the light-dependent stage to reduce glycerate- 3-</div><div>phosphate to the 3C carbohydrate</div><div>, triose phosphate}} and the&nbsp;{{c4::</div><div>consequent regeneration of&nbsp;</div><div>ribulose bisphosphate</div><div>}}&nbsp;which requires {{c5::ATP}}.</div>	
+{{c1::Glucose}}, {{c2::lipids}} and {{c3::amino acids (with addition of nitrogen)}} can be made from {{c4::triose phosphate.}}	
+<div>Various {{c1::inorganic}} nutrients are needed by plants and may be {{c2::limiting factors}} to</div><div>metabolism if in short supply</div>	
+{{c3::Nitrogen}} is used for the {{c1::synthesis of proteins}} and {{c2::nucleic acids}}	
+<div>{{c3::Nitrogen deficiency}} will</div><div>cause {{c2::stunted growth}} in {{c1::plants}} because lack of {{c4::nucleic acids}} will hinder {{c5::cell division}}</div>	
+<div>{{c2::Magnesium}} is&nbsp;</div><div>required for {{c1::chlorophyll.}}</div>	
+{{c2::Magnesium}}&nbsp;deficiency leads to {{c1::chlorosis}} and death.	
+{{c4::Bacteria}} may be {{c1::round (coccus)}}, {{c2::rod shaped (bacillus)}}, {{c3::spiral shaped (spirillum)}}	
+<div>{{c1::Shape&nbsp;}}</div><div>has traditionally been used for classification of bacteria along with {{c2::metabolic reactions.}}</div>	
+The shape of bacteria is due to their {{c1::rigid cell wall}} which has a unique structure.	
+<div>The Gram stain may be used to differentiate between {{c1::Gram positive and Gram negative}}</div><div>bacteria.</div>	
+{{c3::Gram negative}} bacteria stain {{c1::red}} by the {{c2::counterstain.}}	
+{{c3::Gram positive}} bacteria stain {{c2::purple}} from {{c1::crystal violet}}.	
+The Gram reaction reflects the more complex structure of {{c1::Gram negative}} cell walls.	
+<div>Microorganisms may be grown in the laboratory if supplied with suitable&nbsp;{{c1::</div><div>physical&nbsp;</div><div>conditions</div><div>}}, {{c2::nutrients}} and {{c3::water}}.</div>	
+<div>Organisms usually grow over a range of {{c1::temperatures}} and&nbsp;</div><div>{{c2::pH values}}, with an optimum within the range.</div>	
+{{c1::obligate aerobes}} require {{c2::oxygen for metabolism}}	
+{{c2::obligate anaerobes}}&nbsp;can only survive {{c1::in the absence of oxygen}}	
+{{c1::facultative anaerobes}} grow in {{c2::either the presence or absence of oxygen}}	
+Nutrients are supplied to bacteria/fungi in {{c1::nutrient media}}	
+Nurients provided to bacteria include:<div><div>{{c1::carbon}}, usually organic such as</div><div>glucose; {{c2::nitrogen}}, organic or inorganic; growth factors such as {{c3::vitamins}} and {{c4::mineral salts}}.</div></div>	
+{{c1::Glucose}} is the normal {{c2::source of energy}} for bacteria.	
+<div>{{c1::Aseptic techniques}} involve handling cultures in such a way as to&nbsp;{{c2::</div><div>prevent their&nbsp;</div><div>contamination</div><div>}}&nbsp;by unwanted organisms</div>	
+<div>{{c1::Aseptic tecniques}} also prevent the</div><div>contamination of {{c2::personnel and the immediate environment}} by the organisms being cultured</div>	
+{{c2::Total counts}} of bacteria include {{c1::both living and dead cells.}}	
+{{c2::Viable cell counts}} of bacteria include {{c1::living cells only.}}	
+For a {{c1::viable count}}&nbsp;a known volume of organisms is added to agar plates, incubated and<div>the colonies counted</div>	
+A {{c2::viable cell count}} assumes that {{c1::one cell gives rise to one colony.}}	
+If bacterial colones {{c1::clump}} then a {{c2::viable count}} cannot be carried out.	
+{{c1::Serial dilutions}} provide a final number of bacteria within a {{c2::countable range.}}	
+<div>A {{c1::pure culture}} of an organism is needed for the formation and harvesting of&nbsp;{{c2::</div><div>a pure&nbsp;product }}</div>	
+For {{c2::maximum efficeincy}} a organisms grown in a fermenter must be supplied with&nbsp;{{c3::suitable conditions}} for growth and have {{c1::}}no competition	
+Fermenter vessels should be&nbsp;{{c1::sterilised}} beforehand and an appropriate {{c2::sterile medium}} used	
+<div>{{c1::Aseptic conditions&nbsp;}}</div><div>and handling are required to {{c2::maintain purity}} of a bacteria/fungi culture</div>	
+{{c1::Forced aeration}} may be required for {{c2::maximum growth}} of aerobes.	
+{{c1::Aeration}} of a culture may also mix the culture and {{c2::improve contact}} with nutrients.	
+A {{c1::seperate mixer}} is often better for mixing cultures.	
+{{c1::Temperature monitoring}} and control are required to maintain constant conditions in a fermenter.	
+{{c1::water jackets}} remove {{c2::excess heat}} produced during the culture process	
+{{c1::air inlets}} of a fermenter may use {{c2::spargers}} or other devices to improve aeration.	
+<div>sophisticated monitors are used to improve control of temperature and&nbsp;</div><div>pH</div>	Comercially
+<div>For the commercial production of penicillin, the fungus {{c2::Penicillium notatum}} is grown in&nbsp;{{c1::</div><div>a</div><div>batch culture</div>}}	
+Penicillin&nbsp;is produced {{c1::after the growth phase}}, when {{c2::glucose}} is<div>depleted.</div>	
+{{c1::Penicillin production}} reflects the need for the organism&nbsp;&nbsp;when free living, to {{c2::reduce competition}}<div>when food sources are depleted</div>	
+To collect penicillin&nbsp;{{c1::the mycelium}}&nbsp;is removed by {{c2::filtration}} of the culture fluid and the antibiotic&nbsp;{{c3::purified from&nbsp;<div>the residual liquid</div>}}	
+Ecosystems are {{c1::dynamic}} and {{c1::subject to change}}.	
+Define Population	All the organisms that constitute a specific group or occur in a specified habitat.
+{{c1::Population numbers}} will {{c2::fluctuate}} and this is dependent on various factors	
+<div>{{c1::Population numbers}} are dependent on the {{c2::birth and death rates}}, and&nbsp;{{c3::</div><div>immigration into the</div><div>population and emigration away</div>}}	
+Populations will {{c1::increase in size}} whilst {{c2::death rate is lower than birth rate.}}	
+<div>Some factors will {{c1::slow down}} population growth rate and some will cause a&nbsp;{{c2::</div><div>population</div><div>crash</div>}}	
+Draw a sigmoid growth curve.	<img src="http://images.tutorvista.com/content/plant-growth-movements/growth-curve.jpeg" />
+<div>{{c1::Weather}}, {{c2::predation}}, {{c3::parasitism (disease)}}, {{c4::food supply}}, {{c5::living space}} and {{c6::competition}} may</div><div>affect population growth</div>	
+The effect of {{c1::density dependent}} factors varies with the {{c2::size of the population}}.	
+The effect of {{c1::density independent}} will be the same regardless of the population size	
+Define carrying capacity	The number of people, other living organisms, or crops that a region can support without environmental degradation.
+<div>The advantages of {{c1::chemical control}} include&nbsp;{{c2::</div><div>rapid eradication of a pest over a specified</div><div>localised area</div><div>}}&nbsp;and relative {{c3::cost effectiveness}}</div>	
+<div>The disadvantages of {{c1::chemcal control}} include the d{{c2::evelopment&nbsp;</div><div>of resistance}}&nbsp;and {{c3::toxicity risks}} to non target organisms</div>	
+<div>The advantages of {{c1::biological control}} include {{c2::its specificity}}, with {{c3::no resistance}} and&nbsp;{{c4::no environmental damage}}&nbsp;or residues</div>	
+<div>A disadvantage of {{c1::biological control}} is the {{c2::initial cost of the research}}</div><div>required to evaluate the agent’s biology.</div>	
+<div>{{c1::Microorganisms}} play an important role in the process of decay, releasing compounds of</div><div>{{c2::essential chemical elements from the bodies of dead organisms.}}</div>	
+Draw the carbon cycle.	<img src="http://eo.ucar.edu/kids/green/images/carboncycle_sm.jpg" />
+Draw the nitrogen cycle.	<img src="http://www.physicalgeography.net/fundamentals/images/nitrogencycle.jpg" />
+{{c1::Nitrogen}} is found in {{c2::all amino acids}} from which proteins are made.	
+<div>{{c1::Nitrogen}} is available</div><div>to plants only in the form of {{c2::ammonium}} and {{c3::nitrate}} ions</div>	
+{{c1::Nitrate}} ions are taken up by the roots of the plant	
+<div>Nitrates are used for...&nbsp;</div>	protein&nbsp;and nucleic acid synthesis
+The {{c1::nitrogen cycle}} is the {{c2::flow of organic and inorganic nitrogen}} within an ecosystem	
+<div>The main processes of the nitrogen cycle are {{c1::putrefaction}}, {{c2::nitrification}}, {{c3::nitrogen fixation}}</div><div>and {{c4::denitrification}}</div>	
+<div>Ploughing and drainage are important in {{c1::aeration}} of the soil, producing the&nbsp;{{c2::</div><div>aerobic</div><div>conditions</div><div>}}&nbsp;required by {{c3::nitrifying bacteria.}}</div>	
+<div>The term {{c1::homeostasis}} is used to describe the mechanisms by which a&nbsp;{{c2::</div><div>constant internal</div><div>environment</div><div>}}&nbsp;is achieved.</div>	
+<div>All homeostatic processes</div><div>include a {{c1::detector}}, {{c2::coordinator}} and {{c3::effector}}.</div>	
+In most biological systems a {{c1::negative}} feedback system operates.	
+{{c1::Osmoregulation}} is the {{c2::control of the water content and solute composition of body fluids}}	
+<div>{{c2::amino acids}}</div><div>cannot be {{c1::stored.}}</div>	
+{{c1::Surplus amino acids}} are {{c2::deaminated in the liver.}}	
+Draw {{c1::the}} mamalian urinary system.	<img src="http://www.encognitive.com/images/urinary-system.jpg" />
+Draw the gross structure of a kidney. {{c1:::)}}	<img src="http://academic.kellogg.edu/herbrandsonc/bio201_mckinley/f27-3r_gross_anatomy_of_c.jpg" />
+Draw a nephron	<img src="http://www.ivy-rose.co.uk/HumanBody-Images/Urinary/Kidney_Nephron_cIvyRose.png" />
+{{c2::Ultrafiltration}} is {{c1::filtration under pressure}}	
+{{c1::Ultrafiltration}}&nbsp;separates&nbsp;{{c2::small soluble molecules from the&nbsp;<div>plasma.</div>}}	
+<div>The&nbsp;{{c1::basement&nbsp;membrane}}&nbsp;of the capillary forms the selective barrier between the {{c2::blood and the nephron}}&nbsp;and it acts as a {{c3::molecular}} sieve</div>	
+<div>A {{c1::high filtration pressure}} is created in the glomerulus due to a difference in diameter</div><div>between {{c2::afferent and efferent}} arterioles and {{c3::high blood pressure}} in the {{c4::renal artery}}</div>	
+<div>{{c1::Selective reabsorption}} of glucose and Na+ (active) and Cl- and water (passive) takes place in the&nbsp;{{c2::proximal convoluted tubule.}}</div>	
+The cells of the proximal convoluted tubule have a&nbsp;{{c1::large surface<div>area</div><div>}}, due to {{c2::microvilli}} and {{c3::basal channels}}, {{c4::numerous mitochondria}}, closeness of blood</div><div>capillaries</div>	
+The l{{c1::oop of Henle}} enables a {{c2::counter current multiplier}} system to operate	
+The {{c1::length}} of the loop of henle is related to the {{c2::environment of mammals}}.	
+<div>{{c1::Na+ and Cl-&nbsp;}}ions are actively pumped out of the {{c2::ascending limb}} of the loop of henle into the tissue fluid of the&nbsp;medulla and diffuse into the {{c3::descending limb.}}</div>	
+<div>The ascending limb of the loop of henle is relatively {{c2::impermeable}} to water while the</div><div>descending limb is {{c1::permeable.}}</div>	
+Water leaves the {{c1::glomerular filtrate}} {{c2::osmotically}}	
+The contents of the descending limb of the loop of henle become {{c1::more concentrated}}	
+The {{c1::maximum concentration}} occurs at the {{c2::tip of the loop}} of Henle	
+<div>The {{c1::distal convoluted tubule}} and {{c2::collecting duct}} have restricted {{c3::permeability}} which is</div><div>subject to {{c4::hormonal control}}</div>	
+{{c1::Water reabsorption}} occurs through the {{c2::walls of the collecting duct}} as well as through the proximal convoluted tubule	
+<div>{{c1::ADH}} makes the walls of the duct {{c2::permeable}} so that water is reabsorbed and the urine&nbsp;has a {{c3::concentration close to the concentration of the tissues near the bottom}} of the loop of henle.</div>	
+<div>The detector of the osmoregulatory system is the {{c1::hypothalamus.}}</div>	
+<div>The coordinator of the osmoregulatory system is the {{c1::posterior lobe of the pituitary gland (ADH).}}</div>	
+The effector of the osmoregulatory system is&nbsp;{{c1::the collecting&nbsp;<div>ducts of kidney.</div>}}	
+<div>The {{c1::environment}} in which an animal lives plays a part in the {{c2::nitrogenous waste produced}}</div><div>and different animals deal with its disposal in different ways.</div>	
+<div>Aquatic animals produce {{c1::ammonia}}, birds and insects produce {{c2::uric acid}} and mammals</div><div>produce {{c3::urea}}.</div>	
+<div>Responses to all stimuli involve the reception of information and its transfer from the&nbsp;{{c1::receptor to an effector}} via the {{c2::nervous system}}.</div>	
+Effectors are either {{c1::muscles}} or {{c2::glands.}}	
+Draw a spinal cord cross section.	&lt;img src=<a href="http://www.oandplibrary.org/alp/images/chap27-01/a1.jpg">http://www.oandplibrary.org/alp/images/chap27-01/a1.jpg</a> /&gt;
+The {{c1::reflex arc}} is the basis for {{c2::protective involuntary}} actions.	
+<div>The {{c1::reflex arc}} is related to nerve pathways involved in {{c2::voluntary actions}} via a{{c3::</div><div>scending</div><div>and descending tracts</div><div>}}&nbsp;in the spinal cord.</div>	
+Draw a reflex arc{{c1::.::}}	&lt;img src=<a href="http://www.pitlochry.pkc.sch.uk/images/Biology/reflex%20arc.gif">http://www.pitlochry.pkc.sch.uk/images/Biology/reflex%20arc.gif</a> /&gt;
+{{c2::Amonification}} is carried out by {{c1::saprobiotic bacteria (saphrophytes)}}	
+<i>{{c1::<a title="Rhizobium" href="http://en.wikipedia.org/wiki/Rhizobium">Rhizobium</a></i>}}&nbsp;is a {{c2::nitrogen fixing}} bacteria which&nbsp;lives in the root nodules of {{c3::<a class="mw-redirect" title="Legumes" href="http://en.wikipedia.org/wiki/Legumes">legumes</a>}}	
+{{c1::Azotobacter}} is a free-living micro-organism which can fix atmospheric nitrogen into {{c2::amonium ions.}}	
+{{c1::Nitrosomonas}} is a bacteria which oxidises ammonia into {{c2::nitrite}}.	
+{{c1::Nitrobacter}} oxidises nitrite to {{c2::nitrate}}.	
+<em>{{c1::Pseudomonas}} is a denitrifying genus of bacteria.</em>	
+{{c1::Gram positive}} bacteria have more {{c2::peptidiglycan}} in their cell walls.	
+A {{c1::Gram-negative::}} bacteria has a {{c2::lipopolysaccharide::}} membrane.	
