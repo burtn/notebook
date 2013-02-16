@@ -1,0 +1,30 @@
+<about topic="Energy and Ecosystems" description="An ecosystem is a natural unit of living components (organisms) as well as the parts of the environment which they interact. These can also be referred to as biotic (living) or abiotic (not living). Energy flows through the ecosystem through a number of routes - the study of this particular process is ecological energetics."/>
+	<keywords>
+		<word>Habitat</word>
+		<word>Ecosystem</word>
+		<word>Comunity</word>
+		<word>Detritivores</word>
+		<word>Decomposers</word>
+		<word>producers</word>
+		<word>Herbivores</word>
+		<word>primary consumers</word>
+		<word>trophic level</word>
+		<word>excretion</word>
+		<word>respiration</word>
+		<word>food chain</word>
+		<word>carnivore</word>
+		<word>Gross primary productivity</word>
+		<word>net primary productivity</word>
+		<word>Seconday productivity</word>
+		<word>biomass</word>
+		<word>Succession</word>
+		<word>Climax community</word>
+		<word>quantitative</word>
+		<word>environment</word>
+	</keywords>
+	<files>
+		<file path="Flow_of_Energy.md"/>
+		<file path="Succession.md"/>
+		<file path="Communities.md"/>
+	</files>
+</about>
