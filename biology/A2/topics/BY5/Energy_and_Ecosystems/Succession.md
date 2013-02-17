@@ -1,0 +1,3 @@
+A succession is the change that occurs in a comunity in terms of its composition and structure over time. If a habitat has not previously supported a community before then the first succession refers to when the different species that make up the commnunity are introduced or begin to colonise the area. An example of this would be grass seeds after a volcanic erruption. Secondary successions on the other hand are where organisms are reintroduced into an area which has previously supported a community.
+
+Over time species diversity in the community gradually increases until such time as a table state is reached. This stable state is known as a climax community e.g. (in the UK) an Oak woodland.
