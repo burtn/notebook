@@ -1,0 +1,7 @@
+- An ecosystem consists of the living/biotic and non-living/abiotic inhabitants of an area and their interactions.
+- Ecological energetics is the study of energy flow through different ecosystems.
+- Energy passes between tropphics levels, moving higher up the energy pyramid each time.
+- The energy passin results in energy loss as a result of excretion and respiration.
+- Photosynthesis has a low efficiency.
+- Energy pyramids are one of the diagrams (and the most accurate) used in representing food chains/feeding relationships.
+- Succession is the change of a community over time in terms of its composition and structure.
