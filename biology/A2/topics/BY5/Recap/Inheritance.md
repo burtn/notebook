@@ -1,0 +1,7 @@
+- A monohybrid cross is the study of the inheritance of one single gene.
+- Dihybrid crosses show inheritance of two seperate genes.
+- In meiosis only one of a pair of alleles enters a gamete.
+- dihybrid inheritance involves a either of a pair of alleles combning randomly with either of another pair.
+- Co-domminance is where heterozygote individuals have a phenotype that is intermediate between two homozygous parents.
+- Genes that are present on the same chromosome are linked and inherited together.
+- Genes carried out the same sex chromosome are sex linked.
