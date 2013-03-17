@@ -1,0 +1,11 @@
+- Variation occurs as a result of environmental factors and genetic changes.
+- A genete mutation occurs when a change in the DNA base sequence is made.
+- A mutation is unpredicatable.
+- A chromosome mutation occurs because of modifications in chromosome structure.
+- Chromosome mutations can also occur because of changes in the number of individual or whole sets of chromosomes.
+- Natural selection suggests that organisms which are best adapted to survive reproduce to pass on their genes.
+- The genes passed on by sucessfull organisms contain beneficial characterstics for the next generation.
+- Organisms which reproduce through sexual reproduction have lots of genetic veriation.
+- The amount of genetic variation in a group of organisms is known as the gene pool.
+- If two populations become split and isolated from each other a new species may be formed.
+- Isolation can occur because of geographical mechanisms or reproductive mechanisms.
