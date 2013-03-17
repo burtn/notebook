@@ -1,0 +1,22 @@
+- Cloning can be used to produce genetically identical organisms.
+- Cloning can produce large numbers of oraganisms, quickly.
+- Micropropagation provides a rapid method for producing lots of genetically identical plants.
+- Artificial clones can be formed in animals by seperating embryos.
+- Growing cells in a lab is known as tissue culture.
+- Stem cells are important in tissue engineering.
+- Therapeutic stem cell cloning has large medical potential.
+- Stem cells raise ethical issues.
+- The human genome project has determined the order of the bases in the human genome.
+- The human genome project has also identified, sequenced and mapped all the bases in the human genome.
+- Genetic engineering takes genes from one organism and transfers them into another host organism.
+- Recombinant DNA technology involves the introduction of DNA from various organisms into bacteria.
+- Bacteria can be used in genetic engineering to produce a desired product.
+- A transgenic/genetically modified organism has its genotype altered.
+- A transgenic or GM organism produces a new strain of organism.
+- GM Organisms have lots of potential in agriculture (crops) and health.
+- Gene therapy aims to treat genetic diseases.
+- Gene therapy replaces defective genes in a patients body with those which function correctly.
+- A reaction called the polymerase chain reaction can produce large amounts of identical DNA from a small sample.
+- A persons genetic fingerprint (DNA profile) is unique to them.
+- DNA fingerprinting can be used sd forensic evidence.
+- DNA fingerprinting can also determine parents in paternity cases.
