@@ -1,0 +1,34 @@
+<about topic="Genetic Code & Cell Function" description="The gentic code of a human cell consists of DNA. This DNA has two functions in the cell. They are to specify which proteins are to be synthesised during protein synthesis and also to be replacated in cell division to create exact copies of cells."/>
+	<keywords>
+		<word>DNA</word>
+		<word>template</word>
+		<word>chromosomes</word>
+		<word>genes</word>
+		<word>protein synthesis</word>
+		<word>transcription</word>
+		<word>translation</word>
+		<word>RNA</word>
+		<word>codon</word>
+		<word>mRNA</word>
+		<word>tRNA</word>
+		<word>meiosis</word>
+		<word>homologous</word>
+		<word>ribosome</word>
+		<word>genotype</word>
+		<word>phenotype</word>
+		<word>crossing over</word>
+		<word>independant assortment</word>
+		<word>Climax community</word>
+		<word>quantitative</word>
+		<word>environment</word>
+	</keywords>
+	<files>
+		<file path="Replication.md"/>
+		<file path="Genetic_code.md"/>
+		<file path="Transcription.md"/>
+		<file path="Translation.md"/>
+		<file path="Protein_synthesis_and_Amino_acids.md"/>
+		<file path="Meiosis.md"/>
+		<file path="Importance_of_meiosis.md"/>
+	</files>
+</about>
