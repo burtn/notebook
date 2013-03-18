@@ -1,0 +1,3 @@
+To allow fertilisation to take place the sperm must travel from the seminiferous tubules where it is produced to the oviduct (fallopian tube) in the female. The sperm travels in a fluid called semen. Semen consists of sperm along with secretions from the seminal vesicles, prostate gland and Cowper's glands.
+
+Semen is ejaculated from the penis into the vagina, the force of the ejaculation is large enough that it will propel some sperm through the scervix and directly into the uterus. The sperm make lashing movements with their tails to propel themselves into the oviducts. It is however only a small number of sperm which make it this far and only one that fertilises the egg.
