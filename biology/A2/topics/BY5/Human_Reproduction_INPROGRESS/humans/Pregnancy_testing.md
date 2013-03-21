@@ -1,0 +1,3 @@
+Pregnancy tests use antibodies to test for the presence of human chorionic gonadotrophin. hCG is secreted by the chorion (which later becomes the placenta) during pregnancy to maintain he corpus luteum and can be found in the urine of pregnant women. The antibodies used in pregnancy tests are monoclonal. Monoclonal antibodies respond to only one foreign antigen this makes them very specific. In this case the antibodies are specific to hCG.
+
+hCG is produced during the early stage of pregnancy. The test requires that a reaction between the anitbodies and hCG occurs to cause changes on a coloured latex to which the antibodies are attached.
