@@ -1,0 +1,34 @@
+<about topic="Human Reproduction" description="Reproduction in humans"/>
+  <keywords>
+		<word>Ova</word>
+		<word>Ovaries</word>
+		<word>embryo</word>
+		<word>Gamete</word>
+		<word>Spermatogenesis</word>
+		<word>Oogenesis</word>
+		<word>diploid</word>
+		<word>haploid</word>
+		<word>spermatocyte </word>
+		<word>oocyte</word>
+		<word>acrosome</word>
+		<word>blastocyst</word>
+		<word>trophoblast</word>
+		<word>amnion</word>
+		<word>chorion</word>
+		<word>hCG</word>
+		<word>corpus luteum</word>
+		<word>monoclonal antibodies</word>
+	</keywords>
+	<files>
+		<file path="Female_Reproductive_System.md"/>
+		<file path="Fertilisation.md"/>
+		<file path="Gametogenesis.md"/>
+		<file path="Male_Reproductive_System.md"/>
+		<file path="Oogenesis.md"/>
+    <file path="Pregnancy_testing.md"/>
+    <file path="Sex.md"/>
+    <file path="Sperm.md"/>
+    <file path="Spermatogenesis.md"/>
+    <file path="Sub-fertility.md"/>
+	</files>
+</about>
