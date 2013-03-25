@@ -14,4 +14,4 @@
 - The light independant phase takes place in the stroma.
 - As part of this carbon dioxide is fixed to convert it into carbohydrate using the products of the light dependant phase.
 - The sysnthesis of ATP occurs in both cyclic and non-cyclic photophosphorylation.
-- Phptolysis takes place to replace lost electrons in chlorophyll.
+- Photolysis takes place to replace lost electrons in chlorophyll.
