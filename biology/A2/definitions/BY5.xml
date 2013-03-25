@@ -2,70 +2,67 @@
 <?xml-stylesheet type="text/xsl" href="template.xsl"?>
 
 <keywords topic="Energy and Ecosystems">
-		<word>Habitat</word>
-		<word>Ecosystem</word>
-		<word>Comunity</word>
-		<word>Detritivores</word>
-		<word>Decomposers</word>
-		<word>producers</word>
-		<word>Herbivores</word>
-		<word>primary consumers</word>
-		<word>trophic level</word>
-		<word>excretion</word>
-		<word>respiration</word>
-		<word>food chain</word>
-		<word>carnivore</word>
-		<word>Gross primary productivity</word>
-		<word>net primary productivity</word>
-		<word>Seconday productivity</word>
-		<word>biomass</word>
-		<word>Succession</word>
-		<word>Climax community</word>
-		<word>quantitative</word>
-		<word>environment</word>
+		<word definition="The sort of environment in which an organism normally lives and grows.">Habitat</word>
+		<word definition="The living organisms in a particular place, together with their physical environment.">Ecosystem</word>
+		<word definition="All of the groups of animals or plants living together in a environment interacting with one another.">Community</word>
+		<word definition="Organisms that obtain nutrients by consuming decomposing plant and animal parts as well as organic fecal matter.">Detritivores</word>
+		<word definition="An organism that decomposes organic material.">Decomposers</word>
+		<word definition="The Þrst level in a food pyramid; consist of organisms that generate the food used by all other organisms. Includes plants (photosynthesis).">producers</word>
+		<word definition="An animal that feeds primarily on plants.">Herbivores</word>
+		<word definition="Animals that are adapted to eat plants.">primary consumers</word>
+		<word definition="A energy level whithin an ecosystem that consists of organisms that share the same function in the food chain.">trophic level</word>
+		<word definition="The process of eliminating or expelling waste matter.">excretion</word>
+		<word definition="The metabolic processes allowing organisms to obtain energy from organic molecules.">respiration</word>
+		<word definition="A 'chain' of organisms which are dependant on the previous member as a food source.">food chain</word>
+		<word definition="A animal which feeds on flesh.">carnivore</word>
+		<word definition="The rate at which the procducers of an ecosystem capture and store energy as biomass.">Gross primary productivity</word>
+		<word definition="Net primary producticity is gross primary productivity less the amount of energy lost in respiration. It is the energy passed to the next trophic level.">net primary productivity</word>
+		<word definition="The rate of generation of biomass in an ecosystem by the primary consumers (herbivores).">Seconday productivity</word>
+		<word definition="The weight of dried organisms (water removed) in a given area.">biomass</word>
+		<word definition="The process by which a community gives way to another.">Succession</word>
+		<word definition="A stable community formed as a result of sucessful adaptation to the environment.">Climax community</word>
+		<word definition="Measurement based on numbers as opposed to a quality.">quantitative</word>
+		<word definition="The conditions and surroundings which an organisms inhabits.">environment</word>
 </keywords>
 
 <keywords topic="Genetic Code & Cell Function">
-		<word>DNA</word>
-		<word>template</word>
-		<word>chromosomes</word>
-		<word>genes</word>
-		<word>protein synthesis</word>
-		<word>transcription</word>
-		<word>translation</word>
-		<word>RNA</word>
-		<word>codon</word>
-		<word>mRNA</word>
-		<word>tRNA</word>
-		<word>meiosis</word>
-		<word>homologous</word>
-		<word>ribosome</word>
-		<word>genotype</word>
-		<word>phenotype</word>
-		<word>crossing over</word>
-		<word>independant assortment</word>
-		<word>Climax community</word>
-		<word>quantitative</word>
-		<word>environment</word>
+		<word definition="The carrier of genetic information in (most) organisms. Abbreviation of Deoxyribonucleic acid.">DNA</word>
+		<word definition="The strand of DNA which is used to determine the sequence of nucleotides in RNA after transcription.">template strand</word>
+		<word definition="Twisted and compact structire of DNA and protein which carries genes.">chromosomes</word>
+		<word definition="A distinct sequence of nucleotides forming part of a chromosome which dictates which polypeptide should be synthesised in protein synthesis.">genes</word>
+		<word definition="Process in which cells build proteins at ribosomes using tRNA and mRNA with ammino acids.">protein synthesis</word>
+		<word definition="The process in which DNA is transcribed into an mRNA molecule for protein synthesis.">transcription</word>
+		<word definition="Performed at the ribosomes translation takes nucleotide triplets on mRNA and builds a sequnce of amino acids as part of protein synthesis.">translation</word>
+		<word definition="Abbreviation of Ribonucleic acid. Carries instrictions from DNA in most organisms by can be the carrier of genetic information (instead of DNA) in some viruses.">RNA</word>
+		<word definition="Sequence of three nucleotides which together indicate an amino acid which should be built into a polypeptide chain.">codon</word>
+		<word definition="Messenger RNA is a template for protein synthesis. It is made from transcription before mRNA leaves the nucleus through nuclear pores and travels to ribosome(s) where it is read to synthesis proteins.">mRNA</word>
+		<word definition="Transfer RNA is a small RNA molecule that joins an amino acid to a polypeptide chain as part of protein synthesis.">tRNA</word>
+		<word definition="Cell division which produces four haploid daughter cells.">meiosis</word>
+		<word definition="Chromosomes which have the same structural features and gene loci which pair up during meiosis.">homologous</word>
+		<word definition="A cell organelle found in the cytoplasm consisting of a large and small sub unit which reads mRNA and produces polypeptide chains.">ribosome</word>
+		<word definition="The alleles at the same loci of each chromosome of an organism.">genotype</word>
+		<word definition="The observable characteristics of an individual produced by its genes.">phenotype</word>
+		<word definition="Occuring durin meiosis it is the exchange of genes between homologous chromosomes.">crossing over</word>
+		<word definition="The random manner in which chromosomes are distributed to each gamete produced in meiosis.">independant assortment</word>
 </keywords>
 
 <keywords topic="Human Reproduction">
-		<word>Ova</word>
-		<word>Ovaries</word>
-		<word>embryo</word>
-		<word>Gamete</word>
-		<word>Spermatogenesis</word>
-		<word>Oogenesis</word>
-		<word>diploid</word>
-		<word>haploid</word>
-		<word>spermatocyte </word>
-		<word>oocyte</word>
-		<word>acrosome</word>
-		<word>blastocyst</word>
-		<word>trophoblast</word>
-		<word>amnion</word>
-		<word>chorion</word>
-		<word>hCG</word>
-		<word>corpus luteum</word>
-		<word>monoclonal antibodies</word>
+		<word definition="The mature female reproductive cell.">Ova</word>
+		<word definition="The female reproductive orgam in females in which ova (eggs) are produced.">Ovaries</word>
+		<word definition="An animal organism in the early stages of growth and differentiation.">embryo</word>
+		<word definition="A male of female mature germ cell which when meeting with ">Gamete</word>
+		<word definition="The production and subsequent development of mature spermatozoa.">Spermatogenesis</word>
+		<word definition="The production and subsequent development of an ovum.">Oogenesis</word>
+		<word definition="Having two sets of chromosomes, one maternal and one paternal.">diploid</word>
+		<word definition="Having a single set of chromosomes.">haploid</word>
+		<word definition="The cell formeed from spermatogonium in the seconda stage of spermatozoa formation. Spermatocytes later divide into spermatids through meiosis.">spermatocyte</word>
+		<word definition="The name given to the immature female reproductive cell before it is fertilized.">oocyte</word>
+		<word definition="The acrosome is an organelle that develops over the anterior half of the head in the spermatozoa (sperm cells) it contains enzymes which break down the outer membrane of the ovum.">acrosome</word>
+		<word definition="A hollow structure in early embryonic development that contains a cluster of cells which give rise to the embryo.">blastocyst</word>
+		<word definition="Cells forming the outer layer of a blastocyst which provide nutrients to the developing embryo and eventually form the placenta.">trophoblasts</word>
+		<word definition="A membrane that surrounds and protects an embryo.">amnion</word>
+		<word definition="The outermost membrane surrounding an embryo.">chorion</word>
+		<word definition="Abbreviation for human chorionic gonadotropin. hCG is a hormome produced in pregnancy which acts to maintain the corpus luteum.">hCG</word>
+		<word definition="Literally 'yellow body' the corpus luteum develops from the ovarian follicle and produces progesterone. This is the hormone which thickens the uterus lining for implantation.">corpus luteum</word>
+		<word definition="Highly specific antibodies which are clones of a single parent cell.">monoclonal antibodies</word>
 </keywords>
