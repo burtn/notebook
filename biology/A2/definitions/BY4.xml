@@ -2,20 +2,19 @@
 <?xml-stylesheet type="text/xsl" href="template.xsl"?>
 
 <keywords topic="Control Systems">
-		<word definition="">homeostasis</word>
-		<word definition="">negative feedback</word>
-		<word definition="">thermoregulation</word>
-		<word definition="">osmoregulation</word>
-		<word definition="">nitrogenous</word>
-		<word definition="">urea</word>
-		<word definition="">ultrafiltration</word>
-		<word definition="">selective reabsorption</word>
-		<word definition="">ADH</word>
-		<word definition="">pituitary gland</word>
-		<word definition="">metabolic water</word>
-		<word definition="">ultrafiltration</word>
-		<word definition="">Bowman's capsule</word>
-		<word definition="">basement membrane</word>
+		<word definition="Adjustment of an organisms internal environment to allow it to maintain a stable equilibrium.">homeostasis</word>
+		<word definition="As a mechanism for maintaining homeostasis it is where the action of effectors counteract changes in order to maintain a stable state.">negative feedback</word>
+		<word definition="The ability of an organism to keep its body temperature within certain boundaries.">thermoregulation</word>
+		<word definition="The maintenance of constant osmotic pressure through variations in water/salt concentration.">osmoregulation</word>
+		<word definition="Containing nitrogen.">nitrogenous</word>
+		<word definition="Water soluable and nitrogenous product produced as a result of protein metabolism (mammals).">urea</word>
+		<word definition="Filtration under high hydrostatic pressure which retains large molecules.">ultrafiltration</word>
+		<word definition="The process by which substances that are required by the body (e.g. glucose) that have previously been removed from the blood (via ultrafilration) are reabsorbed. It occurs in the proximal convolouted tubule.">selective reabsorption</word>
+		<word definition="Abbreviation for Antidiuretic hormone. ADH is secreted by the posterior pituitary gland and changes the permiability of the collecting duct wall.">ADH</word>
+		<word definition="A gland which is located at the base of the brain and is the 'master gland' of the endocrine system.">pituitary gland</word>
+		<word definition="Water created by a living organism through metabolism.">metabolic water</word>
+		<word definition="The sac which surrounds the glomerulus at the start of the nephron. It is where ultrafiltration occurs.">Bowman's capsule</word>
+		<word definition="A thin membrane of fibrous protein that sperates an epithelium from unerlying tissue.">basement membrane</word>
 </keywords>
 
 <keywords topic="Cycles">
