@@ -6,15 +6,15 @@
 		<word definition="The living organisms in a particular place, together with their physical environment.">Ecosystem</word>
 		<word definition="All of the groups of animals or plants living together in a environment interacting with one another.">Community</word>
 		<word definition="Organisms that obtain nutrients by consuming decomposing plant and animal parts as well as organic fecal matter.">Detritivores</word>
-		<word definition="An organism that decomposes organic material.">Decomposers</word>
-		<word definition="The Þrst level in a food pyramid; consist of organisms that generate the food used by all other organisms. Includes plants (photosynthesis).">producers</word>
+		<word definition="(An) organism(s) that decomposes organic material.">Decomposers</word>
+		<word definition="The first level in a food pyramid; consist of organisms that generate the food used by all other organisms. Includes plants (photosynthesis).">producers</word>
 		<word definition="An animal that feeds primarily on plants.">Herbivores</word>
 		<word definition="Animals that are adapted to eat plants.">primary consumers</word>
 		<word definition="A energy level whithin an ecosystem that consists of organisms that share the same function in the food chain.">trophic level</word>
 		<word definition="The process of eliminating or expelling waste matter.">excretion</word>
 		<word definition="The metabolic processes allowing organisms to obtain energy from organic molecules.">respiration</word>
 		<word definition="A 'chain' of organisms which are dependant on the previous member as a food source.">food chain</word>
-		<word definition="A animal which feeds on flesh.">carnivore</word>
+		<word definition="c">carnivore</word>
 		<word definition="The rate at which the procducers of an ecosystem capture and store energy as biomass.">Gross primary productivity</word>
 		<word definition="Net primary producticity is gross primary productivity less the amount of energy lost in respiration. It is the energy passed to the next trophic level.">net primary productivity</word>
 		<word definition="The rate of generation of biomass in an ecosystem by the primary consumers (herbivores).">Seconday productivity</word>
@@ -42,7 +42,7 @@
 		<word definition="A cell organelle found in the cytoplasm consisting of a large and small sub unit which reads mRNA and produces polypeptide chains.">ribosome</word>
 		<word definition="The alleles at the same loci of each chromosome of an organism.">genotype</word>
 		<word definition="The observable characteristics of an individual produced by its genes.">phenotype</word>
-		<word definition="Occuring durin meiosis it is the exchange of genes between homologous chromosomes.">crossing over</word>
+		<word definition="Occuring during meiosis it is the exchange of genes between homologous chromosomes.">crossing over</word>
 		<word definition="The random manner in which chromosomes are distributed to each gamete produced in meiosis.">independant assortment</word>
 </keywords>
 
@@ -50,7 +50,7 @@
 		<word definition="The mature female reproductive cell.">Ova</word>
 		<word definition="The female reproductive orgam in females in which ova (eggs) are produced.">Ovaries</word>
 		<word definition="An animal organism in the early stages of growth and differentiation.">embryo</word>
-		<word definition="A male of female mature germ cell which when meeting with ">Gamete</word>
+		<word definition="A male of female mature germ cell which when meeting with each other form a zygote.">Gamete</word>
 		<word definition="The production and subsequent development of mature spermatozoa.">Spermatogenesis</word>
 		<word definition="The production and subsequent development of an ovum.">Oogenesis</word>
 		<word definition="Having two sets of chromosomes, one maternal and one paternal.">diploid</word>
