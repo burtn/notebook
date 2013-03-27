@@ -18,34 +18,33 @@
 </keywords>
 
 <keywords topic="Cycles">
-		<word definition="">Nitrogen</word>
-		<word definition="">Carbon</word>
-		<word definition="">saprobionts</word>
-		<word definition="">fossil rules</word>
-		<word definition="">nucleic acid</word>
-		<word definition="">putrifaction</word>
-		<word definition="">nitrification</word>
-		<word definition="">Denitrification</word>
+		<word definition="Chemical element with atomic number 7 - key component of amino acids, DNA, RNA etc.">Nitrogen</word>
+		<word definition="Chemical element with atomic number 6 - key component of carbohydrates, lipids, DNA etc. Also used by plants in photosynthesis.">Carbon</word>
+		<word definition="Organisms that digest their food externally before absorbing the products.">saprobionts</word>
+		<word definition="A molecule which is made of a number of nucleotides linked together to form a chain. Examples include DNA & RNA.">nucleic acid</word>
+		<word definition="The decay of a body or other organic matter.">putrifaction</word>
+		<word definition="Oxidization of ammonia into nitrate or nitrite.">nitrification</word>
+		<word definition="The reduction of nitrate into nitrogen.">Denitrification</word>
 </keywords>
 
 <keywords topic="Energy and ATP">
-		<word definition="">ATP</word>
-		<word definition="">activation energy</word>
-		<word definition="">ADP</word>
-		<word definition="">phoshorylation</word>
-		<word definition="">enzyme</word>
-		<word definition="">substrate</word>
-		<word definition="">glucose</word>
+		<word definition="Abbreviation for Adenosine triphosphate. ATP is the 'unviersal energy currency' it provides enerfy for biochemical reactions in a number of organisms.">ATP</word>
+		<word definition="The energy required for a reaction/procees to commence.">activation energy</word>
+		<word definition="Abbreviation of Adenosine diphosphate. ADP is ATP less a phosphate group. Removing the phosphate group from ATP releases 30 KJ/mol of energy.">ADP</word>
+		<word definition="The process of adding a inorganic phosphate group to a molecule.">phoshorylation</word>
+		<word definition="A protein which works as a catalyst for a biochemical reaction.">enzyme</word>
+		<word definition="The substance on which an enzyme acts.">substrate</word>
+		<word definition="A monosaccharide sugar. It has several forms, alpha & beta..">glucose</word>
 </keywords>
 
 <keywords topic="Microbiology">
-		<word definition="">Bacillus</word>
-		<word definition="">Cocci</word>
-		<word definition="">Spirilium</word>
-		<word definition="">Gram-negative</word>
-		<word definition="">Gram-positive</word>
-		<word definition="">peptidoglycan</word>
-		<word definition="">lysozyme</word>
+		<word definition="A rod-shaped bacterium.">Bacillus</word>
+		<word definition="A spherical bacterium.">Cocci</word>
+		<word definition="A bacterium with a rigid spiral structure oft found in stagnant water.">Spirilium</word>
+		<word definition="Not retaining the violet stain used in Gram's method which shows that the bacterium has very little peptidoglycan in its cell wall; though the bacteria will have an outer membrane of polyscaccharides and proteins.">Gram-negative</word>
+		<word definition="Retaining the violet stain used in Gram's method which shows the bacteria has a cell wall primarily made of peptidoglycan but lacking the outer membrane of gram negative bacteria. (also often less toxic)">Gram-positive</word>
+		<word definition="Peptidoglycan, also known as murein, is a polymer consisting of sugars and amino acids that forms a mesh-like cell wall.">peptidoglycan</word>
+		<word definition="An enzyme that catalyzes the destruction of the cell walls of gram positive bacteria (by removing a the peptidoglycan and causing lysis) that is found in tears.">lysozyme</word>
 		<word definition="">lipopolysaccharide</word>
 		<word definition="">aseptic</word>
 		<word definition="">Colony</word>
