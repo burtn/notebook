@@ -1,0 +1,5 @@
+Shortly ofter fertilisation of the plant fruit development takes place. This occurs allongside the development of the seed. The seed itself develops out of the ovule and consists of both the embryo of the plant and a food store. These sperate components are formed from the double fertilisation that occurs in flowering plants though the embryo is developed from the zygote. To form the embryo the diploid zygote divides by mitosis. This forms an embryo that is made up of several components. These components are the plumule, radicle and cotyledons. These can also be referred to as the developing shoot, developing root and seed leaves respectively. There can also be only one seed leaf instead of two.
+
+The food store part of the seed is developed from the triploid endosperm nucleus and provides a reserve nutrient supply for the developing embryo. Surrounding the entire seed however is the sead coat, referred to as the testa which is formed from the integuments.
+
+Generalising these developments it can be said that the ovule becomes the seed whilst the ovary becomes the fruit.
