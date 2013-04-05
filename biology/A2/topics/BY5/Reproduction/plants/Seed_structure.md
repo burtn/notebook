@@ -1,0 +1,3 @@
+Seeds can be broadly classified into two groups. Dicotelydons which have two seed leaves (cotelydons) and monocotyledons which have only one seed leaf or cotelydon. The broad bean is an example of a dicotelydon whilst the maize plant is a monocotyledon example.
+
+The broad been (Vicia faba) seed food store is absorbed into the cotelydons. Maize however often have endosperm consisting of cereal grain which surround the cotelydons. In fact the monocotelydon group includes cereals. The arrangement of food storage in the maize plant actually makes the maize a fruti rather than a seed which is the hard part within the maize (think sweetcorn).
