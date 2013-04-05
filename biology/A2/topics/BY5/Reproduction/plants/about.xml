@@ -1,0 +1,39 @@
+<about topic="Plant Reproduction" description="Reproduction in plants"/>
+  <keywords>
+  	<word>flower</word>
+		<word>petal</word>
+		<word>stigma</word>
+		<word>anther</word>
+		<word>stamen</word>
+		<word>sepal</word>
+		<word>style</word>
+		<word>ovule</word>
+		<word>embryo sac</word>
+		<word>recpetacle</word>
+		<word>angiosperms</word>
+		<word>pollination</word>
+		<word>desiccation</word>
+		<word>generative nucleus</word>
+		<word>tube nucleus</word>
+		<word>dehiscence</word>
+		<word>triploid endosperm nucleus</word>
+		<word>integuments</word>
+    <word>dicotyledon</word>
+    <word>monocotyledon</word>
+    <word>germination</word>
+    <word>apices</word>
+    <word>amylase</word>
+    <word>plumule</word>
+    <word>radicle</word>
+	</keywords>
+	<files>
+		<file path="Flower_fertilisation.md"/>
+		<file path="Flower_sex_cells.md"/>
+		<file path="Flower_structure.md"/>
+		<file path="Fruit_development.md"/>
+		<file path="Genetic_Implications_(Pollination).md"/>
+    <file path="Germination.md"/>
+    <file path="Pollination.md"/>
+    <file path="Seed_structure.md"/>
+	</files>
+</about>
