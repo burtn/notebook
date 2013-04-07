@@ -1,0 +1,3 @@
+Dihybrid inheritance is where two seperate genes are inherited. These are crosses between individuals with two contrasting traits of interest e.g. a white and large rat with a brown and small rat. In offspring there are four possible characteristics, in this case Brown small, Brown Large, White Large & White Small. These characteristics express themselves in a 9:3:3:1 ratio. This ratio is known as the dihybrid ratio.
+
+Using the evidence from his pea experiments and this ration mendel proposed his second law that "Each member of a pair of alleles can combine in a random manner with either of another pair." This law is also referred to as the law of independant assortment.
