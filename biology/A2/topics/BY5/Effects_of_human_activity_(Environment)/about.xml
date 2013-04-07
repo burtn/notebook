@@ -1,0 +1,46 @@
+<about topic="Effects of human activity on the environment" description="The manner in which humans behave has a significant impact on our environment and creates new selection pressures."/>
+<keywords>
+    <word>Warfarin</word>
+    <word>Resistance</word>
+    <word>Antibiotic</word>
+    <word>penicillinase</word>
+    <word>conjugation</word>
+    <word>Artificial selection</word>
+    <word>Inbreeding</word>
+    <word>Outbreeding</word>
+    <word>Extinction</word>
+    <word>Endangered species</word>
+    <word>CITES</word>
+    <word>conservation</word>
+    <word>ecotourism</word>
+    <word>monoculture</word>
+    <word>deforestation</word>
+    <word>regeneration</word>
+    <word>erosion</word>
+    <word>coppicing</word>
+    <word>rotation time</word>
+    <word>selective cutting</word>
+    <word>biofuel</word>
+    <word>trawling</word>
+    <word>drift netting</word>
+    <word>overfishing</word>
+    <word>eutrophication</word>
+    <word>global warming</word>
+    <word>greenhouse gas</word>
+    <word>fertiliser</word>
+    <word>nitrates</word>
+    <word>phosphates</word>
+    <word>algal bloom</word>
+</keywords>
+<files>
+    <file path="Resistance.md"/>
+    <file path="Artificial_selection.md"/>
+    <file path="Biodiversity.md"/>
+    <file path="Biofuels.md"/>
+    <file path="Carbon_cycle.md"/>
+    <file path="Deforestation.md"/>
+    <file path="Exploitation_through_farming.md"/>
+    <file path="Fertilisers.md"/>
+    <file path="Overfishing.md"/>
+</files>
+</about>
