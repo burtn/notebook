@@ -14,3 +14,4 @@ XH-XHXh--XHY-
 XH = Heamophillia
 Xh = Normal
 
+Linkage can also occur on other genes. Linked genes which are present on the same chromosome pass into the offspring remaining linked. Linked genes do not result in Mendelian ratios unless recombination occurs. Recombination is where alleles are exchanged between homologous chromosomes through the crossing over step process in meiosis. Since crossing over only happenes in upto 10% of cells undergoing meiosis that changes are the very few gametes will have recombinant genes and so practically nil offspring will have the recombinant genes. However the distance between each gene determines the chance of crossing over taking place with longer distances increasing the chance.
