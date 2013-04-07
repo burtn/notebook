@@ -1,0 +1,33 @@
+<about topic="Variation & Evolution" description=""/>
+<keywords>
+    <word>Continuous variation</word>
+    <word>Discontinuous variation</word>
+    <word>heritable</word>
+    <word>Non-heritable</word>
+    <word>ABO</word>
+    <word>phenotypic variation</word>
+    <word>Selection pressure</word>
+    <word>Predation</word>
+    <word>gene pool</word>
+    <word>population</word>
+    <word>genetic drift</word>
+    <word>natural selection</word>
+    <word>Speciation</word>
+    <word>Geographical isolation</word>
+    <word>Reproductive isolation</word>
+    <word>Behavioural isolation</word>
+    <word>Mechanical isolation</word>
+    <word>Gametic isolation</word>
+    <word>hybrid</word>
+    <word>hybrid unviability</word>
+    <word>hybrid sterility</word>
+</keywords>
+<files>
+    <file path="Variation.md"/>
+    <file path="Selection.md"/>
+    <file path="Competition.md"/>
+    <file path="Isolation.md"/>
+    <file path="Speciation.md"/>
+    <file path="Genetics.md"/>
+</files>
+</about>
