@@ -1,0 +1,35 @@
+<about topic="Inheritance" description=""/>
+<keywords>
+    <word>Monohybrid</word>
+    <word>Dihybrid</word>
+    <word>backcross</word>
+    <word>Chi-squared</word>
+    <word>Mutation</word>
+    <word>Mutagen</word>
+    <word>Sickle cell anaemia</word>
+    <word>substitution</word>
+    <word>Haemoglobin S</word>
+    <word>Non-disjunction</word>
+    <word>disjunction</word>
+    <word>trisomy 21</word>
+    <word>tetraploid</word>
+    <word>tetraploidy</word>
+    <word>Polyploidy</word>
+    <word>carcinogen</word>
+    <word>Oncogenes</word>
+    <word>supressor cells</word>
+</keywords>
+<files>
+    <file path="Genes_and_alleles.md"/>
+    <file path="Genetic_Terms.md"/>
+    <file path="Sex_determination.md"/>
+    <file path="Linkage.md"/>
+    <file path="Statistical_methods.md"/>
+    <file path="Monohybrid_inheritance.md"/>
+    <file path="Dihybrid_inheritance.md"/>
+    <file path="Co-domminance.md"/>
+    <file path="Mutations.md"/>
+    <file path="anaemia.md"/>
+    <file path="Carcinogens.md"/>
+</files>
+</about>
