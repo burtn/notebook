@@ -45,8 +45,7 @@
 		<word definition="Retaining the violet stain used in Gram's method which shows the bacteria has a cell wall primarily made of peptidoglycan but lacking the outer membrane of gram negative bacteria. (also often less toxic)">Gram-positive</word>
 		<word definition="Peptidoglycan, also known as murein, is a polymer consisting of sugars and amino acids that forms a mesh-like cell wall.">peptidoglycan</word>
 		<word definition="An enzyme that catalyzes the destruction of the cell walls of gram positive bacteria (by removing a the peptidoglycan and causing lysis) that is found in tears.">lysozyme</word>
-		<!-- Added to flashcards -->
-		<word definition="Large molecules mad of a lipid and polysaccharide joined by a covalent bond that are found in the outer membrane of Gram-negative bacteria.">lipopolysaccharide</word>
+		<word definition="Large molecules made of a lipid and polysaccharide joined by a covalent bond that are found in the outer membrane of Gram-negative bacteria.">lipopolysaccharide</word>
 		<word definition="(referring to technique) Techniques that aim to ensure the complete exclusion of harmful micro-organisms.">aseptic</word>
 		<word definition="A group of bacteria grown from a single cell on a culture medium.">Colony</word>
 		<word definition="A microorganism that can cause disease.">Pathogen</word>
@@ -118,7 +117,7 @@
 		<word definition="Respiration step in which electrons are passed along a chain through a series of redox reactions in which they lose energy to produce a concentration gradient.">Electron transport chain</word>
 		<word definition="The removal of a carboxyl group which releases carbon dioxide.">decarboxylation</word>
 		<word definition="The removal of hydrogen from a molecule as H2.">dehydrogenation</word>
-		<word definition="Adenosine triphosphate. The universal energy currency ">ATP</word>
+		<word definition="Adenosine triphosphate. The universal energy currency.">ATP</word>
 		<word definition="Adenosine diphosphate. Can be made into ATP though the adition of a phosphate group (phosphorylation) and when ATP loses a phosphate group to form ADP 30.5 kJ/mol of energy is released.">ADP</word>
 		<word definition="An electron acceptor and carrier that is reduced to NADH an gives up its electrons to the electron transport chain.">NAD</word>
 		<word definition="An electron carrier in respiration which is reduced to FADH2 it only contributes to 2 ATP as it has less energy, passing its electrons to a later point in the electron transport chain.">FAD</word>
