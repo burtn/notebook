@@ -1,0 +1,19 @@
+Humans have a large impact in biodiversity both negativly e.g. driving species to extinction and postivily e.g. species conservation programs.
+
+Extinction is firstly a natrual prcess. It has taken place since from the very first organisms and continues to the present day. The issue is however that extinctions occur at a much increased rate now in comparison with the background rate which scientists beleive is the normal rate at which extinction would be occuring. The background rate is said to be 1 in every 1 million species per year. It is also estimated that human activity (primarily in the tropics but also through agriculture, forestry, mining and expanding our own population i.e. urnban development) has increased this by over 10000 times. Extinction is also not simply confined to terestrial animals - marine life is also impacted especially by the removal of corral reefs on which a third of marine life depends.
+
+Those organisms which are 'on the brink' of extinction are said to be endangered species. The decline in numbers which leads to a species becoming endangered is often attributed to three main causes. These causes are over hunting or over fishing, habitat loss, competition from other species (especially those which have been introduced). Pollution, deforestation and destruction of wetlands are also attributed as causing a decline in population numbers. By altering ecosystems in this manner not only is the organism or organims which inhabit the ecosystem affected but also other species which are dependant on those organisms too.
+
+Any organism has the potential to contain useful chemicals or desese fighting genes. As a result it is important to conserve the gene pool of every species on earth as best as possible. This is done through species conservation which is the planned preservation of wildlife.
+
+The animals and plants that we make use of through farming and horticulture are descendants of wild plants and animals. Unlike wild animals and plants they have more 'genetic uniformity' and little to no rare alleles. Even when performing artificial selection some characteristics may be overlooked which could later become more important. For example if you were choosing only the biggest cattle for meat purposes you might not realise that you were also selecting for less hairy cows which might not survive well should it suddenly become cold. To reintroduce this genes wild plants and animals need to be used much like a 'gene bank' would be. It is important to carry out species conservation at the present time rather than later because it may become too late.
+
+Numerous steps have been taken to prevent the loss of genes which may be potentially useful. These steps include: Sotrage of seeds in seed banks, sperm banks, caring of older breeds through 'rare breed societies', various peices of legislation such as CITES, reintroduction programmes, breeding programmes, public awareness campaigns.
+
+Legislation like CITES can be used to prevent over-fishing, over-hunting, plant collecting and egg collecting - not just trade (in endangered species) prevention.
+
+Another system that has been developed in order to promote conservation is that of ecotourism. Ecotourism is responsible travel to places which have natural environments that are in need of conservation and which the tourism improves the well being of the local [human] population.
+
+The goals of ecotourism include: contrinuting to conservation, employing local people, giving back to the community, co-operation with local people and educating the visitors as well as the local people about the environmental issues involved.
+
+The UK body for promoting nature conservation is the coutryside commission. The countryside commission produces a number of publications and creates nature reserves - advising government on the activities that affect the coutries wildlife and that wildlifes natural habitat.
