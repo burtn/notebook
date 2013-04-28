@@ -1,4 +1,4 @@
-A reflex is an involontary response to a stimulus. Involuntary responses such as moving away
+A reflex is an involuntary response to a stimulus. Involuntary responses such as moving away
 from a hot surface are involuntary as the brain is not involved in the process.
 
 A reflex is a series of events which form a 'reflex arc'. A reflex arc consists of a stimulus -
@@ -14,6 +14,6 @@ by preventing (skin) burning on a hot surface.
 
 Although the brain is not normally involved in reflexes it can become involved and can modify the
 usual response. The brain does this through inhibitory nerve fibres and usually when it has extra
-'data' availiable to it - such as a sound. So that the brain can intervene in reflexes the
+'data' available to it - such as a sound. So that the brain can intervene in reflexes the
 impulses that create them can also travel to the brain through ascending nerve fibres that
 originate in the spinal cord's grey matter.

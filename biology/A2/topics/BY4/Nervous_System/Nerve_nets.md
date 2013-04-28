@@ -1,5 +1,5 @@
-The term Hydra refers to the geus of simple (and small) fresh-water dwelling animals which have
-radial symetry. Radial symetry is the property that an organisms has no left or right side - just
+The term Hydra refers to the genus of simple (and small) fresh-water dwelling animals which have
+radial symmetry. Radial symmetry is the property that an organisms has no left or right side - just
 a top and bottom. 
 
 Since hydra are 'simple' (though complicated in that they show morphallaxis and not senescence
