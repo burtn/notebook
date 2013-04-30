@@ -1,0 +1,5 @@
+The human genome project started in 1990 as a worldwide initiative. It aimed to determine the sequence of the four bases (A: Adenine, G: Guanine, C: Cytosine, T: Thymine) in all of human DNA. Once this was determined the project aimed to identify the genes that are produced by all the bases. These genes then had to be located on the human chromosome. Subsequently all this data had to be stored in databases designed for the task. Along the way the researchers had to consider the ethical, social and legal issues that they met collecting the data on the human genome.
+
+The information from the human genome project has numerous beneficial applications. The information tells scientists which sections of DNA on each of the 23 chromosomes are responseible for inherited diseases. Thereby allowing scientists to replace bad genes with normal functioning copies which are also known.
+
+The human genome project was a long task - identifying the 25,000 genes alone took 13 years and finished in 2003. The remaining tasks involve analysing the data collected.
