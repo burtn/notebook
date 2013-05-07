@@ -1,0 +1,1 @@
+Genetic engineering is deliberately modifying an organism by manipulating its genetic material to produce the require characteristics. This can range from modifying bacteria to produce drugs to 'building' pest resistant crops. Genetic egineering is carried out through recombinant DNA technology.
