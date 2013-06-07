@@ -35,7 +35,7 @@ change away from the optimum.
 
 Continuous cultivation is the better method for collecting products which are
 primary metabolites. This is because continuous cultivation allows for
-production to continue for a longer period of time. This is the products.
+production to continue for a longer period of time.
 Insulin is one product which is produced this way.
 
 
