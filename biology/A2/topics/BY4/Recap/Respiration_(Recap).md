@@ -1,7 +1,7 @@
 - Respiration is a series of reactions which take place withhin the cells of organisms.
 - As a result of these reactions energy is released from organic molecules like glucose.
 - The energy released has the form of ATP.
-- ATP is made form a molecule of ADP and Pi.
+- ATP is made from a molecule of ADP and Pi.
 - In order to add phosphate group to a molecule a phosphorlylaton must take place.
 - Respiration consists of four stages.
 -- Glycolysys
