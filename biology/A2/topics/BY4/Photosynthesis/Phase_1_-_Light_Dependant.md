@@ -1,4 +1,4 @@
-The light independant phase of photosynthesis involves several sub-processes. Photolysis - which is
+The light dependant phase of photosynthesis involves several sub-processes. Photolysis - which is
 the splitting of water molecules using energy from photons (light) to produce hydrogen ions and
 electrons. The reduction of NADP into reduced NADP (NADPH) and finally the synthesis of ATP from ADP
 and inorganic phosphate as in respiration. Since plants make use of light energy in this process the
