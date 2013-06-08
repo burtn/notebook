@@ -228,5 +228,5 @@ The 4 stages of respiration are...
 
 !SLIDE
 
-#### [Original text notes](https://github.com/jake5991/notebook/tree/master/biology/A2/topics/BY4/Photoperiodism)
+#### [Original text notes](https://github.com/jake5991/notebook/tree/master/biology/A2/topics/BY4/Recap)
 
