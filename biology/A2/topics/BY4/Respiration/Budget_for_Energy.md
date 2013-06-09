@@ -6,7 +6,7 @@ four produced are resused for the initial activation of the glucose molecule. Gl
 produces two reduced NAD molecules which have the potential to produce six more molecules of ATP
 through aerobic respiration.
 
-The link reaction produces six molecules of ATP
+The link reaction also produces two molecules of reduced NAD which have the potential to produce six molecules of ATP.
 
 Krebs cycle produces twenty-four molecules of ATP of which two are made from substrate level
 phosphorylation.
