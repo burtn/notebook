@@ -1,7 +1,7 @@
 - Cloning can be used to produce genetically identical organisms.
-- Cloning can produce large numbers of oraganisms, quickly.
+- Cloning can produce large numbers of organisms, quickly.
 - Micropropagation provides a rapid method for producing lots of genetically identical plants.
-- Artificial clones can be formed in animals by seperating embryos.
+- Artificial clones can be formed in animals by separating embryos.
 - Growing cells in a lab is known as tissue culture.
 - Stem cells are important in tissue engineering.
 - Therapeutic stem cell cloning has large medical potential.
@@ -18,5 +18,5 @@
 - Gene therapy replaces defective genes in a patients body with those which function correctly.
 - A reaction called the polymerase chain reaction can produce large amounts of identical DNA from a small sample.
 - A persons genetic fingerprint (DNA profile) is unique to them.
-- DNA fingerprinting can be used sd forensic evidence.
+- DNA fingerprinting can be used as forensic evidence.
 - DNA fingerprinting can also determine parents in paternity cases.

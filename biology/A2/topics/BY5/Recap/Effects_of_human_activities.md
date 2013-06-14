@@ -1,14 +1,14 @@
 - Mankind has a significant impact on the environment.
 - If pesticides are over used organisms can become resistant.
-- Atrifical selection is where animals or plants are cross bred to produe offspring with useful characteristics.
+- Artificial selection is where animals or plants are cross bred to produce offspring with useful characteristics.
 - Human activity is a major contributing factor to species extinction.
 - Conservation preserves gene pools which are already in existence.
 - There are conflicts that occur between farming and conservation.
 - Deforestation causes a loss of habitats.
 - Deforestation can cause soil erosion and a change in atmospheric gas concentrations.
 - Growing levels of Carbon Dioxide are the cause of the greenhouse effect. This possibly impacts global warming.
-- Use of fertilisers results in water pollution and cause eutrophication.
+- Use of fertilisers results in water pollution and causes eutrophication.
 - Eutrophication is excessive richness of nutrients in a lake or other body of water.
-- Increases in comercial fishing has resulted in overfishing in many locations.
+- Increases in commercial fishing has resulted in overfishing in many locations.
 - Biofuels have the potential to reduce greenhouse gas emissions.
 - Adoption of biofuels may result in reduction of habitats for both plants and animals.

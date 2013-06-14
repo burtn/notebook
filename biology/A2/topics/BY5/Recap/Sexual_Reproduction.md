@@ -1,11 +1,11 @@
 - In sexual reproduction haploid gametes fuse to produce a diploid zygote.
 - For humans spermatozoa are produced in the testes. (Male)
 - For humans ova are produced in the ovaries. (Female)
-- Spermatogenisis is the process that produces sperm.
-- Oogenisis is the production of the secondary oocyte.
+- Spermatogenesis is the process that produces sperm.
+- Oogenesis is the production of the secondary oocyte.
 - Fertilisation can only occur after capacitation.
-- Two main methods of polination for folowering plants, wind or insect.
-- Cross-polintation allows for far greater genetic variation in a population of plants.
+- Two main methods of pollination for flowering plants, wind or insect.
+- Cross-pollination allows for far greater genetic variation in a population of plants.
 - Self-pollination results in little genetic variation.
 - Flowering plants carry out double fertilisation, they are unique in this aspect.
 - The seed produced by flowering plants is enclosed within the ovary.
