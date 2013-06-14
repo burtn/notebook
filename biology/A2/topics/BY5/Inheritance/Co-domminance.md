@@ -1,3 +1,3 @@
-Co-domminance occurs when both alleles are dominant rather than one being recessive whilst the other is domminant. Because the alleles are both dominant they are both expressed in the phenotype of the individual. In most cases the expression of both alleles results in a phenotype that is midway between the two possible characteristics.
+Co-dominance occurs when both alleles are dominant rather than one being recessive whilst the other is dominant. Because the alleles are both dominant they are both expressed in the phenotype of the individual. In most cases the expression of both alleles results in a phenotype that is midway between the two possible characteristics.
 
-Examples of co-domminance include the roan colour in cattle which is a combination of the dominant red and white alleles and the pink snapdragon flower which is also a combination of the red and white dominant alleles.
+Examples of co-dominance include the roan colour in cattle which is a combination of the dominant red and white alleles and the pink snapdragon flower which is also a combination of the red and white dominant alleles.

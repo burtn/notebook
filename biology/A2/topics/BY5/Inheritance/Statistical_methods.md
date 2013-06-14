@@ -8,4 +8,4 @@ The Chi-squared test is carried out as follows:
 
 - Calculate the 'degrees of freedom'. The degrees of freedom are a measure of the spread of the data equal to the number of classes of data minus one.
 
-- Using a Chi-sqaured table the significance of the diviation can be determined. If the deviation is less than 5% then it is significant and an unknown factor is affecting the results.
+- Using a Chi-squared table the significance of the deviation can be determined. If the deviation is less than 5% then it is significant and an unknown factor is affecting the results.
