@@ -1,0 +1,45 @@
+<br>	
+A {{c1:: hamiltonian cycle}} has the same {{c2:: number of edges as vertices}}.	
+The total {{c1::number of possible}} {{c2:: hamiltonian cycles}} is given by {{c3:: (n-1)!/2 }}	
+The {{c1:: degree of a vertex}} is the {{c2:: number of edges connected to it}}.	degree is also&nbsp;referred&nbsp;to as order or valency
+Two graphs with the {{c1:: same vertices and edges}} are {{c2::isomorphic}}.	
+A {{c1:: walk}} is a series of {{c2:: vertices with possible repeats}}.	
+A {{c1:: trail}} is a {{c2:: walk with no repeats}}.	
+A {{c1:: cycle/circuit}} is a {{c2:: closed path}}.	
+A {{c1:: path}}&nbsp;<span style="font-family: sans-serif; font-size: 13px; line-height: 19.1875px;">is a&nbsp;</span><a href="http://en.wikipedia.org/wiki/Sequence" title="Sequence" style="text-decoration: none; color: rgb(11, 0, 128); background-image: none; font-family: sans-serif; font-size: 13px; line-height: 19.1875px;">sequence</a><span style="font-family: sans-serif; font-size: 13px; line-height: 19.1875px;">&nbsp;of&nbsp;</span><a href="http://en.wikipedia.org/wiki/Edge_(graph_theory)" title="Edge (graph theory)" class="mw-redirect" style="text-decoration: none; color: rgb(11, 0, 128); background-image: none; font-family: sans-serif; font-size: 13px; line-height: 19.1875px;">edges</a><span style="font-family: sans-serif; font-size: 13px; line-height: 19.1875px;">&nbsp;which connect a sequence of&nbsp;</span><a href="http://en.wikipedia.org/wiki/Vertex_(graph_theory)" title="Vertex (graph theory)" style="text-decoration: none; color: rgb(11, 0, 128); background-image: none; font-family: sans-serif; font-size: 13px; line-height: 19.1875px;">vertices</a>	
+A graph is said to be {{c1:: simple}} if there are {{c2:: no loops}} and {{c3:: only one edge connecting each pair of vertices}}.	
+A {{c1:: tree}} is a {{c2:: connected graph with no cycles}}.	
+A {{c1:: complete graph}} has {{c2:: all vertices connected to every other}}.	
+The number of edges in graph Kn is {{c1:: n(n-1)/2 }}	
+A {{c1:: planar}} graph is one that can {{c2:: be drawn so that none of the arcs/edges cross}}.	
+{{c1:: Eulerian trails/cycles}} cover every edge {{c2:: exactly once}} - starting and finishing {{c3:: at the same vertex}}.	
+{{c1:: Eulerian graphs}} have {{c2:: all even nodes.}}	
+{{c1:: Semi-eulerian}} networks have {{c2:: two odd nodes}}.	
+A graph that you can {{c1:: draw without taking pen from paper}} is {{c2:: traversable}}.	
+A graph with {{c1:: directed arcs}} is called a {{c2:: directed graph or digraph}}.	
+A {{c1:: hamiltonian cycle}} is a {{c2:: cycle that visits all the&nbsp;vertices&nbsp;of a graph exactly once}}.	
+The total {{c1::number of edges}} in a {{c2:: hamiltonian cycle}} is given by {{c3:: (n-1)}}	
+A {{c1::graph}} consists of {{c2::vertices (nodes)}} and {{c3::edges (lines or arcs)}}.	
+An {{c2::edge that joins a vertex to itself}} is called a {{c1::loop}}.	
+The {{c1::degree (or order)}} of a vertex is {{c2::the number of edges connecting to it}}.	
+{{c1::Loops}} count {{c2::twice}} for the degree of a vertex.	
+A {{c1::connected graph}} is one in which {{c2::every vertex is linked by an edge or sequence of edges to every other vertex}}.	
+A {{c1::simple graph}} is one in which there are {{c2::no loops and two vertices are connected directly by at most only one edge.}}	
+A {{c1::subgraph}} is a graph that {{c2::exists within a graph using &nbsp;some of the vertices and nodes.}}	
+The {{c1::total degree of a network}} = &nbsp;{{c2::2 &nbsp;number of edges}}	
+The total degree of a network is always {{c1::even}}.	
+There are always an {{c1::even}} number of {{c2::odd order}} vertices in a network.	
+A {{c1::tree}} is a connected graph with {{c2::one less edge than the number of nodes.}}	
+An {{c1::Eulerian network}} is a graph where {{c2::all the vertices have an even order}}.	
+A {{c1::semi-Eulerian}} network is a graph with {{c2::only two vertices with an odd degree}}.	
+A {{c1::non-eulerian}} network has {{c2::more than two vertices with an odd degree}}. &nbsp;	
+An {{c1::Eulerian}} trail is a trail that uses {{c2::all the edges of a graph}}.	
+A {{c1::closed trail}} is one which {{c2::starts and finishes at the same vertex}}.	
+For a {{c1::Eulerian cycle}} to exist the graph must be a {{c2::Eulerian network.}}	
+For a {{c1::Eulerian path}} to exist the {{c2::start and finished nodes must be odd ordered}}. (making the network semi-eulerian)	
+A graph is {{c1::Hamiltonian}} if there is {{c2::a path that visits every node once and returns to the starting node}}.	
+A {{c1::complete graph}} is one where {{c2::every vertex is connected directly every other vertex}}.&nbsp;	
+There are {{c2::½ n(n-1)}} edges in a {{c1::complete Kn graph.}}	
+{{c1::Bipartite graphs}} have {{c2::edges between two sets of vertices.}}	
+A {{c1::bipartite graph}} can be {{c2::complete}} when each vertex in the first set connect to all vertices in the second set.	
+A complete bipartite graph has {{c1::m x n}} edges in total.	
