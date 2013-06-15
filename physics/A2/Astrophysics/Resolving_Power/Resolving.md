@@ -8,4 +8,4 @@ For the unaided human eye this means that the angular seperation must be larger 
 
 Resolving power is often quoted as a telescope 'spec' point. A telescope having a resolving power of 6e-5 radians can distinctly show two stars with an angular speration at or grater than 6e-5 radians (sometimes it is given in degrees).
 
-Refraction is also caused due to movement of air in the atmosphere of the earth. This smudges the image seen through ground telescopes to be smudged and the resolving power of such telescopes to also be reduced.
+Refraction is also caused due to movement of air in the atmosphere (atmospheric refraction) of the earth. This smudges the image seen through ground telescopes to be smudged and the resolving power of such telescopes to also be reduced.
