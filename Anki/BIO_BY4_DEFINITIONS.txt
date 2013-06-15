@@ -1,0 +1,94 @@
+Homeostasis	<span style="color: rgb(221, 17, 68); font-family: Consolas, 'Liberation Mono', Courier, monospace; font-size: 12px; line-height: 16px; white-space: pre;">Adjustment of an organisms internal environment to allow it to maintain a stable equilibrium.</span>
+Negative Feedback	<span style="color: rgb(221, 17, 68); font-family: Consolas, 'Liberation Mono', Courier, monospace; font-size: 12px; line-height: 16px; white-space: pre;">As a mechanism for maintaining homeostasis it is where the action of effectors counteract changes in order to maintain a stable state.</span>
+Thermoregulation	<span style="color: rgb(221, 17, 68); font-family: Consolas, 'Liberation Mono', Courier, monospace; font-size: 12px; line-height: 16px; white-space: pre;">The ability of an organism to keep its body temperature within certain boundaries.</span>
+Osmoregulation	<span style="color: rgb(221, 17, 68); font-family: Consolas, 'Liberation Mono', Courier, monospace; font-size: 12px; line-height: 16px; white-space: pre;">The maintenance of constant osmotic pressure through variations in water/salt concentration.</span>
+Nitrogenous	<span style="color: rgb(221, 17, 68); font-family: Consolas, 'Liberation Mono', Courier, monospace; font-size: 12px; line-height: 16px; white-space: pre;">Containing nitrogen.</span>
+Urea	<font color="#dd1144" face="Consolas, Liberation Mono, Courier, monospace"><span style="font-size: 12px; line-height: 16px; white-space: pre;">Water soluble and nitrogenous product produced as a result of protein metabolism (mammals).</span></font>
+Ultrafiltration	<span style="color: rgb(221, 17, 68); font-family: Consolas, 'Liberation Mono', Courier, monospace; font-size: 12px; line-height: 16px; white-space: pre;">Filtration under high hydrostatic pressure which retains large molecules.</span>
+Nitrogen	Chemical element with atomic number 7 - key component of amino acids, DNA, RNA etc.
+Carbon	Chemical element with atomic number 6 - key component of carbohydrates, lipids, DNA etc. Also used by plants in photosynthesis.
+Saprobionts	Organisms that digest their food externally before absorbing the products.
+Nucleic acid	A molecule which is made of a number of nucleotides linked together to form a chain. Examples include DNA &amp; RNA.
+Putrefaction	<div>The decay of a body or other organic matter.</div>
+Nitrification	Oxidization of ammonia into nitrate or nitrite.
+Denitfification	The reduction of nitrate into nitrogen.
+ATP	Abbreviation for Adenosine triphosphate. ATP is the 'unviersal energy currency' it provides enerfy for biochemical reactions in a number of organisms.
+Activation energy	The energy required for a reaction/procees to commence.
+ADP	Abbreviation of Adenosine diphosphate. ADP is ATP less a phosphate group. Removing the phosphate group from ATP releases 30 KJ/mol of energy.
+Phosphorylation	The process of adding a inorganic phosphate group to a molecule.
+Enzyme	A protein which works as a catalyst for a biochemical reaction.
+Substrate	The substance on which an enzyme acts.
+Glucose	A monosaccharide sugar. It has several forms, alpha &amp; beta..
+Bacillus	A rod-shaped bacterium
+Cocci	A spherical bacterium.
+Spirilium	A bacterium with a rigid spiral structure oft found in stagnant water.
+Gram negative	Not retaining the violet stain used in Gram's method which shows that the bacterium has very little peptidoglycan in its cell wall; though the bacteria will have an outer membrane of polyscaccharides and proteins.
+Gram positive	Retaining the violet stain used in Gram's method which shows the bacteria has a cell wall primarily made of peptidoglycan but lacking the outer membrane of gram negative bacteria. (also often less toxic)
+Peptidoglycan	Peptidoglycan, also known as murein, is a polymer consisting of sugars and amino acids that forms a mesh-like cell wall.
+Lysozyme	An enzyme that catalyzes the destruction of the cell walls of gram positive bacteria (by removing a the peptidoglycan and causing lysis) that is found in tears.
+lipopolysaccharide	Large molecules made of a lipid and polysaccharide joined by a covalent bond that are found in the outer membrane of Gram-negative bacteria.
+aseptic	(referring to technique) Techniques that aim to ensure the complete exclusion of harmful micro-organisms.
+colony	A group of bacteria grown from a single cell on a culture medium.
+Pathogen	A microorganism that can cause disease.
+Culture	Cultivation of microorganisms in an artificial medium containing nutrients.
+Ferment	To undergo the chemical breakdown of a substance by microorganisms e.g bacteria, yeast.
+Penicillin	An antibiotic group produced naturally by some blue moulds.
+Secondary metabolite	Organic compound that is not directly involved in the normal growth and development of an organism.
+Stimuli	Things that causes a physiological response.
+CNS	Central Nervous System
+effector	A cell/s that acts in response to a stimulus.
+receptor	A cell capable of responding to stimulus and transmiting a signal to a sensory nerve.
+reflex	An action that is performed without conscious thought.
+hydra	A tiny aquatic invertebrate with a stalk-like tubular body and a ring of tentacles around the mouth. (of same phyla as jellyfish)
+Sensory neuron	A neuron which is responsible for converting external stimuli into corresponding internal stimuli.
+Motor neuron	A neuron which carries signals from the spinal cord to the muscles in order to produce movement.
+relay neuron	A neuron that forms a connection between other neurons.
+action potential	A short-lasting event in which the electrical membrane potential of a cell rapidly rises and falls.
+synapse	A junction between two nerve cells with a minute gap across which impulses pass by diffusion of a neurotransmitter. In humans this neurotransmitter is acetylcholine.
+depolarised	To have lost polarity.
+photoperiodism	Response of an organism to changes in the relative length of light and dark periods (day length).
+photoperiod	The time each day during which an organism receives light. (equal to day length)
+phytochrome	A pigment that plants use to detect light. It is sensitive to light in the red and far-red region of the visible spectrum.
+Pr	The ground state of phytochrome in which red light is strongly absorbed.
+Pfr	State of phytochrome in which far-red (fr) light is absorbed in preference to red light.
+short day plants	Plants which flower when the day lengths are less than their critical photoperiod.
+long day plants	Plants which flower when the day length exceeds their critical photoperiod.
+day neutral plants	Plants which do not initiate flowering based on photoperiodism at all.
+photosynthesis	A process used by plants and other autotrophic organisms to convert light energy into chemical energy in the form of ATP.
+light dependant phase	The first stage of photosynthesis by which plants capture and store energy from sunlight. In this process, light energy is transferred to energy-carrying molecules ATP and NADPH.
+light-independant phase	The part of photosynthesis referred to as the calvin cycle which occurs in the stroma through which carbon dioxide (or alternatives) is converted to glucose.
+Engelmann	Theodor Engelmann carried out an 1882 experiment measured the effects of different colors of light on photosynthetic activity and showed that the conversion of light energy to chemical energy took place in the chloroplast.
+action spectra	(in terms of photosyntehsis) The action spectrum shows the rate of photosynthesis at different wavelengths.
+Absorbance spectra	(in terms of photosyntehsis) The absorption spectrum shows how strongly the pigments absorb at different wavelengths.
+pigments	Chemical compounds which reflect only certain wavelengths of visible light.
+chlorophylls	Greenish pigments which contain a porphyrin ring.
+carotenoids	Red, orange, or yellow pigments, and include the familiar compound carotene. They are accessory pigments because they must pass their absorbed energy to chlorophyll.
+carotene	A carotenoid pigment that gives carrots their colour.
+xanthophylls	Yellow pigments that form one of two major divisions of the carotenoid group.
+Accessory pigments	Accessory pigments are light-absorbing compounds that transfer energy to/work with chlorophyll a and have different absorption sepctra.
+photophosphorylation	The production of ATP using the energy of sunlight.
+immigrate	The movement of organisms into a region to which they are not native.
+emigrate	The movement of organisms from a region to which they are native.
+lag phase	The first stage of bacterial growth in which adapt themselves to growth conditions
+exponential phase	The secind stage of bacterial growth in which the number of new bacteria appearing per unit time is proportional to the present population.
+Stationary phase	Third phse of bacterial growth in which growth rate and death rate are equal.
+death phase	Final phase of bacterial growth in which bacteria run out of nutrients and die.
+density dependant	A factor affecting a population which has a varying affect based on the population size e.g. water supply
+density independant	A factor affecting the size of population which does not have a varying affect based on the population size e.g. weather, natural disaster.
+pesticides	A substance or substances used for destroying organisms which are harmful to crops or animals.
+resistance	The ability not to be affected by something in an adverse manner.
+glycolysis	The first step in respiration which produces two 3C pyruvate molecules through the removal of phosphate groups from glucose. This step reduces 2 NAD and produces 2 ATP.
+the link reaction	The second step in respiration in which pyruvate is converted to acetyl-CoA producing C02 and a molecule of NADH.
+the Krebs cycle	The sequence of reactions by which most living cells generate energy during the process of aerobic respiration. Produces 3NADH, 1FADH and 1 ATP (double for each glucose).
+electron transport chain	Respiration step in which electrons are passed along a chain through a series of redox reactions in which they lose energy to produce a concentration gradient.
+decarboxylation	The removal of a carboxyl group which releases carbon dioxide.
+dehydrogenation	The removal of hydrogen from a molecule as H2.
+ATP	Adenosine triphosphate. The universal energy currency.
+ADP	Adenosine diphosphate. Can be made into ATP though the adition of a phosphate group (phosphorylation) and when ATP loses a phosphate group to form ADP 30.5 kJ/mol of energy is released.
+NAD	An electron acceptor and carrier that is reduced to NADH an gives up its electrons to the electron transport chain.
+FAD	An electron carrier in respiration which is reduced to FADH2 it only contributes to 2 ATP as it has less energy, passing its electrons to a later point in the electron transport chain.
+pyruvate	An organic acid produced in glycolysis which is decarbocylated by Acetyl-CoA so the carbon can be used in the Krebs cycle. Can also ferment to produce lactic acid when oxygen is not availiable.
+Acetyl-CoA	acetyl coenzyme A. The main function of A-CoA is to convey the carbon atoms within the acetyl group to the citric acid cycle (Krebs cycle) to be oxidized for energy production.
+final electron acceptor	Oxygen is the final elextron acceptor in respiration.
+chemiosmotic	The movement of ions across a selectively permeable membrane.
+concentration gradient	A difference in concentration of solutes between two regions.
