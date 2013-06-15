@@ -1,0 +1,5 @@
+Resolving is the ability to pick out two objects as distinct. For example with a telescope you may be able to discern two distinct stars in the sky. Without the telescope however you may only see one star which is in fact a combination of the two stars megred together. Diffraction of light always occurs when passing through an aperture so light is diffracted when it passes through the objective. Much like the single slit experiment. Diffraction causes the image to spread out a small amount, the image becomes more spread out the smaller the aperture as more diffraction occurs.
+
+The diffractin pattern formed by diffraction at a circular aperture is a central bright spot surrounded by concentric circles which grow more faded the further from the center they are.
+
+It can be shown that for a wavelength of light ƛ which passes through a circular aperture with diameter D the angle by which the light will be diffracted to the first dark ring is given by ƛ/D.
