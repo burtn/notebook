@@ -1,0 +1,200 @@
+Habitat	The sort of environment in which an organism normally lives and grows.
+Ecosystem	The living organisms in a particular place, together with their physical environment.
+Community	All of the groups of animals or plants living together in a environment interacting with one another.
+Detritivores	Organisms that obtain nutrients by consuming decomposing plant and animal parts as well as organic fecal matter.
+Decomposer(s)	(An) organism(s) that decomposes organic material.
+Producers	The first level in a food pyramid; consist of organisms that generate the food used by all other organisms. Includes plants (photosynthesis).
+Herbivores	An animal that feeds primarily on plants.
+Primary consumers	Animals that are adapted to eat plants.
+Trophic level	A energy level whithin an ecosystem that consists of organisms that share the same function in the food chain.
+Excretion	The process of eliminating or expelling waste matter.
+Respiration	The metabolic processes allowing organisms to obtain energy from organic molecules.
+Food chain	A 'chain' of organisms which are dependant on the previous member as a food source.
+Carnivore	A 'chain' of organisms which are dependant on the previous member as a food source.
+Gross primary productivity (GPP)	The rate at which the procducers of an ecosystem capture and store energy as biomass.
+Net primary productivity (NPP)	Net primary producticity is gross primary productivity less the amount of energy lost in respiration. It is the energy passed to the next trophic level.
+Secondary productivity	The rate of generation of biomass in an ecosystem by the primary consumers (herbivores).
+Biomass	The weight of dried organisms (water removed) in a given area.
+Succession	The process by which a community gives way to another.
+Climax community	A stable community formed as a result of sucessful adaptation to the environment.
+Quantitative	Measurement based on numbers as opposed to a quality.
+Environment	The conditions and surroundings which an organisms inhabits.
+DNA	The carrier of genetic information in (most) organisms. Abbreviation of Deoxyribonucleic acid.
+Template strand	The strand of DNA which is used to determine the sequence of nucleotides in RNA after transcription.
+Chromosomes	Twisted and compact structire of DNA and protein which carries genes.
+Genes	A distinct sequence of nucleotides forming part of a chromosome which dictates which polypeptide should be synthesised in protein synthesis.
+Protein synthesis	Process in which cells build proteins at ribosomes using tRNA and mRNA with ammino acids.
+Transcription	The process in which DNA is transcribed into an mRNA molecule for protein synthesis.
+Translation	Performed at the ribosomes translation takes nucleotide triplets on mRNA and builds a sequnce of amino acids as part of protein synthesis.
+RNA	Abbreviation of Ribonucleic acid. Carries instrictions from DNA in most organisms by can be the carrier of genetic information (instead of DNA) in some viruses.
+Codon	Sequence of three nucleotides which together indicate an amino acid which should be built into a polypeptide chain.
+mRNA	Messenger RNA is a template for protein synthesis. It is made from transcription before mRNA leaves the nucleus through nuclear pores and travels to ribosome(s) where it is read to synthesis proteins.
+tRNA	Transfer RNA is a small RNA molecule that joins an amino acid to a polypeptide chain as part of protein synthesis.
+Meiosis	Cell division which produces four haploid daughter cells.
+Homologous	<div>Chromosomes which have the same structural features and gene loci which pair up during meiosis.</div>
+Ribosome	A cell organelle found in the cytoplasm consisting of a large and small sub unit which reads mRNA and produces polypeptide chains.
+Genotype	The alleles at the same loci of each chromosome of an organism.
+Phenotype	The observable characteristics of an individual produced by its genes.
+Crossing over	Occuring during meiosis it is the exchange of genes between homologous chromosomes.
+Independant assortment	The random manner in which chromosomes are distributed to each gamete produced in meiosis.
+Ova	The mature female reproductive cell.
+Ovaries	The female reproductive orgam in females in which ova (eggs) are produced.
+Embryo	An animal organism in the early stages of growth and differentiation.
+Gamete	A male of female mature germ cell which when meeting with each other form a zygote.
+Spermatogenesis	The production and subsequent development of mature spermatozoa.
+Oogenesis	The production and subsequent development of an ovum.
+Diploid	Having two sets of chromosomes, one maternal and one paternal.
+Haploid	Having a single set of chromosomes.
+Spermatocyte	The cell formeed from spermatogonium in the seconda stage of spermatozoa formation. Spermatocytes later divide into spermatids through meiosis.
+Oocyte	The name given to the immature female reproductive cell before it is fertilized.
+Acrosome	The acrosome is an organelle that develops over the anterior half of the head in the spermatozoa (sperm cells) it contains enzymes which break down the outer membrane of the ovum.
+Blastocyst	A hollow structure in early embryonic development that contains a cluster of cells which give rise to the embryo.
+Trophoblasts	<div>Cells forming the outer layer of a blastocyst which provide nutrients to the developing embryo and eventually form the placenta.</div>
+Amnion	A membrane that surrounds and protects an embryo.
+Chorion	The outermost membrane surrounding an embryo.
+hCG	Abbreviation for human chorionic gonadotropin. hCG is a hormome produced in pregnancy which acts to maintain the corpus luteum.
+Corpus luteum	Literally 'yellow body' the corpus luteum develops from the ovarian follicle and produces progesterone. This is the hormone which thickens the uterus lining for implantation.
+Monoclonal antibodies	Highly specific antibodies which are clones of a single parent cell.
+Flower	The part of the plant that contains the reproductive organs which is often surrounded with petals.
+Petal	A segment of the corolla of the flower.
+Stigma	Part of the female reproductive organs of a flower that receive the pollen.
+Anther	The part of the stamen that contains the pollen.
+Stamen	The male reproductive organ of a flower. Consists of anther and filament.
+Sepal	Forms a protective layer around the bud but becomes leaf like strutures at the base of the flower.
+Style	An elongated extension of the ovary which supports the stigma.
+Ovule	The part of the ovary (seed plants) that contains the female germ cell. Later becomes the seed.
+embryo sac	A cell within the ovule where fertilisation occurs. Contains the endosperm nucleus and (fertilised ovum) the developing embryo.
+Receptacle	Large area at the end of the stem which the flower is inserted into.
+Angiosperms	A group of flowers that have flowers and produced seeds (in a carpel).
+Pollination	The depositing of pollen on the stigma so that fertilisation can occur.
+Dessiccation	Have the moisture removed.
+Generative nucleus	The nuclues of the pollen grain which divides to form the sperm nuclei.
+Tube nucleus	A cell in the male gametophyte in plants that grows into the ovule.
+Dehiscence	The 'bursting' open of a seed vessel.
+triploid endpserm nucleus	Produced by the fusion of one male gamete with two polar bodies which forms the endosperm which provides nutrition (in the form of starch) to the embryo.
+integuments	Tough outer protective layers.
+dicotyledon	A flowering plant whose embryo produces two seed leaves (cotyledons)
+monocotyledon	A flowering plant whose embryo produces one seed leaf (cotyledon)
+germination	The process of growing/shoot formation that occurs after a period of dormancy in plants.
+apices	Plural of apex, the top of something.
+amylase	An enzyme which converts starch as well as glycogen into monosaccharides (simple sugars).
+plumule	The young shoot or stem of a plant embryo.
+radicle	The young (primary) root of a plant embryo.
+Warfarin	A water soluable anticoagulent that is used as a rat poison.
+Resistance	The ability to not be adversly affected by something.
+Antibiotic	A medicine wich prevents the growth of of kills microorganisms. e.g. Penicillin.
+Penicillinase	An enzyme produced by some bacteria which are resistant to antibiotics like penicillin. (Actually a form of Beta-lactamse)
+conjugation	Temporary fusion of bacteria to exchange genetic material.
+Artificial selection	(Selective breeding) Intentional breeding for certain traits.
+Inbreeding	To breed from a closely related group.
+Outbreeding	To breed from group which is not closely related.
+Extinction	To have no living members of a spcies.
+Endangered species	A species of organisms at high risk of extinction.
+CITES	The Convention on International Trade in Endangered Species which aims to ensure that international trade in specimens of wild animals and plants does not threaten the survival of the species.
+Conservation	The protection and restoration of wildlife and/or the environment.
+ecotourism	Tourism with the intent of supporting conservation efforts.
+Monoculture	The cultivation of just one crop in a given area.
+deforestation	The clearing of areas of forests.
+regeneration	Allowing a damaged area to recover.
+erosion	Gradual distruction.
+coppicing	The periodic cutting back of trees/shrubs in order to stimulate growth.
+rotation time	The time between crop rotations.
+selective cutting	The cutting out of trees that are mature or defective.
+biofuel	A fuel produced from living material.
+trawling	Fishing by dragging a large net along the bottom a body of water.
+Drift netting	Using a large net which is kept upright by floats and weights which drifts with the tide or currents to catch fish e.g. herring.
+overfishing	Depleting the stock of fish in a body of water through excessive fishing.
+eutrophication	Excessive nutrients in a body of water caused by (agricultural) run off. Often causes dense plant growth on the water e.g. algae.
+global warming	The gradual increase in the temperature of our atmosphere.
+greenhouse gas	A gas which contributes to the greenhouse effect through absorbtion of infrared radiation e.g. C02 &amp; CFC's.
+fertiliser	A substance that is added to soil to increase crop production/growth of plant life.
+nitrates	Salts of nitric acid which contain the NO3 group.
+phosphates	Salts of phosphoric acid.
+algal bloom	Sudden growth of cyanobacteria on a body of water.
+Continuous variation	Variation which is distributed in a continuous way such as a range of heights.
+Discontinuous variation	Variation which can be split into distinct groups such as eye colour.
+heritable	A characteristic which can be passed from parent to offspring.
+Non-heritable	A characteristic which can not be passed from parent to offspring
+ABO	A blood classification system for human blood which consists of four types A, B, O &amp; AB
+phenotypic variation	Variation in the observable characteristics of an individual.
+Selection pressure	An agent which makes a population change genetically.
+Predation	Preying on animals.
+gene pool	The variety of different genes in a population.
+population	A community of animals and plants.
+genetic drift	Variation in the occurences of different genotypes as a result of reproduction.
+natural selection	The tendancy of better adapted organisms to survive and produce more offspring.
+Speciation	The formation of distinct species through evolution.
+Geographical isolation	The speciation which occurs when a population becomes sperated as a result of geographical factors such as mountains.
+Reproductive isolation	The speciation which occurs when a population is prevented from interbreeding.
+Behavioural isolation	A form of reproductuve isolation in which animals which have complex mating rituals cannot elicit the necessary response in a potential partner.
+Mechanical isolation	A form of reproductuve isolation in which the genetalia of two subspecies or groups is incompatible.
+Gametic isolation	A form of reproductuve isolation in which the sperm fails to survive in the oviduct or pollen fails to germinate on the stigma.
+Hybrid	Offspring of plants or animals of different species.
+Hybrid unviability	Failiure of the embryo to develop in hybrids as a result of chromosomes no longer matching.
+hybrid sterility	The fact that hybrids are sterile as a result of the inability for the chromosomes from each parent to pair in meiosis preventing gamete production.
+clone	An organism that is produced asexually from a parent to which it is genetically identical.
+Embryo cloning	The creation of identical copies of an embryo by embryo splitting.
+nuclear transplant	A form of cloning in which the DNA from an oocyte (unfertilized egg) is replaced by injecting the nucleus which contains the DNA to be cloned.
+mutation	A change in the coding of a gene which can be passed on to future generations.
+Progeny	A descendant of an organism.
+Stem cell	An undifferentiated which can produce other types of cell through differentiation.
+In vitro	Lierally 'In glass' e.g. a test tube or petri dish.
+Differentiate	Become different through growth/development
+Tissue culture	Growing cells from living tissue in an atrificial medium.
+Tissue engineering	Using the principles of tissue growth to produce functional replacement tissue for clinical use.
+embryonic	Relating to the embryo.
+Micropropagation	Propagation of plants through growth in tissue culture and then planting them out.
+totipotent	Capable of giving rise to any cell type.
+meristems	Plant tissue at the tip of the root and shoot which forms new tissue.
+callus	Hard formation of tissue.
+propagation	Breed an organism through natural processes from parent stock.
+Human genome project	International project to chart the entire genetic material of a human being. Completed 2000.
+gene probes	Fragment of DNA or RNA that is used to detect the presence of complimentary nucleotide sequences.
+Pre-symptomatic	Before symptoms are exhibited.
+Pre-natal	Before birth.
+Huntington's	A neurodegenerative genetic disorder that affects muscle coordination and leads to cognitive decline. It is more common in Western Europeans and is caused by dominant mutation of the Huntingtin gene.
+Alzheimers	The most common form of dementia. Loss of cognitive ability.
+autosomal	Chromosome that is not a sex chromosome.
+Cystic fibrosis	An autosomal (non sex linked) recessive genetic disorder that affects the lungs and other organs causing thick, viscous secretions as a result of abnormal chloride (ion) transport.
+liposomes	Sphere of phospholipids which surround a water molecule.
+pancreatic duct	A duct joining the pancreas to the common bile duct to supply pancreatic juices which aid in digestion.
+CFTR	Cystic fibrosis transmembrane conductance regulator a protein ion channel which transports chloride which is also coded by the CFTR gene.
+Plasmid	A small DNA molecule that is separate from, and replicates independently of chromosomal DNA.
+DNA ligases	A ligase that catalyzes the bonding of free ends of double-stranded DNA with a phosphodiester bond.
+Recombinant DNA	DNA sequences that result from the use of laboratory methods to bring together genetic material from multiple sources.
+Restriction enzymes	Enzymes which can cut DNA at or near a specific sequence of bases.
+Sticky ends	The ends of a DNA double helix where one strand is longer than the other.
+Reverse transcriptase	An enzyme that catalyzes the formation of DNA from an RNA template.
+Transgenic	An organism that contains genetic material from another organism (that has been inserted artificially).
+GM/GMO	Genetically modified/Genetically modified organism.
+Electrophoresis	The movement of charged particles in a fluid or gel under the influence of an electric field.
+Gel Electrophoresis	A technique used for the separation of DNA, RNA as well as protein molecules.
+Polymerase	An enzyme that catalyses polymer formation.
+Peptide	Compound consisting of two or more amino acids linked in a chain.
+Genotype (General)	The genetic 'make up' of an organism.
+Mutation	A change in the base sequences of DNA that can be inherited by future generations.
+Genes (General)	Sections of DNA.
+Alleles	Alternative forms of the same gene. There are usually two for each gene.
+Codominance	Where both alleles are expressed in the characteristics of an orgaism.
+Dominant allele	Allele which expresses itself even when present with the recessive allele.
+Recessive allele	Allele which expresses itself only if present with another recessive allele.
+Homozygous recessive	Having both alleles recessive (one from the mother and one from the father).
+Homozygous dominant	Having both alleles domminant (one from the mother and one from the father).
+Heterozygous	Having one dominant and one recessive allele (one from the mother and one from the father).
+Monohybrid	A cross resulting in a hybrid which is heterozygous for a specific gene.
+Dihybrid	A cross resulting in a hybrid which is heterozygous for alleles of two different genes.
+Backcross	A cross involving an organism with the same genetics as a parent of that organism.
+Chi-squared	A statistical test which determines the fit between observed values and those expected.
+Mutagen	An agent which causes genetic mutation. e.g. a chemical
+Sickle cell anaemia	Hereditary form of anaemia where a mutated form of haemoglobin distorts the red blood cells into a crescent shape at low oxygen levels. (Common in Africa/those of African descent)
+Substitution	A gene mutation in which a substitution occurs.
+Haemoglobin S	The form of hemoglobin found in people with sickle cell anaemia.
+Non-disjunction	The failing of homologous chromosomes or sister chromatids to separate normally.
+disjunction	Speration of homologous chromosomes or sister chromatids.
+trisomy 21	An extra copy of chromosome 21 (trisomy is an extra chromosome), Trisomy 21 is the most common form of Down's syndrome.
+tetraploid	Having four homologous sets of chromosomes.
+tetraploidy	Having tetraploid cells.
+polyploidy	Containing more than two homologous sets of chromosomes.
+Carcinogen	Substance that can cause cancer in living tissue.
+Oncogenes	A gene that can cause cancer (turn a cell into a tumour cell).
+Suppressor cells	T cells which suppress the immune response of B cells and/or other T cells
