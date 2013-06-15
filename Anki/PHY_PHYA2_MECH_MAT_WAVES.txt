@@ -1,0 +1,79 @@
+A {{c3::scalar}} quantity has a {{c1::size}}, but no {{c2::specified direction}}.	
+A {{c1::vector}} quantity has {{c2::both direction and magnitude}}.	
+To resolve a diagonal force into its {{c2::vertical}} component use the formula {{c1::Fsin(angle)}}	
+To resolve a diagonal force into its {{c2::horizontal}} component use the formula {{c1::Fcos(theta)}}	
+<div>When the {{c1::resultant force}} and {{c2::resultant turning moment}} that are&nbsp;acting on a body are {{c3::zero}} the body is {{c4::in equilibrium.}}</div>	
+A body is in {{c1::equilibrium}} if the {{c2::3}} co-planar forces acting on it {{c3::meet at a point}}	
+<div>If a body is in {{c2::equilibrium}} due to 3 co-planar forces acting on it, then the forces can</div><div>be represented in size and direction by {{c1::the sides of a triangle.}}</div>	
+<div>The {{c1::moment or torque}} of a force is the size of {{c2::force x perpendicular distance}}&nbsp;between line of action of force and pivot.</div>	
+The units for {{c1::torque/moments}} are {{c2::Nm}}	Newton meters
+A couple is a pair of parallel forces which are equal and opposite to one another.	
+<div>The centre of {{c1::mass/gravity}} of a body is the point through which the weight force acts on the body as a result of gravity.</div>	
+{{c2::Displacement}} is a {{c3::vector}} and is equal to {{c1::the distance travelled in a given direction.}}	
+{{c1::Velocity}} is the {{c2::instantaneous gradient}} of the {{c3::displacement vs time graph}}	
+{{c4::Acceleration}} is the {{c2::gradient}} of the {{c3::velocity - time}} graph or the {{c1::second derivative of the displacement time graph.}}	
+Velocity is a {{c1::vector}} quantity.	
+Acceration is measured in {{c1::metres per second.}}	
+The |{{c3::displacement}}| can be determined from the total {{c1::area under}} the {{c2::velocity - time graph.}}	
+{{c1::v}} = {{c2::u + at}}	
+{{c1::s}} = ut + {{c2::1/2 at^2}}	
+{{c2::s}} = 1/2{{c1::(u+v)t}}	
+{{c2::v^2}} = {{c1::u^2 + 2as}}	
+To determine projectile motion use the velocity as {{c1::vertical and horizontal components.}}	
+Newtons {{c1::first law}} states that {{c2::a body continues in a state of either rest or constant velocity unless acted on by a resultant force.}}	
+Newton's {{c2::second}} law states that {{c1::F = ma}}	
+Newtons {{c1::third}} law states that {{c2::when an body exterts a force an equal and opposite force is exerted on that body.}}	
+{{c1::Work done}} = {{c2::force * displacement}}	
+{{c2::W}} = {{c1::Fs cosq}}	s = displacement
+{{c3::Power}} = {{c2::work done}} / {{c1::time taken}}	
+{{c2::Power}} is measured in {{c1::Watts}}	
+{{c3::Power}} = {{c2::Force}} * {{c1::velocity}}	
+The {{c1::total energy}} in a system {{c2::remains constant}} always.	
+{{c1::Kinetic energy}} = {{c2::1/2 * mv^2}}	
+{{c1::Gravitational potential energy}} = {{c2::mgh}}	
+{{c2::Efficiency}} = {{c1::useful output power / total input power}}	
+{{c2::Density}} = {{c1::Mass / Volume}}	
+{{c1::Hooke's law}} - {{c2::the force extending a material is proportional to the extension produced.}}	
+An {{c1::elastic material}} is one which {{c2::returns to its original shape after the applied force is removed.}}	
+If a material is stretched beyond its {{c1::elastic limit}} it will {{c2::not return to its original length.}}	
+An {{c3::inelastic}} material is one which does {{c2::not return to its original shape}} after {{c1::the applied force is removed.}}	
+If a material is forced {{c2::beyond its elastic limit}} {{c1::plastic flow}} may occur.	
+{{c1::Plastic flow}} is a situation where a {{c2::small increase in force}} causes {{c3::a large increase in extension.}}	This is the result of molecular planes sliding over one another.
+A {{c1::brittle}} material is one which shows {{c2::little or no plastic flow.}}	
+{{c2::Tensile stresss}} is the {{c1::force per unit cross sectional area.}}	
+{{c3::Tensile stress}} is measured in {{c2::N / m^2}} or {{c1::Pa}}	
+The {{c1::breaking stress}} is the {{c2::maximum stress that a material can withstand}}.	
+{{c1::Tensile strain}} is the {{c2::extension / original length.}}	
+{{c3::Young's modulus}} is the {{c1::tensile stress / tensile strain}} = {{c2::(F/A)/(dL/L)}}	
+{{c3::Young's modulus}} can be found from the {{c1::gradient}} of the {{c2::stress - strain graph.}}	
+{{c1::Youngs modulus}} has the units {{c2::N/m^2 or Pa}}	
+{{c1::Energy stored in a spring}} is {{c2::1/2 the force times extension.}}	
+{{c1::Energy storage}} is measured in {{c2::Joules}}.	
+The {{c1::energy stored in a spring}} can be found from the {{c2::area under}} the {{c3::Force - extension graph}}.	Work done in stretching = energy stored.
+The energy stored per metre cubed in a material is 1/2 * stress * strain.	Measured in J /m^3
+A wave leaving a medium at the {{c2::critical angle}} will be {{c1::refracted along the medium}}.	
+{{c1::Snell's Law}} states {{c2::n1sin(a) = n2sin(b)}}, {{c3::sin(a)/sin(b) = c1/c2}}	C are speeds in the medium and a &amp; b are angles of refraction.
+The {{c2::critical angle}} is the maximum angle of incidence for which {{c1::light inside a denser medium can still enter the less dense medium}}.	
+At the {{c2::critical angle}} the angle of {{c3::refraction}} is {{c1::90 degrees}}.	
+{{c1::Total internal reflection}} occurs when the {{c2::angle of incidence is greater thatn the critical angle}} for the material. When this happens {{c3::all the light is reflected inside the denser material.}}	
+{{c1::Step index fibre}} is when a fibre of {{c2::constant refractive index}} is {{c3::clad with different material}} of {{c3::lower refractive index.}}	
+The {{c1::amplitude}} of a wave is {{c2::the maximum displacement of a particle from its mean position}}.	
+{{c2::c::wave property}} &nbsp;= {{c1::f λ::wave formula}}	
+The {{c1::wavelength}} of a wave is {{c2::the distance between two adjacent particles which are in phase.}}	
+A {{c1::plane polarized}} wave is a wave whose {{c2::vibrations occur in a single plane.}}	
+A {{c1::longintudinal}} wave is one where the vibrations of the medium are {{c2::parallel to the wave direction.}}	
+A {{c1::transverse}} wave is one in which the vibrations of the medium are {{c2::perpendicular to wave direction.}}	
+A {{c1::superposition}} occurs where {{c2::two waves combine}} and the resultant wave has a {{c3::displacement that is the sum of both individual displacements at that point.}}	
+A {{c1::stationary}} wave is formed by the superposition of two waves whose {{c2::frequency}}, {{c3::speed}} and {{c4::amplitude}} are the same but are {{c5::moving in opposite directions}}.	
+An {{c1::antinode}} is a position of {{c2::maximum displacement}} on a wave.	
+An {{c1::node}} is a position of {{c2::minimum displacement}} on a wave.	
+The {{c2::phase difference}} between two waves is measured in {{c1::radians.}}	
+The {{c1::path difference}} is the difference in {{c2::path length of two waves}} in {{c3::wavelengths or metres.}}	
+A {{c1::coherent source}} produces waves with the {{c2::same frequency}} and are either {{c3::in phase}} or with a {{c4::constant phase difference.}}	
+{{c1::Contructive}} interference occurs where there is a path difference of a {{c2::whole number of wavelengths.}}	
+{{c1::Destructive}} interference occurs where there is a path difference of an {{c2::odd number of half wavelengths.}}	
+The fringe spacing formula is {{c2::w}} =&nbsp;{{c1::λ D / s}}	w (fringe spacing), D (slit-fringe distance), s (slit speratation)
+{{c1::Diffraction}} is the spreading of a vave {{c2::around an obstacle}} or spreading {{c3::after pasing through a gap.}}	
+{{c1::Diffraction}} is caused by {{c2::superposition}}.	
+Draw a single slit diffraction pattern.	<img src="image012.gif" />
+Diffraction gratings formula is {{c1::dsin(x) = nλ}}	n = order number, d = grating spacing
