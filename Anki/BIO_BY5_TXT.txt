@@ -1,0 +1,29 @@
+{{c2::Oncogenes}} can cause the cell to continue dividing by {{c1::uncontrolled mitosis}}. This is the formation of a {{c3::tumour}}.	
+A {{c1::tumour}} is a mass of cells produced by {{c2::uncontrolled mitosis}}.	
+{{c1::Benign}} tumours do not {{c2::spread from their site of origin}}.	
+{{c1::Malignant}} tumours spread throughout the body via the {{c2::blood}} and {{c3::lymph}}.	
+{{c1::Malignant}} tumours invade other tissue to create {{c2::secondary growths.}}	
+The spread of cancer by {{c1::malignant tumours}} is called {{c2::metastasis}}.	
+Cells with {{c1::mutations}} are normally {{c2::destroyed}}&nbsp;by the {{c3::immune system}}.	
+{{c1::Cancer}} cells are not&nbsp;destroyed&nbsp;by {{c2::the immune system.}}	
+Agents which cause {{c1::mutations}} are called {{c2::mutagens}}.	
+An agent which {{c1::causes cancer}} is called a {{c2::carcinogen}}.	
+Some {{c1::mutagens}} are {{c2::carcinogenic}}.	
+{{c1::1 in 3}} people will develop cancer during their lifetime.	
+{{c1::30%}} of cancers are due to tobacco and smoking.	
+{{c1::55%}} of cancers are due to diet.	
+Factors which increase mutation rates (and so chance of getting cancer) are: {{c1::ionising radiation}}, {{c2::chemicals (e.g. tar, tobacco smoke)}}, {{c3::viruses (e.g. HPV, HTLV)}} and {{c4::hereditary predisposition}}.	
+<span style="font-family: Arial, Verdana, sans-serif; font-size: 14px; line-height: 15px;">Mutations which can alter the genes controlling occur on/in {{c1::proto-oncogenes.}}</span>	
+<span style="font-family: Arial, Verdana, sans-serif; font-size: 14px; line-height: 15px;">Proto-oncogenes which alter mitosis can undergo {{c1::point mutations}} to {{c2::produce oncogenes}}.</span>	
+{{c1::Resistance}} is the {{c2::ability of an organism to survive exposure to harmful chemicals}} such as poisons {{c3::which in normal cases would result in the death of the organism.}}	
+{{c1::Warfarin}} is an {{c2::anticoagulant}} which is {{c3::used as a rat poison}}.	
+{{c1::Warfarin}} resistance is conferred to a rat by the {{c2::dominant}} R allele.	
+{{c1::MRSA}} is a {{c2::methicillin resistant strain of the Staphylococcus aureus}} bacteria which is resistant to {{c3::penicillin’s}}.&nbsp;	
+Resistance in {{c1::bacteria}} arises by mutations occurring randomly in populations of bacteria which {{c2::provide an advantage}} if the {{c3::particular antibiotic is present e.g. in hospitals}}	
+When bacteria {{c1::sexually reproduce}} (conjugation) resistance can be passed between the organisms on {{c2::plasmids}}.&nbsp;	
+A {{c1::pathogen can become resistant}} to a given antibiotic before it is used to fight them.	
+Resistance development is especially common in agriculture because {{c1::farm reared animals which are kept indoors commonly spread diseases among them as a result of the confined space}}.	
+Artificial selection mimics natural selection but happens at an {{c1::accelerated rate.}}	
+{{c1::Inbreeding}} occurs when the {{c2::gametes of close relatives fuse.}}	
+{{c1::Ecotourism}} is responsible travel to places which have n{{c2::atural environments that are in need of conservation}} and which the {{c3::tourism improves the well being of the local [human] population.}}	
+The goals of ecotourism include: {{c1::contributing to conservation}}, {{c2::employing local people}}, {{c3::giving back to the community}}, {{c4::co-operation with local people}} and {{c5::educating the visitors as well as the local people about the environmental issues involved}}.	
