@@ -1,0 +1,68 @@
+The {{c1::principal focus}} of a lens is {{c2::the point at which rays parallel to the principle axis converge.}}	
+The {{c1::focal length f}}, is {{c2::the distance between the optical centre of the lens and the principle focus}}.	
+The {{c2::power of a lens}} in dioptres is {{c1::1/ f}}	
+A refracting telescope is in {{c1::normal adjustment}} when the {{c2::objective and eyepiece lenses are separated by the sum of their focal lengths}}.	
+{{c1::Angular magnification}} = &nbsp;{{c2::ngle subtended by the IMAGE at the eye}} &nbsp;/&nbsp;angle subtended by the object at the unaided eye = {{c3::&nbsp;fo / fe}}	
+A {{c1::Cassegrain}} reflecting telescope has a {{c2::concave objective and a convex secondary mirror}}.	
+{{c1::Chromatic aberration}} is due to {{c2::longer (red)}} wavelengths of light being refracted through smaller angles by a lens than {{c3::shorter (blue)}} wavelengths.	
+{{c1::Spherical aberration}} is due to rays further from the axis of a spherical mirror meeting closer to the mirror than rays nearer to the axis.	
+{{c1::Rayleigh's Criterion}} states that 2 objects are just resolved when the {{c2::bright central maximum}} of one object coincides with the {{c3::first minimum of the other object}}.	
+The {{c1::resolving power}} of a telescope is the {{c2::smallest angular separation}} that can be observed, and is given by &nbsp;{{c3::θ = λ / D.}}	
+A {{c1::Charge Couple Device (CCD)}} is a silicon chip divided into {{c2::picture elements or pixels.}}	
+<div>Quantum efficiency = no. of incident photons producing a signal /&nbsp;total no. of incident photons</div>	
+The {{c1::resolving power}} of a {{c2::radio telescope}} is given by {{c3::Rayleigh's Criterion}}: &nbsp;{{c4::q = l / D}},	
+{{c1::Radio telescopes}} need a {{c2::large diameter}} to get a a good enough {{c3::resolving power.}}	
+{{c1::Infrared telescopes}} are best located in {{c2::space}} because {{c3::water vapour in the atmosphere absorbs the radiation}}.	
+Infrared telescopes are used to study {{c1::interstellar dust}} and {{c2::star formation.}}	
+{{c1::UV telescopes}} are best located in {{c2::space}} becauset {{c3::the atmosphere strongly absorbs}} {{c1::UV}} radiation.	
+{{c1::UV telescopes}} are used to determine {{c2::chemical composition}} as well as {{c3::densities and temperatures}} of starts.	
+{{c1::Apparent magnitude m}} = {{c2::brightness as observed from Earth}}	
+{{c1::Low apparent magnitude}} =&gt; {{c2::brighter appearance}}.	
+The Sun's apparent magintude is {{c1::-26}}.	
+The {{c1::highest (dimmest)}} apparent magnitude that can be seen with the naked eye is {{c2::+6.}}	
+{{c1::Absolute magnitude M}} = {{c2::brightness we would observe from a distance of 10Pc}}	
+{{c1::m &nbsp;- &nbsp;M}} &nbsp;= {{c2::5 log (d / 10)}}	m (apparent magnitude), M (absolute magnitude), d (distance from earth)
+{{c1::1 Astronomical Unit (AU)}} &nbsp;is the {{c2::distance between the Earth and the Sun}}.	
+A star at a distance of {{c1::1 Parsec}} subtends an angle of {{c2::1 arcsecond}} across {{c3::1AU}}	
+{{c1::1 lightyear (ly)}} is the {{c2::distance travelled by light in 1 year.}}	
+A {{c1::black body}} is a {{c2::perfect emitter and absorber of electromagnetic radiation.}}	
+We assume that {{c1::stars}} are {{c2::black body emitters.}}	
+What peak wavelength will a hot black body emitter emit?	<img src="astrop3.jpg" />
+What is Wien's Law?	The wavelength at which most radiation is emitted is inversely proportional to the absolute temperature.
+What is Wien's Law (in equation form)?	λmaxT = constant = 0.0029mK
+What is Stefan's Law?	The luminosity of a star is proportional to its surface area, and to the fourth power of its absolute temperature.
+The {{c2::luminosity}} of a star is a measure of its {{c1::power output}}.	
+What is Stefan's Law (in equation form)?	P = σAT^4
+What are the stellar spectral classes?	O B A F G K M
+Which is the hottest spectral class?	O
+What colour light is emitted by O class stars?	Blue
+What colour is emitted by M class stars?	Red
+What class are the coolest stars?	M
+When do balmer absorption lines for hydrogen appear?	When hydrogen atoms in the star get excited to the n=2 level.
+The {{c1::intensity}} of the balmer absorption lines for hydrogen {{c2::depends on the temperature of the star.}}	
+Draw a HR diagram	<img src="astrop5.jpg" />
+Draw the suns evolution	<img src="astrop8.jpg" />
+Where on the HR diagram does the sun spend most of its life?	the main sequence&nbsp;(13 billion yrs)
+Stars {{c2::larger than the sun}} burn through {{c3::hydrogen at a increase rate}} so {{c1::have shorter lifespans.}}	
+A {{c1::supernova}} is a very {{c2::luminous}} {{c3::star explosion}}.	
+{{c1::Supernovae}} occur at the {{c3::end}} of {{c2::very large stars}} lives.	
+{{c1::Neutron stars}} are the remains of a {{c2::massive star}} consisting {{c3::entirely of neutrons}}.	
+{{c2::Neutron stars}} have an escape velocity {{c1::close to light speed.}}	
+{{c1::Escape velocity}} is&nbsp;the {{c2::smallest velocity that a body must have in order to escape the gravitational attraction of a particular planet or other object.}}	
+{{c1::A black hole}} is the&nbsp;remains of {{c2::very massive star.}}	
+{{c1::Black holes}} absorb {{c2::all light that hit them.}}	
+The {{c1::escape velocity}} of a {{c2::black hole}} is {{c3::greater than the speed of light}} - hence they are impossible to escape from.	
+The {{c1::event horizon}} of a black hole is the boundary {{c2::beyond which light cannot escape.}}	
+The {{c1::radius of a black hole's event horizon}} is called the {{c2::Schwarzschild radius}}	Symbol Rs
+The equation for the&nbsp;{{c2::Schwarzschild radius of a black hole}} is {{c3::2GM / c^2}}	
+{{c1::Dopper shift}} is {{c2::postive}} if the {{c3::body is moving away from the observer}}.	
+{{c1::Dopper shift}} is {{c2::negative}} if the {{c3::body is moving towards the observer}}.	
+Evidence for the {{c1::big bang theory}} includes, {{c2::observed red shift}} of galaxies and {{c3::cosmic microwave background radiation.}}	
+{{c1::Hubbles law}} states that {{c2::the distance of the earth to a galaxy is directly proportional to the recessional velocity}}.	
+{{c2::Hubble's Law}} can be expressed as the formula {{c1::v = Hd}}	In which H is the hubble constant
+{{c1::1/H (H = hubbles constant)}} gives the {{c2::age of the universe.}}	
+{{c4::Quasars}} are the {{c3::most distant}}, the {{c2::most luminous}} and the most {{c1::red-shifted bodies}} discovered so far.	
+{{c1::Quasars}} were discovered because {{c2::many are intense radio emitters.}}	
+An {{c1::open universe}} will {{c2::expand forever}}.	
+A {{c1::closed universe}} will {{c2::collapse}} in an event called the {{c3::"Big Crunch"}}	
+Determing the {{c1::type of the universe}} relies on knowing its {{c2::density.}}	
