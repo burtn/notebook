@@ -1,0 +1,11 @@
+In the 19th century when photography was first invented astronomers began using photographic films in order to capture images. Today CCDs are used. Charge couples devices extend the distance at which astronomers can see and improve image quality.
+
+A CCD is an array of pixels which are sensitive to photons. Like film the CCD is exposed to light for a set period of time. During this time a charge accumulates in each pixel. To read the CCD data it has to be connected to an output electrode. The charge from each pixel is transferred to the electrode in turn which is itself connected to a capacitor. To read the voltage of each pixel the capcitor is discharged and recharged by the next pixel. The resulting output signal is a series of voltage 'pulses' which are proportional to the light incident on each pixel. Each pixel contains 3 electrodes, one for each colour in the RGB colour model - red, green and blue.
+
+Each electrode is insulated from its neighbours by a thin layer of silicon dioxide. Under each electrode is p-type silicon which is light sensitive. Each electrode is connected to the output and the other electodes through voltage supply lines. The purpose of these lines is to allow each pixel to be read individually.
+
+CCDs have a number of advantages over film. The quantum efficiency of CCDs compared with film is far greater, 70% in comparison with 4%. The quantum efficiency of a pixel is the percentage of incident photons which liberate an electron in the silicon. CCDs have a high quantum efficiency so can detect fainter objects.
+
+CCDs can also record video by reading out a series of images in quick succession. CCDs are also sensitive to a wider range of wavelengths than the unaided human eye - this means they can be used to take infrared images.
+
+There are also a few disadvantages which ares specific to astronomical CCDs compated with comercial CCDs that you might find in a digital camera say. These are that the astronomical CCDs require a greater number of pixels are so are significantly more expensive. They also have to be cooled to very low temperatures with liquid nitrogen.
