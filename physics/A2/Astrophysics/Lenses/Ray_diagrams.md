@@ -1,19 +1,20 @@
 In a ray diagram...
 
 * The lens is represented by a single line at which refraction takes place.
-* The principal axis is a straight line perpendicular to the lens and passing through the center.
-* The pricipal focus is the same distance either side of the lens.
-* The object is represted by an arrow from the pincipal axis.
+* The principal axis is a straight line perpendicular to the lens and passing through the centre.
+* The principal focus is the same distance either side of the lens.
+* The object is represented by an arrow from the principal axis.
 
 A ray diagram consists of 3 rays as shown below
 
-* The first ray runs parallal to the axis then is refracted to the principal focucs.
-* The second ray passes directly through the center of the lens without changing direction.
-* The thrid ray passes through F on the object side of the lens and is refracted parallel to the axis.
+* The first ray runs parallel to the axis then is refracted to the principal focus.
+* The second ray passes directly through the centre of the lens without changing direction.
+* The third ray passes through F on the object side of the lens and is refracted parallel to the axis.
 
 Depending on the position of the object the formed image may vary:
 
-<img src+"https://dl.dropboxusercontent.com/u/4875815/screenshots/Screen%20Shot%202013-06-15%20at%2010.13.24.png"></img>
+<img 
+src="https://dl.dropboxusercontent.com/u/4875815/screenshots/Screen%20Shot%202013-06-15%20at%2010.13.24.png"></img>
 
 * If the object is beyond 2F a real and diminished image is formed. (see above)
 * If the object is at 2F then a image the same size as the object is formed at 2F on the other side of the lens.
