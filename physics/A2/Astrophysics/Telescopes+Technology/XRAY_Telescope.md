@@ -1,0 +1,3 @@
+As for IR and IV telecopes X-ray telescopes must be launched on satelites because the atmopshere absorbs X-ray radiation. X-ray telescopes function by using mirrors arranged in a funnel to direct x-rays onto a detector. The mirrors have to be positioned so that the x-rays graze the mirrors slightly directing them towards the mirror.
+
+X-ray telescopes have been used in the discovery of X-ray pulsars and 'bursters'.
