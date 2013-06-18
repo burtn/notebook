@@ -1,0 +1,5 @@
+Red giants of mass less tha 8 solar masses eventually become white dwarfs. Because the nuclear fusion in the stars core has stopped the core cools and contracts and the stars outer layers are thrown off. These shells of hot gas form planettary nebullae around the star this happens through mechanisms like ionisation where trapped radiation is suddenly released as the star cools.
+
+The formation of a white dwarf may also produce some heavy nuclei like iron before all the light nuclei in the core are used up. Large white dwarfs also explode as supernovae if their white hot core is more than 1.4 solar masses. Less than this and the electrons cannot get any closer so the stable core simply radiates heat into space until the star becomes invisible.
+
+Although the star is said to be mid life it still has quite a way to go before it 'dies'. In around 5000 million years time the sun will enter the red giant phase where it will remain for 2 billion years before forming a white dward no larger than the earth and the fade away over the next 3 billion or so years.
