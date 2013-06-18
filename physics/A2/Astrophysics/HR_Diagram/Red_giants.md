@@ -1,0 +1,5 @@
+Red giants are formed when almost all of the hydrogen in the core of the sun has been converted into helium. This causes the core to collapse in on itself whilst the outer layers expand cooling as they do so. As the star grows in size it moves from the main sequence to a supergiant star position.
+
+During the formation of the red giant heavier nuclei are formed by helium fusion. The red giant is cooler then the main sequence star because both the luminosity and peak wavelength increases (see Wien's law). The time that the star spends in the portion of its lifecycle is about 0.2 times as long as the main sequence period. The star can the follow either one of two routes dependant on its mass.
+
+Below 8 solar masses (8x sun mass) a red giant will eventually become a white dwarf whilst beyond 8 solar masses a red giant will swell more before exploding as a supernovae.
