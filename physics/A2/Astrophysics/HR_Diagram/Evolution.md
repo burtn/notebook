@@ -1,0 +1,11 @@
+By stellar standards the sun is in the middle of its life. It is only 4600 million years old. Currently it is producing energy by nuclear fusion which converts hydrogen to helium. This process happens in the core but the heat generated heats the photosphere causing light to be emitted. The sun and other main sequence stars are in a state of equilibreum where the gravitational force pulling inwards is balanced by radiation pressure outwards. Eventually the sun will become a red giant as it evolves.
+
+Al stars follow a similar lifecycle beginning with formation. Stars form from dust and gas clouds in space which contract under their own gravitational attraction to become increasingly dense. Stars at this stage are called protostars. The star gets increasingly how has it grows more dnse. This is because in the collpase the gravitationel potential energy of the atoms in the dust and gas is converted to thermal energy.
+
+Eventually the protostar gains enough mass by accretion to have a core hot enough for nuclear fusion. The energy released by the nuclear fusion sustains the reaction as long as there are sufficiently light nuclei present. Becase of the fusion the photosphere of the protostar becomes hot enough to emit light - at this point the protostar is now a star. This may not happen if the star does not gain enough mass to start nuclear fusion. If this happens the star simple cools once it has stopped contracting.
+
+The newly formed stars reach en equilibreum state at which they have constant luninosity. This is when the star is on the main sequence. A star will remain on the main sequence for most of its life so long as it can burn the hydrogen in its core. The stars position on the main sequence (HR plot) is dictated by its mass, the greater the mass the greater the luminosity/absolute magnitude.
+
+---
+
+Some stars do not have constant luminosity instead they pulsate. Cepheid variables are one star group. Cepheid variables pulse with a period last a number of days which is directly correlated to the luminosity of the star. Using this information the distance to distant Cepheids can be found from comparison with those nearby.
