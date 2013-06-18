@@ -1,0 +1,1 @@
+The power output from the sun is approximately 4e26 J/s. The intensity 1400 Watts per metre squared. A 1x1 metre sized solar panel in direct sunlight will therefore recieve 1400J of energy every second.
