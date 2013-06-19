@@ -1,0 +1,3 @@
+Quasars are some of the oldest, most distant (from earth) objects in the Universe. Quasars or quasi-stellar objects were first discovered for being strong radio emitters though many quasars do not in fact emit radiio waves.
+
+The properties of quasars include their very powerful light output, relative small size and large red shift. This large shift puts them at between 5 and 10 thousand light years away. The speed of recession for quasars is very large - upto 95% (from 60%) of the speed of light. This means that v = zc cannot be used because the statement v << c is false. Instead a relativistic equation must be used - that is an equation that takes into account dilation of time as per special relativity.
