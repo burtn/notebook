@@ -1,0 +1,9 @@
+A black hole is an object whose escape velocity is greater than the speed of light. Black holes do not emit photons and absorb all incident photons. Which pass beyond the event horizon of the black hole. The event horizon is the boundary of a sphere around the black hole where the escape velocity is the speed of light, c or 3e8 metres per second. The radius of this sphere is called the Schwarzchild radius of the black hole. For a black hole of mass M the radius is given as R = 2GM/c² where G is the universal gravitational constant.
+
+Black holes are formed when large supernovae (with cores greater than 3 solar masses) collapse further because the neutrons are unable to withstand the forces pushing in on it making it so dense that light cannot escape.
+
+We are unsure as to what happens in a black hole, physical laws as we known them may not apply. It is impossible to observe what happens within the event horizon of a black hole. We do know however that mass is drawn towards a singularity at the center of the black hole and stops emitting radiation of any kind past the event horizon. This accumulation of mass causes the black hole to grow. Black holes may be charged or rotating and the matter it draws in can impact this though the chemical properties of such matter are irrelevant.
+
+Evidence for black holes comes from the X-rays emitted by the hot matter as it falls towards the hole. Evidence indicates that black holes may form in binary systems where one star has gone supernova whilst the other remains in the late stages of its life.
+
+As well as 'standard' black holes there are also supermassive black holes, thought to be found at the centre of may galaxies. Stars are clustered close together at the centre of galaxies so a supermassive black hole could 'consume' millions of stars gaining enough matter to become a supermassive blackhole.
