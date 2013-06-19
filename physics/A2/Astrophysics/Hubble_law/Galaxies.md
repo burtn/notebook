@@ -1,0 +1,5 @@
+The universe consists of many galaxies like Andromeda and the Milky Way. Each contains trillions of stars. The line spectra of these stars was examined by astronomers and found to be red shifted. Edwin Hubble studied nearby galaxies, taking measurements of its red shift and recession speed. Along with this he determined and recorded the distance from the earth by measuring the period of cepheid variables.
+
+From his data Hubble found that the speed of recession 'v' is directly proportianal to the distance between the earth and the galaxt 'd'. This can be expressed mathematically: v ∝ d or with a constant of proportionality V = Hd where H is Hubble's constant. Speed measured using this formula are in km/s and distances in MPc. H is widely accepted to be 65 (km/s)/Mpc.
+
+Local galaxies like Andromeda do not fit Hubble's law because their gravitational interactions have affected their directions of motion.
