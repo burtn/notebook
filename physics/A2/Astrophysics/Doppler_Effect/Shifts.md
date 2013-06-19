@@ -1,0 +1,3 @@
+The wavelength of light from stars varies based on the motion of the star relative to the earth. Stars moving away from earth produce light of longer wavelength whilst those moving towards us produce shorter wavelengths. This effect known as the Doppler effect applies to all waves.
+
+The doppler shift z is the shift in frequency or wavelength and is equal to v/c for v << c. Red shifts are shifts to longer wavelengths (stars moving away) whilst blue shifts are shifts to shorter wavelengths (stars moving mearer). The change frequency indicated by a Doppler shift is the change in frequency between that observed in the laboratory and that observed by an observer.
