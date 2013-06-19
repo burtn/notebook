@@ -1,0 +1,3 @@
+Hubbles law also provides us with a means to estimate the age of the universe.
+
+The maximum speed reachable in the universe is that of light. 3e8 m/s. Though a galaxy could receed at close to the speed of light it would never quite make it therefore v < c. Since in hubbles law v = Hd we can say that Hd < c. Rearranging for distance gices d < c/H. This leaves c/H as the furthest distance that light could have travelled since the beginning of the universe. We know that displacement (s) is speed * time (s = vT)  so it follows that vT = c/H. Since v is also equal to c (the speed of light) they cs cancel leaving T = 1/H which gives an age for the universe at 4.7e17s or 14 Gyr (14 billion years). That's 1.5x the estimated lifetime of the sun and 21x the half-life of U235.
